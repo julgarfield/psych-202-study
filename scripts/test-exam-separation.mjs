@@ -1,0 +1,23 @@
+import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';import {webcrypto} from 'node:crypto';
+const dist=new URL('../dist/',import.meta.url);
+function device(){const data=new Map(),ctx={Date,crypto:webcrypto,localStorage:{getItem:k=>data.get(k)??null,setItem:(k,v)=>data.set(k,String(v))}};vm.createContext(ctx);for(const file of ['progress.js','storage.js','exam2-store.js'])vm.runInContext(fs.readFileSync(new URL(file,dist),'utf8'),ctx);vm.runInContext('globalThis.qa={initializeProgress,appendProgress,mergeCloudEvents,accountProgress,guestProgress,mergeProgressExport,events:()=>progressEvents};',ctx);ctx.qa.initializeProgress();return {ctx,data};}
+const a=device(),b=device();
+a.ctx.qa.appendProgress('answer','neuron-q0',{correct:false});
+const exam1Bytes=a.data.get('psych202-exam1-v2:guest');
+a.ctx.Exam2Store.record('answer','exam2-memory-encoding-q0',{correct:true});a.ctx.Exam2Store.record('lesson','exam2-memory-encoding',{value:true});a.ctx.Exam2Store.record('card','exam2-memory-encoding-c0',{streak:1,due:Date.now()+86400000});a.ctx.Exam2Store.record('video','0',{value:true});
+assert.equal(a.data.get('psych202-exam1-v2:guest'),exam1Bytes,'Exam 2 changed Exam 1 storage');
+let all=[...a.ctx.qa.events(),...a.ctx.Exam2Store.events()];
+let one=b.ctx.qa.mergeCloudEvents(all),two=b.ctx.Exam2Store.merge(all);
+assert.deepEqual(Object.keys(one.questions),['neuron-q0']);assert.deepEqual(Object.keys(two.questions),['exam2-memory-encoding-q0']);assert.equal(one.videos.length,0);assert.equal(two.videos.length,1);assert.equal(one.completed.length,0);assert.equal(two.completed.length,1);
+b.ctx.qa.mergeCloudEvents(all);b.ctx.Exam2Store.merge(all);assert.equal(b.ctx.Exam2Store.state().questions['exam2-memory-encoding-q0'].attempts,1,'Cloud replay duplicated an answer');
+assert.throws(()=>a.ctx.qa.mergeProgressExport(a.ctx.Exam2Store.exportFile()),/another exam/);
+assert.throws(()=>a.ctx.Exam2Store.importFile({version:2,examId:'exam1',events:a.ctx.qa.events()}),/another exam/);
+assert.throws(()=>a.ctx.Exam2Store.importFile({version:2,examId:'exam2',events:a.ctx.qa.events()}),/invalid/);
+a.ctx.qa.accountProgress('first-user');a.ctx.Exam2Store.adopt('first-user');assert.equal(Object.keys(a.ctx.Exam2Store.state().questions).length,1);
+a.ctx.qa.accountProgress('second-user');a.ctx.Exam2Store.adopt('second-user');assert.equal(Object.keys(a.ctx.Exam2Store.state().questions).length,0);assert.equal(a.ctx.qa.events().length,0);
+a.ctx.Exam2Store.record('answer','exam2-emotion-theories-q0',{correct:false});
+a.ctx.Exam2Store.adopt('first-user');assert.equal(a.ctx.Exam2Store.state().questions['exam2-memory-encoding-q0'].lastCorrect,true);assert.equal(a.ctx.Exam2Store.state().questions['exam2-emotion-theories-q0'],undefined);
+a.ctx.Exam2Store.adopt(null);assert.equal(Object.keys(a.ctx.Exam2Store.state().questions).length,1);assert.equal(a.ctx.Exam2Store.state().questions['exam2-emotion-theories-q0'],undefined);
+const export2=a.ctx.Exam2Store.exportFile();b.ctx.Exam2Store.importFile(export2);assert.equal(b.ctx.Exam2Store.state().questions['exam2-memory-encoding-q0'].attempts,1);
+const future={id:'future-example',at:Date.now(),examId:'exam3',type:'answer',target:'exam3-example-q0',correct:true};assert.equal(b.ctx.qa.mergeCloudEvents([future]).questions['exam3-example-q0'],undefined);assert.equal(b.ctx.Exam2Store.merge([future]).questions['exam3-example-q0'],undefined);
+console.log('PASS: separate exam storage, cloud filtering, replay deduplication, strict import routing, guest/account ownership, account switching, and future-exam isolation.');

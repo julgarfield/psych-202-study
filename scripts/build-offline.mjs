@@ -1,0 +1,6 @@
+import fs from 'node:fs';import path from 'node:path';
+const dist=path.resolve(import.meta.dirname,'../dist');let html=fs.readFileSync(path.join(dist,'index.html'),'utf8').replace('<html lang="en">','<html lang="en" data-offline="true">');
+html=html.replace(/<link rel="stylesheet" href="style\.css(?:\?[^\"]*)?">/,'<style>'+fs.readFileSync(path.join(dist,'style.css'),'utf8')+'</style>');
+const assets=new Map(fs.readdirSync(path.join(dist,'assets')).filter(n=>/\.(png|jpg)$/.test(n)).map(n=>['assets/'+n,'data:image/'+(n.endsWith('.png')?'png':'jpeg')+';base64,'+fs.readFileSync(path.join(dist,'assets',n)).toString('base64')]));
+html=html.replace(/<script src="([^"]+)"><\/script>/g,(_all,src)=>{const name=src.split('?')[0];if(name==='assets/supabase.js')return '';let code=fs.readFileSync(path.join(dist,name),'utf8');for(const [ref,data] of assets)code=code.split(ref).join(data);return '<script>'+code.replace(/<\/script/gi,'<\\/script')+'</script>';});
+html=html.replace('id="offlineDownload"','id="offlineDownload" hidden');fs.writeFileSync(path.join(dist,'offline.html'),html);console.log('Updated self-contained offline edition ('+Math.round(Buffer.byteLength(html)/1024)+' KB).');
