@@ -32,3 +32,133 @@
 #exam2ReviewTopics{max-height:680px;overflow:auto;padding-right:8px;scrollbar-gutter:stable}
 #exam2ReviewTopics:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
 @media(max-width:720px){#exam2ReviewTopics{max-height:540px;padding-right:4px}}
+
+/* ───────── Visual polish layer: depth, type and motion on top of the per-exam color tokens. ───────── */
+:root{--radius:16px;--radius-sm:10px;--shadow-sm:0 1px 2px color-mix(in srgb,var(--ink) 6%,transparent),0 1px 3px color-mix(in srgb,var(--ink) 5%,transparent);--shadow:0 1px 2px color-mix(in srgb,var(--ink) 5%,transparent),0 8px 24px -8px color-mix(in srgb,var(--ink) 14%,transparent);--shadow-lg:0 2px 4px color-mix(in srgb,var(--ink) 6%,transparent),0 24px 48px -16px color-mix(in srgb,var(--ink) 30%,transparent);--line:color-mix(in srgb,var(--ink) 12%,white);--display:"Fraunces",Georgia,"Times New Roman",serif;font-family:"Inter",ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-feature-settings:"cv11","ss01";-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+body{background:radial-gradient(1200px 500px at 85% -10%,color-mix(in srgb,var(--mint) 22%,transparent),transparent 70%),var(--paper);background-attachment:fixed;min-height:100vh}
+::selection{background:color-mix(in srgb,var(--mint) 70%,white);color:var(--ink)}
+
+/* Header */
+header{position:relative;overflow:hidden;background:radial-gradient(700px 260px at 100% 0%,color-mix(in srgb,var(--mint) 28%,transparent),transparent 70%),radial-gradient(500px 220px at 0% 120%,color-mix(in srgb,var(--accent) 55%,transparent),transparent 70%),linear-gradient(135deg,var(--ink),color-mix(in srgb,var(--ink) 82%,var(--accent)));padding-top:26px}
+header:before{content:"";position:absolute;inset:0;background-image:radial-gradient(color-mix(in srgb,white 9%,transparent) 1px,transparent 1px);background-size:22px 22px;mask-image:linear-gradient(90deg,transparent 30%,black);pointer-events:none}
+header>*{position:relative}
+.brand{letter-spacing:.14em;font-size:15px}
+.mark{background:linear-gradient(145deg,white,var(--mint) 60%);box-shadow:0 6px 18px -6px color-mix(in srgb,var(--mint) 80%,transparent),inset 0 -2px 0 color-mix(in srgb,var(--ink) 12%,transparent);font-family:var(--display);font-weight:700;font-size:27px;border-radius:13px;transform:rotate(-4deg);transition:transform .3s}
+.brand:hover .mark{transform:rotate(0)}
+.exam-meta strong{font-family:var(--display);font-weight:600;font-size:18px;letter-spacing:-.01em}
+.exam-switch select{border:1px solid color-mix(in srgb,white 35%,transparent);background:color-mix(in srgb,white 12%,transparent);color:white;border-radius:10px;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);font-weight:650}
+.exam-switch select option{color:var(--ink);background:white}
+nav{gap:4px;padding-top:4px;scrollbar-width:none}nav::-webkit-scrollbar{display:none}
+nav button{border-radius:12px 12px 0 0;padding:13px 18px 15px;color:color-mix(in srgb,white 72%,transparent);transition:color .15s,background .15s}
+nav button:hover:not(.active){color:white;background:color-mix(in srgb,white 8%,transparent)}
+nav button.active{background:var(--paper);color:var(--ink);box-shadow:0 -6px 16px -6px color-mix(in srgb,black 30%,transparent)}
+
+/* Progress + account strips */
+.progress-strip{background:color-mix(in srgb,white 55%,var(--paper));backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);position:sticky;top:0;z-index:5;border-bottom:1px solid var(--line)}
+progress{height:10px;border-radius:99px;background:color-mix(in srgb,var(--ink) 9%,white)}
+progress::-webkit-progress-bar{background:color-mix(in srgb,var(--ink) 9%,white);border-radius:99px}
+progress::-webkit-progress-value{background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 55%,var(--mint)));border-radius:99px}
+progress::-moz-progress-bar{background:linear-gradient(90deg,var(--accent),color-mix(in srgb,var(--accent) 55%,var(--mint)));border-radius:99px}
+.progress-strip #resume{margin-left:auto;background:var(--accent);color:white;padding:8px 16px;border-radius:99px;box-shadow:var(--shadow-sm)}
+.progress-strip #resume:hover{filter:brightness(1.08)}
+.account-bar{background:transparent;border-bottom:1px solid var(--line)}
+
+/* Sidebar */
+.shell{gap:0}
+aside{position:sticky;top:57px;align-self:start;max-height:calc(100vh - 57px);overflow:auto;scrollbar-width:thin;border-right:1px solid var(--line)}
+aside .label{color:var(--accent)}
+aside details{background:white;border:1px solid var(--line);border-radius:var(--radius-sm);padding:4px 8px;box-shadow:var(--shadow-sm)}
+aside summary{padding:10px 4px;list-style:none}aside summary::-webkit-details-marker{display:none}
+aside summary small{background:var(--soft);color:var(--accent);padding:2px 8px;border-radius:99px}
+aside summary:after{color:var(--accent)}
+aside button{transition:background .15s,color .15s;margin:1px 0}
+aside button:hover:not(.selected){background:var(--soft);color:var(--ink)}
+aside button.selected{background:linear-gradient(135deg,var(--ink),color-mix(in srgb,var(--ink) 75%,var(--accent)));box-shadow:var(--shadow)}
+aside button .num{font-variant-numeric:tabular-nums}
+aside .gap-card{background:linear-gradient(145deg,color-mix(in srgb,var(--orange) 22%,white),color-mix(in srgb,var(--orange) 10%,white));border:1px solid color-mix(in srgb,var(--orange) 40%,white)}
+
+/* Typography */
+h1{font-family:var(--display);font-weight:650;letter-spacing:-.025em;font-size:clamp(30px,3.4vw,46px);line-height:1.08;font-optical-sizing:auto;text-wrap:balance}
+h2{font-family:var(--display);font-weight:600;letter-spacing:-.015em;text-wrap:balance}
+.eyebrow{display:inline-flex;align-items:center;gap:8px}
+.eyebrow:before{content:"";width:18px;height:2px;border-radius:2px;background:currentColor}
+.recall .eyebrow:before,.flash .eyebrow:before{background:var(--mint)}
+.reading p{text-wrap:pretty}
+.reading>p:first-child{font-size:19px;color:color-mix(in srgb,var(--ink) 90%,var(--accent))}
+.badge{background:white;box-shadow:var(--shadow-sm)}
+
+/* Cards */
+.panel,.question,.stat,.map-item,.video-item,.group-family,.figure,.reference-section,.result-list details,.diagram-wrap,.empty,.exam-empty,.terms{border-color:var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+.map-item,.video-item,.stat{transition:transform .2s,box-shadow .2s}
+.map-item:hover,.video-item:hover,.stat:hover{transform:translateY(-2px);box-shadow:var(--shadow-lg)}
+.stat b{font-family:var(--display);font-size:36px;color:var(--accent);font-weight:650}
+.terms{gap:0;background:white}.term{border-bottom:1px solid var(--line);border-right:1px solid var(--line);transition:background .15s}.term:hover{background:var(--soft)}
+.term strong{color:var(--accent)}
+.figure{padding:22px}.figure img{border-radius:8px}
+
+/* Recall + flashcards */
+.recall,.flash{position:relative;overflow:hidden;background:radial-gradient(500px 240px at 100% 0%,color-mix(in srgb,var(--mint) 22%,transparent),transparent 70%),linear-gradient(140deg,var(--ink),color-mix(in srgb,var(--ink) 78%,var(--accent)));box-shadow:var(--shadow-lg)}
+.recall h2{font-size:clamp(20px,2.2vw,26px)}
+.recall summary{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:99px;background:color-mix(in srgb,var(--mint) 16%,transparent);list-style:none}.recall summary::-webkit-details-marker{display:none}
+.flash{min-height:340px;border-radius:22px}
+.flash h2{font-size:clamp(26px,3vw,36px)}
+
+/* Steps */
+.steps span{background:white;border:1px solid var(--line);border-radius:99px;text-align:center;box-shadow:var(--shadow-sm)}
+.steps span:first-child{background:var(--accent);border-color:var(--accent);color:white}
+
+/* Buttons */
+.btn{border-radius:10px;box-shadow:0 1px 0 color-mix(in srgb,white 25%,transparent) inset,var(--shadow-sm);transition:transform .12s,filter .15s,background .15s,box-shadow .15s}
+.btn:hover:not(:disabled){filter:brightness(1.07);transform:translateY(-1px);box-shadow:var(--shadow)}
+.btn:active:not(:disabled){transform:translateY(0)}
+.btn.secondary{background:white;border:1px solid var(--line);color:var(--ink)}
+.btn.secondary:hover:not(:disabled){background:var(--soft);filter:none}
+.text-btn{border-radius:8px}.text-btn:hover{background:var(--soft)}
+
+/* Questions */
+.question-prompt{font-size:18px;letter-spacing:-.01em}
+.choice{border-color:var(--line);border-radius:12px;padding:13px 14px;align-items:center;transition:background .15s,border-color .15s,transform .12s}
+.choice:hover:not(:disabled){border-color:var(--accent);background:var(--soft);transform:translateX(3px)}
+.choice .letter{display:grid;place-items:center;min-width:28px;min-height:28px;border-radius:8px;border:0;background:var(--soft);color:var(--accent);flex-shrink:0;transition:background .15s,color .15s}
+.choice:hover:not(:disabled) .letter,.choice.picked .letter{background:var(--accent);color:white}
+.choice.correct .letter{background:var(--good);color:white}.choice.wrong .letter{background:var(--bad);color:white}
+.feedback{border-left:4px solid var(--good);border-radius:0 10px 10px 0}.feedback.bad{border-left-color:var(--bad)}
+.quiz-jump button{border-radius:8px;transition:background .15s}.quiz-jump button:hover{background:var(--soft)}
+.quiz-jump button.done{background:color-mix(in srgb,var(--mint) 55%,white)}
+.completion{background:linear-gradient(135deg,color-mix(in srgb,var(--mint) 45%,white),color-mix(in srgb,var(--mint) 20%,white));border:1px solid color-mix(in srgb,var(--mint) 70%,white)}
+.notice{border-radius:var(--radius-sm);border-left:4px solid var(--orange)}
+
+/* Inputs */
+select,.reference-search input,#signInForm input{border-color:var(--line);border-radius:10px;transition:border-color .15s,box-shadow .15s}
+select:hover,.reference-search input:hover{border-color:color-mix(in srgb,var(--accent) 50%,var(--line))}
+.reference-search input:focus,#signInForm input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 4px color-mix(in srgb,var(--accent) 18%,transparent)}
+.reference-section summary{border-radius:var(--radius)}.reference-section summary:hover{background:var(--soft)}
+th{background:var(--soft)}
+
+/* Footer */
+footer{background:color-mix(in srgb,white 45%,var(--paper));margin-top:40px;padding:28px 4vw}
+.toast{border-radius:99px;box-shadow:var(--shadow-lg)}
+
+/* Entrance motion */
+@media(prefers-reduced-motion:no-preference){
+main>*{animation:rise .35s cubic-bezier(.2,.7,.3,1) both}
+main>*:nth-child(2){animation-delay:.03s}main>*:nth-child(3){animation-delay:.06s}main>*:nth-child(4){animation-delay:.09s}main>*:nth-child(n+5){animation-delay:.12s}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+}
+
+@media(max-width:720px){
+aside{position:static;max-height:none;overflow:visible}
+aside details{box-shadow:none}
+.progress-strip #resume{padding:6px 12px}
+.mark{height:40px;width:40px;font-size:23px}
+.exam-meta strong{font-size:15px}
+.choice:hover:not(:disabled){transform:none}
+.progress-strip{position:static}
+.brand{letter-spacing:.08em}.brand small{letter-spacing:.06em}
+}
+.reading strong{font-weight:650;color:var(--ink);background:linear-gradient(transparent 62%,color-mix(in srgb,var(--mint) 45%,transparent) 62%);padding:0 1px}
+
+/* Chapter supplements share the existing study palette and reading layout. */
+.textbook-intro{max-width:72ch}.textbook-chapter{margin:2.5rem 0}.textbook-chapter>h2{margin-bottom:.6rem}.textbook-table{overflow-x:auto;margin:1.2rem 0;border:1px solid var(--soft);border-radius:10px}.textbook-table table{border-collapse:collapse;width:100%;min-width:440px;font-size:.92rem;line-height:1.65}.textbook-table th,.textbook-table td{text-align:left;vertical-align:top;padding:12px;border-bottom:1px solid var(--soft)}.textbook-table th{background:var(--soft);color:var(--ink)}#textbookSearch{width:100%}#textbookPractice .question{margin-top:1.4rem}#textbookNotes .reading{padding-top:12px}#textbookNotes strong{color:var(--ink)}
+
+.textbook-scope{display:flex;align-items:center;gap:10px;margin:1rem 0 1.6rem;font-weight:500}.textbook-scope input{width:18px;height:18px;flex:none}

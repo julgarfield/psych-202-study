@@ -1,0 +1,7 @@
+.DS_Store
+.claude/
+dist/
+.env
+.env.*
+!.env.example
+supabase/.temp/

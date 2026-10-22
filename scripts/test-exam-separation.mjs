@@ -1,5 +1,5 @@
 import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';import {webcrypto} from 'node:crypto';
-const dist=new URL('../dist/',import.meta.url);
+const dist=new URL('../site/',import.meta.url);
 function device(){const data=new Map(),ctx={Date,crypto:webcrypto,localStorage:{getItem:k=>data.get(k)??null,setItem:(k,v)=>data.set(k,String(v))}};vm.createContext(ctx);for(const file of ['progress.js','storage.js','exam2-store.js'])vm.runInContext(fs.readFileSync(new URL(file,dist),'utf8'),ctx);vm.runInContext('globalThis.qa={initializeProgress,appendProgress,mergeCloudEvents,accountProgress,guestProgress,mergeProgressExport,events:()=>progressEvents};',ctx);ctx.qa.initializeProgress();return {ctx,data};}
 const a=device(),b=device();
 a.ctx.qa.appendProgress('answer','neuron-q0',{correct:false});

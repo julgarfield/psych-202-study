@@ -2,7 +2,7 @@
 (() => {
   'use strict';
   const recipient='juliangarfield@icloud.com',endpoint='https://formsubmit.co/ajax/'+recipient;
-  const site='https://psych-202-exam-one-study.juliangarfield.chatgpt.site';
+  const site='https://psych-202-exam-study.juliangarfield.chatgpt.site';
   const drafts=new Map(),statuses=new Map(),pending=new Set(),lastSubmission=new Map();
   function render(root,exam,esc){
     const draft=drafts.get(exam.id)||'',status=statuses.get(exam.id)||'';

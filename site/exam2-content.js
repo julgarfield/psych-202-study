@@ -1,4 +1,4 @@
-/* Assigned exclusively to Exam 2; sources include three decks and the instructor review sheet. */
+/* Assigned exclusively to Exam 2; sources include five decks and the instructor review sheet. */
 globalThis.EXAM2_CONTENT={
   "lessons": [
     {
@@ -118,7 +118,7 @@ globalThis.EXAM2_CONTENT={
         "The classic-theory diagram uses the same threatening bear to compare relationships among the event, bodily responses and fear. James–Lange places bodily responses—heart pounding, trembling, sweating and running away—between the event and the experienced emotion.",
         "Cannon–Bard draws separate paths from the event to fear and to the bodily responses. In this account, the emotional experience and bodily response occur in parallel rather than requiring the bodily response to produce the emotion first.",
         "Schachter–Singer is labeled the two-factor theory. Its diagram combines bodily arousal with an interpretation of the situation before the emotional experience. The bodily response and the appraisal of what is happening are both important to the account.",
-        "The contemporary-theory slide names SAME as an example and emphasizes appraisal. The deck does not expand the acronym or describe its components; those details remain to be added if further course notes are supplied."
+        "The contemporary-theory slide names SAME as an example and emphasizes appraisal."
       ],
       "terms": [
         {
@@ -355,7 +355,7 @@ globalThis.EXAM2_CONTENT={
         "The smile slides contrast voluntary and involuntary smiles and ask readers to identify a Duchenne versus a non-Duchenne smile. Attend to movement around the eyes as well as the mouth: the classic Duchenne pattern combines raised mouth corners with eye-area involvement. The accompanying muscle diagram labels orbicularis oculi around the eyes, zygomatic major along the cheeks toward the mouth corners, and orbicularis oris around the mouth.",
         "Facial-feedback research asks whether facial movement can affect emotional experience. This direction differs from asking whether an experienced emotion produces a facial expression.",
         "In the Strack, Martin and Stepper example, the independent variable is pen position: lip, teeth or control. The dependent variable is participants’ ratings of how funny a cartoon is. Distinguish the assigned facial-movement condition from the measured judgment.",
-        "The Botox slide presents another facial-feedback research example. The supplied slides do not report complete outcome data for the pen or Botox studies. Use them to understand the question and design; do not supply a result or treatment claim from a before/after facial photograph. Similarly, a smile’s visible pattern is not a direct measurement of the person’s entire private emotional state."
+        "The Botox slide presents another facial-feedback research example. Use the pen and Botox examples to understand the research question and design; do not infer a result or treatment claim from a before/after facial photograph. Similarly, a smile’s visible pattern is not a direct measurement of the person’s entire private emotional state."
       ],
       "terms": [
         {
@@ -465,7 +465,7 @@ globalThis.EXAM2_CONTENT={
       "title": "Reading the Rump emotion-recognition figure",
       "source": "202 F26 Emotion and Motivation.pptx · slides 24–25",
       "body": [
-        "The Rump et al. figure compares bars labeled Autism Group and Control Group for Happy, Sad, Afraid and Angry. The vertical axis is 'Number of Consecutive Levels Recognized.' It is not a percentage axis, and the supplied slide does not define a conversion from that count to percent accuracy.",
+        "The Rump et al. figure compares bars labeled Autism Group and Control Group for Happy, Sad, Afraid and Angry. The vertical axis is 'Number of Consecutive Levels Recognized.' It is not a percentage axis.",
         "Both groups have their highest displayed value for Happy. The control-group bar is higher in each displayed category, with visibly larger between-group gaps for Afraid and Angry than for Sad. Keep those statements tied to this displayed measure and these categories.",
         "The plot describes group results. It does not provide an individual diagnostic rule, show that a person cannot recognize an emotion, or demonstrate what caused a group difference. Its task measure should also not be substituted for empathy or for emotion production."
       ],
@@ -1429,7 +1429,7 @@ globalThis.EXAM2_CONTENT={
         "The lecture describes both long-term duration and capacity as probably unlimited. Preserve the word probably: the slide does not establish a guaranteed boundless store or perfect retention of every experience.",
         "The spreading-activation figure represents related concepts as a connected network. RED is linked with concepts such as roses, apples and a fire engine, which are themselves linked with other concepts. The model represents association among stored concepts rather than a list of isolated entries.",
         "Schemas are sets of expectations about objects and situations. The restaurant illustration gives a setting in which expectations about serving food and the surrounding situation can guide interpretation.",
-        "The lecture also names Highly Superior Autobiographical Memory, or HSAM, and points to an example. The supplied slides do not describe the linked example’s methods, specific abilities or results."
+        "The lecture also names Highly Superior Autobiographical Memory, or HSAM, and points to an example."
       ],
       "terms": [
         {
@@ -2027,7 +2027,7 @@ globalThis.EXAM2_CONTENT={
       "title": "Recognition, recall and tip-of-the-tongue states",
       "source": "202 F26 Memory I.pptx · slides 27–28",
       "body": [
-        "Recognition and recall are contrasting retrieval tasks. Recognition identifies previously encountered information when it is presented; recall produces information from memory rather than selecting the target from presented alternatives. The slide names this distinction without providing a separate comparison experiment.",
+        "Recognition and recall are contrasting retrieval tasks. Recognition identifies previously encountered information when it is presented; recall produces information from memory rather than selecting the target from presented alternatives.",
         "The tip-of-the-tongue phenomenon involves difficulty retrieving a word that feels known. The supplied illustration includes an initial-letter hint while the name is still unavailable. The lecture says TOT hints at a gradual retrieval process: partial information can be accessible before the desired word is fully recovered.",
         "A retrieval difficulty is a problem recovering information. It should not automatically be treated as proof that the information was never encoded or that every related detail has disappeared."
       ],
@@ -2129,8 +2129,8 @@ globalThis.EXAM2_CONTENT={
       "source": "202 F26 Memory II.pptx · slides 3–9",
       "body": [
         "Retrieval is reconstructive rather than a literal replay. Stored information can be recovered in a form susceptible to distortion, so remembering an event does not itself establish an exact record of it.",
-        "The Loftus misinformation example separates what participants originally saw from what they later read. Everyone sees a stop sign. The manipulated variable is whether the later account says stop or yield; the dependent variable is recognition memory. The supplied slide states the design without reporting error rates or condition results.",
-        "The eyewitness discussion names the Steven Avery case. The slides state that the initial rape conviction was based on identification by Penny Beerntsen and that she saw Avery in the lineup, not Allen. Photo lineups and an interview are included as lecture material. The supplied slides do not provide later case outcomes or the interview’s specific statements."
+        "The Loftus misinformation example separates what participants originally saw from what they later read. Everyone sees a stop sign. The manipulated variable is whether the later account says stop or yield; the dependent variable is recognition memory.",
+        "The eyewitness discussion names the Steven Avery case. The slides state that the initial rape conviction was based on identification by Penny Beerntsen and that she saw Avery in the lineup, not Allen. Photo lineups and an interview are included as lecture material."
       ],
       "terms": [
         {
@@ -2229,10 +2229,10 @@ globalThis.EXAM2_CONTENT={
       "title": "Emotion and memory",
       "source": "202 F26 Memory II.pptx · slides 10–14",
       "body": [
-        "Memory and emotion can be strongly linked, and the lecture describes this connection as adaptive. The amygdala and hippocampus are both named in this discussion; the slide does not give a separate detailed account of each structure’s role.",
+        "Memory and emotion can be strongly linked, and the lecture describes this connection as adaptive. The amygdala and hippocampus are both named in this discussion.",
         "The mood congruence effect means that information with content matching a person’s current emotional state is retrieved more easily. This concerns the emotional content of the memory, rather than simply matching a physical setting.",
         "The weapon-focus slide names memory for detail and looking time. These distinguish a memory measure from an attention measure. Its photograph supplies an illustration, not a results graph or a measured direction or size of an effect.",
-        "The slides also name flashbulb memory and PTSD, illustrated by a public-event photograph and a photograph of distress. Detailed definitions and memory mechanisms for these topics still need the course explanation."
+        "The slides also name flashbulb memory and PTSD, illustrated by a public-event photograph and a photograph of distress."
       ],
       "terms": [
         {
@@ -2638,7 +2638,7 @@ globalThis.EXAM2_CONTENT={
       "body": [
         "Semantic memory tasks can be associated with different cortical activation patterns. The supplied figure labels an occipital-lobe contrast for naming animals but not tools, and a motor-cortex contrast for naming tools but not animals. Read these as the depicted task comparisons, not as proof that all knowledge of either category exists in one isolated region.",
         "The Alzheimer’s slide names low acetylcholine levels and changes in tau protein, described as tangles. Its anatomical illustration contrasts cortical and hippocampal shrinkage and enlarged ventricles with the comparison brain.",
-        "The lecture describes formation of new memories as more affected, with older episodic, semantic and nondeclarative-procedural memory less affected. Less affected does not mean universally unaffected. The slide also notes that memory for music can often be good and links this with emotional connection; it supplies no individual prediction or treatment result."
+        "The lecture describes formation of new memories as more affected, with older episodic, semantic and nondeclarative-procedural memory less affected. Less affected does not mean universally unaffected. The slide also notes that memory for music can often be good and links this with emotional connection."
       ],
       "terms": [
         {
@@ -2745,7 +2745,7 @@ globalThis.EXAM2_CONTENT={
       "source": "202 F26 Memory II.pptx · slide 23",
       "body": [
         "The lecture describes decay as difficulty retrieving information that has not been used for a long time. Preserve that retrieval wording rather than treating every lapse as proof that the entire stored representation has disappeared.",
-        "The method of savings measures retention of older information through a relearning comparison: does learning the material again require less effort than learning it initially? A relearning advantage can indicate retained information even when immediate recall is difficult. The supplied slide gives no numerical forgetting curve, trials or savings percentage."
+        "The method of savings measures retention of older information through a relearning comparison: does learning the material again require less effort than learning it initially? A relearning advantage can indicate retained information even when immediate recall is difficult."
       ],
       "terms": [
         {
@@ -2940,7 +2940,7 @@ globalThis.EXAM2_CONTENT={
       "title": "Study strategies and mnemonic devices",
       "source": "202 F26 Memory II.pptx · slides 26–29",
       "body": [
-        "The lecture lists distributed practice, exercise and sleep among approaches relevant to memory. Distributed practice spreads study across occasions. Exercise is associated in the slide with increased neurogenesis; sleep is associated with memory consolidation. The slide does not specify amounts or an individual outcome.",
+        "The lecture lists distributed practice, exercise and sleep among approaches relevant to memory. Distributed practice spreads study across occasions. Exercise is associated in the slide with increased neurogenesis; sleep is associated with memory consolidation.",
         "The next slide lists elaborative rehearsal, self-quizzing versus restudying, verbalizing material, linking information to the self and mnemonic devices. These are distinct study activities rather than interchangeable labels: making meaningful links differs from repeating material, and testing retrieval differs from looking over it again.",
         "The mnemonic image uses Please Excuse My Dear Aunt Sally to cue parentheses, exponents, multiplication, division, addition and subtraction. It illustrates an organizing cue for a sequence; this memory lesson does not add new mathematics rules.",
         "The method of loci is a location-based mnemonic using places as memory cues. The demo slide says it compared rote rehearsal with the method of loci and asks which led to better recall. The supplied material does not state the winner, recall counts or other demo results."
@@ -3050,6 +3050,2125 @@ globalThis.EXAM2_CONTENT={
       "figure": "assets/exam2-memory2-image21.png",
       "figureAlt": "Please Excuse My Dear Aunt Sally provides the initials PEMDAS as a mnemonic for the named arithmetic operations.",
       "figureCaption": "202 F26 Memory II.pptx · slide 28 · mnemonic example from the lecture."
+    },
+    {
+      "id": "exam2-learning1-conditioning-types",
+      "unit": "Learning I",
+      "title": "Classical and operant conditioning",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 3–4",
+      "body": [
+        "Classical conditioning is learning an association between stimuli. A stimulus that initially produces no reliable target response comes to elicit a response after pairing with a stimulus that naturally produces it. Ivan Pavlov studied this process using salivation.",
+        "The lecture contrasts elicited, reflexive responses in classical conditioning with emitted, voluntary responses in operant conditioning. In the classical case, the organism need not perform a desired action to receive the paired stimulus. In the operant case, reinforcement depends on a response.",
+        "Compare a tone paired with food regardless of what a dog does with food delivered after the dog sits. The tone–food arrangement illustrates classical conditioning. The sit–food arrangement makes the consequence contingent on behavior and illustrates operant conditioning. The important difference is what predicts what, rather than whether food is present."
+      ],
+      "terms": [
+        {
+          "term": "Classical conditioning",
+          "definition": "Learning an association through which a previously neutral stimulus comes to elicit a response."
+        },
+        {
+          "term": "Operant conditioning",
+          "definition": "Learning involving consequences contingent on behavior."
+        },
+        {
+          "term": "Elicited response",
+          "definition": "A response brought about by a stimulus, as in a reflex."
+        },
+        {
+          "term": "Emitted response",
+          "definition": "A behavior performed by the organism, described as voluntary in the lecture."
+        }
+      ],
+      "recall": "How can two situations involving the same food illustrate different types of conditioning?",
+      "answer": "Food paired with a tone regardless of behavior supports a stimulus–stimulus association. Food delivered after a sit makes the consequence contingent on a response. The first arrangement illustrates classical conditioning and the second operant conditioning.",
+      "questions": [
+        {
+          "prompt": "A tone is followed by food whether a dog sits, stands or lies down. Which feature makes this a classical-conditioning arrangement?",
+          "choices": [
+            "Food depends on performing a sit",
+            "The tone is paired with food independently of a desired response",
+            "The dog receives no stimulus",
+            "The food is delivered after extinction"
+          ],
+          "correct": 1,
+          "explanation": "The stimulus pairing can occur without the dog earning food through a particular action.",
+          "choiceExplanations": [
+            "A sit requirement would make delivery contingent on a response.",
+            "The stimulus pairing can occur without the dog earning food through a particular action.",
+            "Both the tone and food are stimuli in this arrangement.",
+            "No prior extinction phase is described in this example."
+          ],
+          "misconception": "The presence of food does not by itself distinguish classical from operant conditioning."
+        },
+        {
+          "prompt": "A trainer gives a treat after a dog touches a target. Which relationship is central to this example?",
+          "choices": [
+            "A rest period restores salivation",
+            "A neutral light is paired with a conditioned tone",
+            "The consequence depends on a response",
+            "Two stimuli occur regardless of the dog’s actions"
+          ],
+          "correct": 2,
+          "explanation": "Treat delivery is contingent on touching the target, matching the operant comparison.",
+          "choiceExplanations": [
+            "No extinction or rest period is part of this description.",
+            "No light–tone pairing is described in this situation.",
+            "Treat delivery is contingent on touching the target, matching the operant comparison.",
+            "The dog must perform the target-touch response to receive the consequence."
+          ],
+          "misconception": "Identify whether a stimulus predicts another stimulus or a behavior produces a consequence."
+        },
+        {
+          "prompt": "Which pairing matches the lecture’s contrast between response types?",
+          "choices": [
+            "Classical: elicited reflexes; operant: emitted voluntary responses",
+            "Classical: emitted voluntary responses; operant: elicited reflexes",
+            "Classical: no responses; operant: no stimuli",
+            "Classical: delayed recall; operant: recognition memory"
+          ],
+          "correct": 0,
+          "explanation": "The lecture uses elicited/reflexive for classical conditioning and emitted/voluntary for operant conditioning.",
+          "choiceExplanations": [
+            "The lecture uses elicited/reflexive for classical conditioning and emitted/voluntary for operant conditioning.",
+            "This reverses the response descriptions in the lecture.",
+            "Both arrangements involve stimuli and observable responses.",
+            "These are retrieval-task labels from the memory unit."
+          ],
+          "misconception": "Keep the response distinction tied to the learning arrangement."
+        },
+        {
+          "prompt": "Why is “a reward is present” insufficient to classify a learning example as operant conditioning?",
+          "choices": [
+            "Operant conditioning cannot involve food",
+            "Classical conditioning always requires a voluntary action",
+            "The organism must first show spontaneous recovery",
+            "You need to know whether delivery is contingent on behavior"
+          ],
+          "correct": 3,
+          "explanation": "Food appears in Pavlov’s classical example too. The decisive question is whether the consequence depends on a response.",
+          "choiceExplanations": [
+            "Food can serve as a consequence in an operant arrangement.",
+            "Classical stimulus pairing does not require earning the stimulus through a desired action.",
+            "Spontaneous recovery is not required to identify an operant contingency.",
+            "Food appears in Pavlov’s classical example too. The decisive question is whether the consequence depends on a response."
+          ],
+          "misconception": "Classify the contingency rather than a familiar object in the example."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning1-components",
+      "unit": "Learning I",
+      "title": "Pavlov and the four conditioning components",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 4–7",
+      "body": [
+        "An unconditioned stimulus (UCS, also written US) reliably produces a naturally occurring reaction. The unconditioned response (UCR or UR) is that reflexive reaction. In Pavlov’s example, food is the UCS and salivation elicited by food is the UCR.",
+        "A neutral stimulus initially produces no reliable target response. Pairing a bell with food gives the bell a predictive relationship with food. After conditioning, the bell is the conditioned stimulus (CS), and salivation elicited by the bell is the conditioned response (CR).",
+        "Name a response together with the stimulus that elicits it. Salivation to food and salivation to the bell can look similar while carrying different labels. The former is unconditioned in this example, while the latter depends on the learned association. The bell’s role also changes across training: it begins neutral and becomes a CS."
+      ],
+      "terms": [
+        {
+          "term": "Unconditioned stimulus (UCS)",
+          "definition": "A stimulus that reliably produces a naturally occurring reaction, such as food in Pavlov’s example."
+        },
+        {
+          "term": "Unconditioned response (UCR)",
+          "definition": "The reflexive reaction elicited by the UCS, such as salivation to food."
+        },
+        {
+          "term": "Conditioned stimulus (CS)",
+          "definition": "A previously neutral stimulus that elicits a response after conditioning."
+        },
+        {
+          "term": "Conditioned response (CR)",
+          "definition": "A learned response elicited by the CS, such as salivation to the bell."
+        },
+        {
+          "term": "Neutral stimulus",
+          "definition": "A stimulus that initially produces no reliable target response."
+        }
+      ],
+      "recall": "Identify the UCS, UCR, CS and CR in Pavlov’s example. Why does salivation have two labels?",
+      "answer": "Food is the UCS and salivation to food is the UCR. The bell becomes the CS after pairing with food, and salivation to the bell is the CR. The label depends on the eliciting stimulus and learning history, even when the responses look similar.",
+      "questions": [
+        {
+          "prompt": "Before conditioning, food naturally elicits salivation. What is the food?",
+          "choices": [
+            "Conditioned response",
+            "Neutral stimulus",
+            "Unconditioned stimulus",
+            "Unconditioned response"
+          ],
+          "correct": 2,
+          "explanation": "Food naturally elicits salivation in this example, making it the UCS.",
+          "choiceExplanations": [
+            "A response is a reaction, whereas food is the eliciting stimulus.",
+            "Food already elicits the relevant response before training.",
+            "Food naturally elicits salivation in this example, making it the UCS.",
+            "Salivation to food, rather than food itself, is the UCR."
+          ],
+          "misconception": "Stimuli and responses occupy different roles in the four-part scheme."
+        },
+        {
+          "prompt": "After bell–food pairings, the bell alone elicits salivation. Which pairing is correct?",
+          "choices": [
+            "Bell = CS; salivation to bell = CR",
+            "Bell = UCR; salivation to bell = UCS",
+            "Bell = UCS; salivation to bell = UCR",
+            "Bell = CR; salivation to bell = CS"
+          ],
+          "correct": 0,
+          "explanation": "The trained bell is the CS and its learned salivation response is the CR.",
+          "choiceExplanations": [
+            "The trained bell is the CS and its learned salivation response is the CR.",
+            "This swaps both stimuli with responses and conditioned with unconditioned roles.",
+            "The bell’s effect was learned through pairing, unlike the original food response.",
+            "The bell is a stimulus and salivation is a response, not the reverse."
+          ],
+          "misconception": "Learning history determines whether the stimulus–response relation is conditioned."
+        },
+        {
+          "prompt": "Why can salivation be a UCR in one trial and a CR in another?",
+          "choices": [
+            "The dog changes from passive to voluntary responding",
+            "The bell becomes a food reward",
+            "Every repeated response becomes unconditioned",
+            "One trial tests salivation to food and the other tests salivation to the trained bell"
+          ],
+          "correct": 3,
+          "explanation": "Salivation to food is the UCR, while salivation to the trained bell is the CR.",
+          "choiceExplanations": [
+            "The distinction here concerns the eliciting stimulus, not voluntary action.",
+            "The bell remains a cue paired with food rather than becoming food.",
+            "Repetition does not turn a learned response into an unconditioned one.",
+            "Salivation to food is the UCR, while salivation to the trained bell is the CR."
+          ],
+          "misconception": "The visible movement alone does not determine the conditioning label."
+        },
+        {
+          "prompt": "What is the bell’s role before it has been paired with food in the target example?",
+          "choices": [
+            "Unconditioned response",
+            "Neutral stimulus for salivation",
+            "Conditioned response",
+            "Unconditioned stimulus for salivation"
+          ],
+          "correct": 1,
+          "explanation": "It does not yet reliably elicit the target response, so it begins neutral.",
+          "choiceExplanations": [
+            "The bell is a stimulus rather than the salivation reaction.",
+            "It does not yet reliably elicit the target response, so it begins neutral.",
+            "The conditioned response would be learned salivation to a trained cue.",
+            "Food, rather than the initially ineffective bell, naturally elicits salivation."
+          ],
+          "misconception": "A cue’s role can change through learning."
+        }
+      ],
+      "figure": "assets/exam2-learning1-image5.jpg",
+      "figureAlt": "Pavlov sequence showing food (US) eliciting salivation (UR), a neutral bell paired with food, and the trained bell (CS) eliciting salivation (CR).",
+      "figureCaption": "202 F26 Learning I Student Copy.pptx · slide 7 · original course figure; original credits retained."
+    },
+    {
+      "id": "exam2-learning1-clicker",
+      "unit": "Learning I",
+      "title": "Applying the components to a clicker",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 8–10",
+      "body": [
+        "The lecture applies classical conditioning to “charging” a clicker. In a food-pairing version of this example, the click initially has no reliable food-related response. Repeated click–food pairings establish the sound as a cue for food.",
+        "Food is the UCS and the naturally elicited food response, such as salivation, is the UCR. After pairing, the click is the CS. The learned anticipatory response to the click is the CR. Always state which response you are labeling rather than assuming every movement the dog makes is part of the same association.",
+        "Charging a clicker establishes the cue–food relationship. Delivering a click and food after a particular action introduces the response contingency described under operant conditioning. These are different relationships that can appear in a training sequence.",
+        "The lecture also links the Dwight and Altoids scene from The Office. Use the same four-component scheme when watching: identify the cue, what it is paired with, and the response before and after learning."
+      ],
+      "terms": [
+        {
+          "term": "Charging a clicker",
+          "definition": "Pairing the click with food so the sound becomes a learned food cue."
+        },
+        {
+          "term": "Anticipatory response",
+          "definition": "A learned response to a cue that predicts a following event."
+        },
+        {
+          "term": "Response contingency",
+          "definition": "A relationship in which a consequence depends on performing a behavior."
+        }
+      ],
+      "recall": "How does charging a clicker differ from delivering food after a target behavior?",
+      "answer": "Charging pairs the click with food to establish a stimulus association. The click becomes a CS that elicits an anticipatory CR. Delivering a consequence after a target behavior adds an operant response contingency.",
+      "questions": [
+        {
+          "prompt": "In a click–food pairing example, food naturally causes salivation. Which item is the UCS?",
+          "choices": [
+            "The click sound",
+            "Salivation to the click",
+            "The trainer’s target behavior",
+            "The food"
+          ],
+          "correct": 3,
+          "explanation": "Food is the stimulus that naturally elicits the salivation response.",
+          "choiceExplanations": [
+            "After pairing, the click serves as the conditioned cue.",
+            "Salivation is a response rather than a stimulus.",
+            "The target behavior belongs to a separate response contingency.",
+            "Food is the stimulus that naturally elicits the salivation response."
+          ],
+          "misconception": "The UCS is the naturally effective stimulus, not the newly trained cue."
+        },
+        {
+          "prompt": "A dog salivates to a click after repeated click–food pairings. What is that salivation?",
+          "choices": [
+            "A conditioned stimulus",
+            "A conditioned response",
+            "An unconditioned stimulus",
+            "A neutral stimulus"
+          ],
+          "correct": 1,
+          "explanation": "The salivation is elicited by a cue whose food relationship was learned.",
+          "choiceExplanations": [
+            "The click, rather than salivation, is the conditioned stimulus.",
+            "The salivation is elicited by a cue whose food relationship was learned.",
+            "Food is the unconditioned stimulus in the stated example.",
+            "A neutral stimulus is an initially ineffective cue, not a reaction."
+          ],
+          "misconception": "The learned reaction to a cue is a CR."
+        },
+        {
+          "prompt": "Which arrangement specifically describes charging a clicker through classical conditioning?",
+          "choices": [
+            "Pair the click with food without requiring a target action",
+            "Wait for a sit before every food delivery",
+            "Present the click repeatedly without food to reduce its response",
+            "Present food after a 24-hour rest to restore an extinguished response"
+          ],
+          "correct": 0,
+          "explanation": "This establishes the click–food pairing without making delivery depend on a target action.",
+          "choiceExplanations": [
+            "This establishes the click–food pairing without making delivery depend on a target action.",
+            "Requiring a sit makes delivery contingent on behavior.",
+            "Click-alone presentations after learning illustrate extinction rather than charging.",
+            "A rest interval is not the defining feature of cue–food acquisition."
+          ],
+          "misconception": "Distinguish acquiring a cue association from earning a consequence."
+        },
+        {
+          "prompt": "A dog first learns click–food pairings. Later, a click and food follow each target touch. What has been added?",
+          "choices": [
+            "A second-order light–tone association",
+            "Spontaneous recovery after rest",
+            "A consequence contingent on touching the target",
+            "Extinction through click-alone trials"
+          ],
+          "correct": 2,
+          "explanation": "The later procedure makes the consequence depend on a behavior, adding an operant contingency.",
+          "choiceExplanations": [
+            "There is no new light or other neutral cue paired with the click.",
+            "No rest interval or return after extinction is described.",
+            "The later procedure makes the consequence depend on a behavior, adding an operant contingency.",
+            "Food continues to follow the click in the later procedure."
+          ],
+          "misconception": "Classical and operant relationships can coexist without becoming interchangeable."
+        }
+      ],
+      "figure": "assets/exam2-learning1-image7.jpg",
+      "figureAlt": "A handheld training clicker, the cue used in the lecture’s click–food pairing example.",
+      "figureCaption": "202 F26 Learning I Student Copy.pptx · slides 8–9 · original course figure; original credits retained."
+    },
+    {
+      "id": "exam2-learning1-acquisition-extinction",
+      "unit": "Learning I",
+      "title": "Acquisition, extinction and spontaneous recovery",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 11–13",
+      "body": [
+        "Acquisition is the phase in which the CS and UCS are paired and the conditioned response develops. In the course graph, salivation to the cue increases during the CS–US pairing phase.",
+        "Extinction is the gradual reduction of the learned response when the CS is presented without the UCS. Repeated bell-alone presentations after bell–food learning reduce salivation to the bell. Removing the UCS from these trials changes the predictive relationship.",
+        "Spontaneous recovery is the return of a previously extinguished response after a rest period. It does not require a new series of CS–UCS pairings. A response can decline during extinction and still reappear later, so a weak response at the end of one session does not establish permanent loss of the association.",
+        "The figure measures drops of saliva elicited by the CS across trials. It labels two 24-hour rest periods and shows progressively smaller recoveries followed by further declines during CS-alone trials. These are the displayed example’s patterns, rather than a rule that every recovery has a particular size."
+      ],
+      "terms": [
+        {
+          "term": "Acquisition",
+          "definition": "The phase in which CS–UCS pairings establish a conditioned response."
+        },
+        {
+          "term": "Extinction",
+          "definition": "A gradual reduction in the learned response when the CS is presented without the UCS."
+        },
+        {
+          "term": "Spontaneous recovery",
+          "definition": "Return of an extinguished response after a rest period."
+        }
+      ],
+      "recall": "What changes across acquisition, extinction and spontaneous recovery in the saliva graph?",
+      "answer": "CS–UCS pairings build the conditioned response during acquisition. CS-alone trials reduce it during extinction. After a rest, the response can return on a CS-alone trial, illustrating spontaneous recovery.",
+      "questions": [
+        {
+          "prompt": "A dog has learned bell–food pairings. Repeated bell-alone trials now reduce salivation. Which phase is illustrated?",
+          "choices": [
+            "Acquisition",
+            "Second-order conditioning",
+            "Extinction",
+            "Operant reinforcement"
+          ],
+          "correct": 2,
+          "explanation": "The learned response declines when the CS is presented without the UCS.",
+          "choiceExplanations": [
+            "Acquisition involves pairing the cue with the UCS.",
+            "Second-order conditioning adds a new cue paired with an established CS.",
+            "The learned response declines when the CS is presented without the UCS.",
+            "No consequence is contingent on performing a behavior here."
+          ],
+          "misconception": "Extinction changes the CS–UCS relationship through CS-alone trials."
+        },
+        {
+          "prompt": "After extinction and a day of rest, a bell again elicits some salivation without new food pairings. What is this?",
+          "choices": [
+            "Spontaneous recovery",
+            "Initial acquisition",
+            "A new unconditioned response to food",
+            "Counterconditioning with a pleasant event"
+          ],
+          "correct": 0,
+          "explanation": "The response returns after rest despite no renewed cue–food pairings.",
+          "choiceExplanations": [
+            "The response returns after rest despite no renewed cue–food pairings.",
+            "Initial acquisition would require the original learning phase.",
+            "The response is to the learned bell cue rather than food.",
+            "No new pleasant pairing is described after extinction."
+          ],
+          "misconception": "A returning response after rest differs from relearning through renewed pairings."
+        },
+        {
+          "prompt": "What does the vertical axis in the course’s acquisition/extinction graph measure?",
+          "choices": [
+            "The dog’s food intake in grams",
+            "Drops of saliva elicited by the CS",
+            "Hours since the first pairing",
+            "Percentage of correctly recalled words"
+          ],
+          "correct": 1,
+          "explanation": "The axis explicitly measures drops of saliva elicited by the conditioned cue.",
+          "choiceExplanations": [
+            "The figure does not plot the amount of food consumed.",
+            "The axis explicitly measures drops of saliva elicited by the conditioned cue.",
+            "Rest periods appear between trial series rather than defining the vertical axis.",
+            "The figure concerns salivation rather than a word-memory task."
+          ],
+          "misconception": "Read the actual measure before interpreting the graph."
+        },
+        {
+          "prompt": "Which observation cautions against treating extinction as proof of permanent disappearance of learning?",
+          "choices": [
+            "Food elicits salivation before training",
+            "A trainer rewards a voluntary sit",
+            "A click is initially neutral",
+            "The conditioned response returns after a rest period"
+          ],
+          "correct": 3,
+          "explanation": "Spontaneous recovery shows that a response can return after having declined during extinction.",
+          "choiceExplanations": [
+            "This establishes the original unconditioned relation, not persistence after extinction.",
+            "This describes an operant consequence rather than extinction.",
+            "Initial neutrality does not address what remains after learning and extinction.",
+            "Spontaneous recovery shows that a response can return after having declined during extinction."
+          ],
+          "misconception": "Reduced responding and permanent erasure are different claims."
+        }
+      ],
+      "figure": "assets/exam2-learning1-image9.jpg",
+      "figureAlt": "Graph of drops of saliva elicited by the CS over trials, showing acquisition with CS–US pairings, extinction with the CS alone, and two spontaneous recoveries after 24-hour rests.",
+      "figureCaption": "202 F26 Learning I Student Copy.pptx · slide 13 · original course figure; original credits retained."
+    },
+    {
+      "id": "exam2-learning1-second-order",
+      "unit": "Learning I",
+      "title": "Second-order conditioning",
+      "source": "202 F26 Learning I Student Copy.pptx · slide 14",
+      "body": [
+        "Second-order conditioning extends a learned association to another stimulus. First, a tone is paired with food until the tone elicits salivation. The tone now functions as an established CS.",
+        "A previously neutral light can then be paired with that conditioned tone. The light can acquire the ability to elicit a conditioned response even though food is not directly paired with the light in this second step.",
+        "Keep the two stages separate when labeling an example. The tone’s relationship with food is first-order conditioning. The new light’s relationship with the already conditioned tone is second-order conditioning. This differs from spontaneous recovery, which concerns a response returning after extinction and rest."
+      ],
+      "terms": [
+        {
+          "term": "Second-order conditioning",
+          "definition": "Learning in which a new neutral stimulus is paired with an established CS and acquires the ability to elicit a CR."
+        },
+        {
+          "term": "First-order conditioning",
+          "definition": "The initial conditioning in which a neutral stimulus is paired with a UCS."
+        }
+      ],
+      "recall": "How could a light come to elicit salivation without being directly paired with food?",
+      "answer": "First establish a tone as a CS by pairing it with food. Then pair the neutral light with that tone. The light can become a conditioned cue through second-order conditioning.",
+      "questions": [
+        {
+          "prompt": "A tone already predicts food. A new light is paired with the tone and later elicits salivation. Which process is illustrated?",
+          "choices": [
+            "Extinction",
+            "Spontaneous recovery",
+            "Operant conditioning",
+            "Second-order conditioning"
+          ],
+          "correct": 3,
+          "explanation": "The new light is paired with an established conditioned tone.",
+          "choiceExplanations": [
+            "Extinction reduces responding through CS-alone trials.",
+            "No prior extinction and rest period are described.",
+            "No consequence is contingent on a voluntary action.",
+            "The new light is paired with an established conditioned tone."
+          ],
+          "misconception": "Second-order conditioning uses an already learned cue to condition a new cue."
+        },
+        {
+          "prompt": "What must be established before the light–tone stage in the lecture’s second-order example?",
+          "choices": [
+            "The tone must first undergo complete extinction",
+            "The tone must function as a conditioned stimulus",
+            "The light must already be an unconditioned stimulus",
+            "The dog must earn food by pressing a lever"
+          ],
+          "correct": 1,
+          "explanation": "Prior tone–food learning gives the tone the conditioned role used in the next stage.",
+          "choiceExplanations": [
+            "The example requires an effective conditioned tone rather than its extinction.",
+            "Prior tone–food learning gives the tone the conditioned role used in the next stage.",
+            "The light begins neutral in the second-order example.",
+            "A lever-response contingency is not required for stimulus pairing."
+          ],
+          "misconception": "The second stage depends on an existing first-order association."
+        },
+        {
+          "prompt": "Which pairing defines the second-order stage rather than the first-order stage?",
+          "choices": [
+            "Food with a naturally occurring salivation response",
+            "A tone with food before conditioning",
+            "A neutral light with a previously conditioned tone",
+            "An earned treat with a target touch"
+          ],
+          "correct": 2,
+          "explanation": "Pairing a new neutral cue with an established CS defines the second-order stage.",
+          "choiceExplanations": [
+            "This is the unconditioned stimulus–response relation.",
+            "Tone–food pairing establishes the first-order conditioned cue.",
+            "Pairing a new neutral cue with an established CS defines the second-order stage.",
+            "This describes a response–consequence contingency."
+          ],
+          "misconception": "Identify what the new cue is paired with."
+        },
+        {
+          "prompt": "Which example shows spontaneous recovery rather than second-order conditioning?",
+          "choices": [
+            "After extinction and rest, the original tone elicits salivation again",
+            "A new light is paired with a trained tone",
+            "A new sound acquires a response through an established food cue",
+            "A previously neutral shape is paired with a conditioned bell"
+          ],
+          "correct": 0,
+          "explanation": "The original response returns after rest without adding a new conditioned cue.",
+          "choiceExplanations": [
+            "The original response returns after rest without adding a new conditioned cue.",
+            "A new cue paired with an established CS is second-order conditioning.",
+            "This uses an existing learned cue to condition another stimulus.",
+            "This also pairs a new cue with an established conditioned cue."
+          ],
+          "misconception": "A rest-related return and learning about a new cue describe different processes."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning1-aversions-triggers",
+      "unit": "Learning I",
+      "title": "Taste aversions and learned triggers",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 15–16",
+      "body": [
+        "Taste aversion is an application of classical conditioning: a flavor associated with an unpleasant illness experience can later elicit aversion. In that example, distinguish the illness-producing event from the flavor that becomes a learned cue.",
+        "The lecture also identifies PTSD triggers as an application. A cue associated with a traumatic event can later elicit an emotional response. The cue and the original event need not be identical for an association to matter.",
+        "Use the conditioning framework to explain the learned relationship in an example. A food or a sound is a stimulus, while nausea, avoidance or fear describes a response. The framework explains how a cue can acquire an effect. A response to one cue alone is not enough to establish a clinical diagnosis."
+      ],
+      "terms": [
+        {
+          "term": "Taste aversion",
+          "definition": "A learned aversive reaction to a flavor associated with an unpleasant illness experience."
+        },
+        {
+          "term": "Learned trigger",
+          "definition": "A cue that elicits an acquired response through association with an earlier event."
+        }
+      ],
+      "recall": "What common learning relationship connects a taste aversion and an emotional reaction to a reminder?",
+      "answer": "A cue becomes associated with an event that produces an aversive response. The flavor or reminder can later elicit a learned response. Identify the acquired cue and its reaction separately from the original event.",
+      "questions": [
+        {
+          "prompt": "A flavor becomes associated with an illness experience and later elicits aversion. What role does the learned flavor cue play?",
+          "choices": [
+            "Unconditioned response",
+            "Conditioned stimulus",
+            "Conditioned response",
+            "Rest period"
+          ],
+          "correct": 1,
+          "explanation": "After learning, the flavor is the cue that elicits the conditioned aversive response.",
+          "choiceExplanations": [
+            "The flavor is a stimulus rather than a reflexive reaction.",
+            "After learning, the flavor is the cue that elicits the conditioned aversive response.",
+            "The aversion is the response, while the flavor is the cue.",
+            "A rest period is an interval rather than a learned cue."
+          ],
+          "misconception": "Separate the flavor stimulus from the aversive response to it."
+        },
+        {
+          "prompt": "Which relationship makes a reminder an example of classical conditioning in the lecture’s trigger discussion?",
+          "choices": [
+            "A voluntary action earns a token",
+            "A response returns after an unrelated rest period",
+            "A neutral cue is paired with an already trained bell",
+            "A cue acquires emotional significance through association with an event"
+          ],
+          "correct": 3,
+          "explanation": "The reminder elicits a learned emotional response because of its association with the event.",
+          "choiceExplanations": [
+            "A token contingent on action illustrates an operant consequence.",
+            "This would concern spontaneous recovery only if extinction preceded the rest.",
+            "This describes second-order conditioning rather than the stated event-reminder relation.",
+            "The reminder elicits a learned emotional response because of its association with the event."
+          ],
+          "misconception": "A reminder can acquire an effect through its learning history."
+        },
+        {
+          "prompt": "In a learned taste-aversion example, which item is a response rather than a stimulus?",
+          "choices": [
+            "The later aversive reaction to the flavor",
+            "The flavor before the illness experience",
+            "The food’s smell used as a cue",
+            "The illness-producing event"
+          ],
+          "correct": 0,
+          "explanation": "The aversive reaction is what the organism does or experiences in response to the cue.",
+          "choiceExplanations": [
+            "The aversive reaction is what the organism does or experiences in response to the cue.",
+            "The flavor is the event encountered rather than the reaction to it.",
+            "A smell is a sensory cue, not the reaction it elicits.",
+            "The event produces a response rather than being the response itself."
+          ],
+          "misconception": "Do not label the eliciting cue and its reaction as the same component."
+        },
+        {
+          "prompt": "What can a conditioning analysis of an emotional reminder establish by itself?",
+          "choices": [
+            "The complete cause of every symptom",
+            "A clinical diagnosis from one observed reaction",
+            "A proposed learned cue–response relationship",
+            "That the cue is physically identical to the original event"
+          ],
+          "correct": 2,
+          "explanation": "The analysis identifies how a cue could acquire the ability to elicit a response.",
+          "choiceExplanations": [
+            "A learning example does not establish every cause of a person’s symptoms.",
+            "A single learned reaction does not supply a clinical diagnosis.",
+            "The analysis identifies how a cue could acquire the ability to elicit a response.",
+            "Association does not require the reminder to be the original event itself."
+          ],
+          "misconception": "Use the model to explain the association without extending it into diagnosis."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning1-emotional-responses",
+      "unit": "Learning I",
+      "title": "Conditioned emotional responses",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 17–18",
+      "body": [
+        "A conditioned emotional response (CER) is an emotionally charged conditioned response elicited by a previously neutral stimulus. The emotional reaction is the response, and the learned cue is the stimulus that brings it about.",
+        "The lecture gives a child bitten by a cat who later fears the sight of cats. The bite is part of the aversive event. The later sight of a cat is a conditioned cue, and fear elicited by that cue is a CER.",
+        "In the second example, a person hears a song during a car accident and later experiences fear when hearing that song. The later song is a CS and the elicited fear is a CR. The song does not have to cause the original accident to become associated with the event."
+      ],
+      "terms": [
+        {
+          "term": "Conditioned emotional response (CER)",
+          "definition": "An emotionally charged CR elicited by a previously neutral stimulus."
+        },
+        {
+          "term": "Conditioned fear",
+          "definition": "A learned fear response elicited by a cue associated with an aversive event."
+        }
+      ],
+      "recall": "In the accident-and-song example, identify the conditioned stimulus and the conditioned emotional response.",
+      "answer": "The song becomes the CS because of its association with the accident. Fear elicited later by the song is the CER. The cue’s learned association, rather than its physical danger, explains its role.",
+      "questions": [
+        {
+          "prompt": "After a frightening accident during a song, hearing that song later elicits fear. What is the conditioned stimulus?",
+          "choices": [
+            "The later fear",
+            "The original fear during the accident",
+            "The song",
+            "The later avoidance behavior"
+          ],
+          "correct": 2,
+          "explanation": "The song is the learned cue associated with the accident.",
+          "choiceExplanations": [
+            "Fear is a response rather than the cue that elicits it.",
+            "The question asks for the learned cue, not the original reaction.",
+            "The song is the learned cue associated with the accident.",
+            "Avoidance is a behavior rather than the song cue."
+          ],
+          "misconception": "The conditioned stimulus is the reminder, and the CER is the emotional reaction."
+        },
+        {
+          "prompt": "A child fears the sight of cats after being bitten. Which part is the conditioned emotional response?",
+          "choices": [
+            "Fear elicited later by seeing a cat",
+            "The sight of the cat",
+            "The bite itself",
+            "The cat’s physical appearance"
+          ],
+          "correct": 0,
+          "explanation": "The acquired fear reaction to the cat cue is the CER.",
+          "choiceExplanations": [
+            "The acquired fear reaction to the cat cue is the CER.",
+            "The sight of the cat functions as a conditioned stimulus.",
+            "The bite belongs to the original aversive event.",
+            "Appearance is a feature of the stimulus rather than the child’s response."
+          ],
+          "misconception": "Stimulus labels refer to cues and response labels refer to reactions."
+        },
+        {
+          "prompt": "Why can a song become a fear cue even though it did not cause the accident?",
+          "choices": [
+            "It must be a primary reinforcer",
+            "Emotional responses cannot be learned",
+            "It must physically resemble a car",
+            "It was associated with the aversive event"
+          ],
+          "correct": 3,
+          "explanation": "The song’s temporal association with the event can give it acquired emotional significance.",
+          "choiceExplanations": [
+            "The example concerns a learned aversive cue, not a primary reinforcer.",
+            "The CER definition explicitly concerns an acquired emotional response.",
+            "Physical resemblance is not required in the song example.",
+            "The song’s temporal association with the event can give it acquired emotional significance."
+          ],
+          "misconception": "Predictive association and physical causation are different relationships."
+        },
+        {
+          "prompt": "Which description best fits the lecture’s definition of a CER?",
+          "choices": [
+            "A stimulus that produces a reflex without learning",
+            "An acquired emotional reaction to a previously neutral cue",
+            "A reward delivered after a voluntary response",
+            "The loss of a response during a rest period"
+          ],
+          "correct": 1,
+          "explanation": "A CER is an emotionally charged CR elicited by a previously neutral stimulus.",
+          "choiceExplanations": [
+            "That describes an unconditioned stimulus relation rather than a conditioned emotional response.",
+            "A CER is an emotionally charged CR elicited by a previously neutral stimulus.",
+            "That describes an operant consequence contingency.",
+            "Spontaneous recovery concerns return after rest, not this definition."
+          ],
+          "misconception": "A CER is a kind of conditioned response, not a separate stimulus category."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning1-flooding",
+      "unit": "Learning I",
+      "title": "Flooding and the intensity of exposure",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 19–21",
+      "body": [
+        "The lecture describes flooding as presenting an overwhelming amount of the fear-inducing stimulus. Its proposed learning sequence is that the initial fear response eventually drops and the person or animal learns that the stimulus does not warrant the same fear.",
+        "Intensity is the key distinction in this description. Flooding begins with strong exposure, while the counterconditioning sequence that follows in the lecture begins at a low stimulus level with the learner calm. A procedure involving a distant, low-intensity cue paired with food fits that later sequence.",
+        "The lecture asks students to consider potential problems with flooding. Initial distress and the assumption that fear will decline deserve attention when evaluating the example. The proposed sequence describes the learning rationale, rather than guaranteeing that a particular exposure will have the intended outcome."
+      ],
+      "terms": [
+        {
+          "term": "Flooding",
+          "definition": "The lecture’s high-intensity exposure approach, intended to reduce a fear response through continued exposure."
+        },
+        {
+          "term": "Stimulus intensity",
+          "definition": "The strength or level of the cue, such as how close or active it is in an example."
+        }
+      ],
+      "recall": "What distinguishes flooding from the low-level counterconditioning sequence?",
+      "answer": "Flooding uses overwhelming exposure and expects fear to decline. The counterconditioning sequence starts with a calm learner, keeps the cue below threshold, and pairs it with something positive. They differ in initial intensity and the relationship being arranged.",
+      "questions": [
+        {
+          "prompt": "Which arrangement matches the lecture’s description of flooding?",
+          "choices": [
+            "A low-level cue paired with food while the learner remains calm",
+            "An overwhelming presentation of the fear-inducing stimulus",
+            "A new light paired with a conditioned tone",
+            "A token delivered after a correct response"
+          ],
+          "correct": 1,
+          "explanation": "Flooding is described as overwhelming exposure intended to let fear decline.",
+          "choiceExplanations": [
+            "This matches the later counterconditioning sequence.",
+            "Flooding is described as overwhelming exposure intended to let fear decline.",
+            "This is a second-order conditioning arrangement.",
+            "This is a consequence contingent on a response."
+          ],
+          "misconception": "Use initial stimulus intensity to distinguish flooding from gradual counterconditioning."
+        },
+        {
+          "prompt": "What outcome does the lecture’s rationale for flooding expect during continued exposure?",
+          "choices": [
+            "The cue must become a new unconditioned stimulus",
+            "Every response must immediately become voluntary",
+            "The initial fear response eventually drops",
+            "A new reward is earned for each fearful reaction"
+          ],
+          "correct": 2,
+          "explanation": "The stated rationale expects fear to drop and the learner to acquire a different expectation about the cue.",
+          "choiceExplanations": [
+            "The description concerns reducing a fear response rather than changing the cue into a UCS.",
+            "The expected change is in fear, not a switch to voluntary behavior.",
+            "The stated rationale expects fear to drop and the learner to acquire a different expectation about the cue.",
+            "No reward contingent on fearful reactions appears in the description."
+          ],
+          "misconception": "An expected learning outcome is different from a guaranteed individual result."
+        },
+        {
+          "prompt": "A distant cue is paired with food during short sessions while a dog stays calm. Which description fits better than flooding?",
+          "choices": [
+            "Spontaneous recovery after extinction",
+            "First-order tone–food acquisition without an aversive cue",
+            "Overwhelming exposure with no positive pairing",
+            "The lecture’s counterconditioning sequence"
+          ],
+          "correct": 3,
+          "explanation": "The calm starting point, low cue level and positive pairing match counterconditioning.",
+          "choiceExplanations": [
+            "No return after an extinction/rest sequence is described.",
+            "This example specifically changes the emotional response to an existing fear cue.",
+            "Both the low intensity and food pairing conflict with this description.",
+            "The calm starting point, low cue level and positive pairing match counterconditioning."
+          ],
+          "misconception": "Exposure intensity and positive pairing distinguish the two lecture examples."
+        },
+        {
+          "prompt": "Which conclusion is warranted by a slide describing flooding’s intended sequence?",
+          "choices": [
+            "It gives a proposed rationale for fear reduction, rather than proving success in every case",
+            "It proves every individual will calm during one session",
+            "It supplies a measured success percentage",
+            "It establishes that overwhelming exposure and low-level pairing are identical"
+          ],
+          "correct": 0,
+          "explanation": "A description of the intended process does not establish a universal result.",
+          "choiceExplanations": [
+            "A description of the intended process does not establish a universal result.",
+            "The supplied example does not establish success for every individual.",
+            "No success percentage is supplied by the slide’s sequence.",
+            "The two procedures differ in the intensity and pairing described."
+          ],
+          "misconception": "Do not turn a proposed mechanism into an unreported outcome guarantee."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning1-counterconditioning",
+      "unit": "Learning I",
+      "title": "Counterconditioning and changing a CER",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 22–27",
+      "body": [
+        "Counterconditioning changes an existing conditioned emotional response by pairing the cue with an event that supports a different emotional response. The lecture depicts a change from negative to neutral to positive and names systematic desensitization as a related term.",
+        "In the dog and mail-carrier example, the goal is to change the dog’s emotional response to the carrier. Pairing the carrier cue with food establishes a different relationship with that cue. Food is paired with the low-level stimulus rather than made a prize that depends on an anxious reaction.",
+        "The lecture’s sequence begins with the dog calm and relaxed, working below threshold. A low level of the scary stimulus is paired with something very good, such as food. Sessions are short, and the stimulus level increases gradually as the dog stays calm. Bringing a person closer or adding movement are examples of increasing intensity.",
+        "Identify the roles across the illustration: food is the US for the positive unconditioned response, and the trigger cue becomes associated with that response. Later the cue itself can elicit a positive CR. In an already learned fear example, fear to the old trigger is an existing CR even though the illustration labels its top reaction “UR”. Classify the response using the learning history."
+      ],
+      "terms": [
+        {
+          "term": "Counterconditioning",
+          "definition": "Pairing a cue with an event that supports a different emotional response, changing an existing CER."
+        },
+        {
+          "term": "Systematic desensitization",
+          "definition": "A related gradual fear-reduction approach named alongside counterconditioning in the lecture."
+        },
+        {
+          "term": "Below threshold",
+          "definition": "The low stimulus level at which the dog remains calm in the lecture’s sequence."
+        },
+        {
+          "term": "Gradual increase",
+          "definition": "Raising stimulus intensity as the learner stays calm, such as reducing distance or adding movement."
+        }
+      ],
+      "recall": "Explain the steps of the lecture’s counterconditioning example and how it differs from rewarding a voluntary action.",
+      "answer": "Start calm and below threshold, pair a low level of the cue with food, use short sessions, and increase intensity gradually as calm continues. The target is a changed emotional association with the cue. A consequence made contingent on a voluntary action would add a different, operant relationship.",
+      "questions": [
+        {
+          "prompt": "Which sequence best matches the counterconditioning steps in the lecture?",
+          "choices": [
+            "Start with overwhelming exposure, then wait for fear to fall",
+            "Begin calm, pair a low-level cue with food, and gradually increase intensity while calm continues",
+            "Require a fearful reaction before delivering food",
+            "Remove the cue and food permanently before beginning"
+          ],
+          "correct": 1,
+          "explanation": "The lecture begins below threshold, uses positive pairings and increases intensity as calm continues.",
+          "choiceExplanations": [
+            "This describes the flooding rationale rather than the low-level pairing sequence.",
+            "The lecture begins below threshold, uses positive pairings and increases intensity as calm continues.",
+            "The food is paired with the cue rather than earned by producing fear.",
+            "Counterconditioning requires working with the cue and the new pairing."
+          ],
+          "misconception": "The sequence changes the cue’s emotional association rather than reinforcing fear."
+        },
+        {
+          "prompt": "What does “below threshold” mean in the lecture’s dog example?",
+          "choices": [
+            "At an intensity where the dog remains calm",
+            "At the largest possible stimulus level",
+            "At a point when no cue is present in any trial",
+            "At a level chosen without observing the dog’s response"
+          ],
+          "correct": 0,
+          "explanation": "The sequence starts with the learner calm at a low level of the cue.",
+          "choiceExplanations": [
+            "The sequence starts with the learner calm at a low level of the cue.",
+            "The lecture contrasts this low starting level with overwhelming exposure.",
+            "A low level of the cue can be present while staying below threshold.",
+            "The learner’s response is central to deciding whether intensity can increase."
+          ],
+          "misconception": "Below threshold refers to the learner’s response at a particular stimulus level."
+        },
+        {
+          "prompt": "Which change raises stimulus intensity in the lecture’s mail-carrier example?",
+          "choices": [
+            "Shortening the lesson’s written definition",
+            "Changing from a cue to an unrelated memory task",
+            "Bringing the person closer while monitoring continued calm",
+            "Replacing cue–food pairings with a rest period"
+          ],
+          "correct": 2,
+          "explanation": "The lecture names distance and movement as ways stimulus level can increase.",
+          "choiceExplanations": [
+            "The wording of a definition is not the presented cue’s intensity.",
+            "An unrelated task does not gradually change the same cue.",
+            "The lecture names distance and movement as ways stimulus level can increase.",
+            "A rest period alone does not represent a higher cue level."
+          ],
+          "misconception": "Track physical features of the cue when describing a gradual increase."
+        },
+        {
+          "prompt": "In an example where fear of a cue was already learned, what is fear elicited by that cue before counterconditioning?",
+          "choices": [
+            "An unconditioned stimulus",
+            "A neutral stimulus",
+            "A newly delivered food reward",
+            "An existing conditioned response"
+          ],
+          "correct": 3,
+          "explanation": "A learned fear reaction to a conditioned cue is a CR, regardless of an inconsistent figure label.",
+          "choiceExplanations": [
+            "Fear is a response, not an eliciting stimulus.",
+            "The cue already has an acquired effect and is not neutral for that response.",
+            "The food pairing is introduced to change the existing emotional association.",
+            "A learned fear reaction to a conditioned cue is a CR, regardless of an inconsistent figure label."
+          ],
+          "misconception": "Use acquisition history to label a response, even when an illustration’s shorthand is inconsistent."
+        }
+      ],
+      "figure": "assets/exam2-learning1-image14.jpg",
+      "figureAlt": "Counterconditioning illustration: trigger cues initially accompany fear, are then paired with food and a positive response, and later elicit a positive conditioned response. The original top-row UR label does not describe a learned fear response accurately.",
+      "figureCaption": "202 F26 Learning I Student Copy.pptx · slide 27 · original course figure; original credits retained."
+    },
+    {
+      "id": "exam2-learning2-consequences",
+      "unit": "Learning II",
+      "title": "Operant conditioning: identify the behavior and its consequence",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 3–11",
+      "body": [
+        "Operant conditioning is learning in which a behavior’s consequences change the probability that the behavior will occur again. Start with a specific target behavior, then identify what follows it and whether it becomes more or less likely. Classical conditioning instead concerns associations between stimuli that elicit responses; the lecture contrasts elicited responses with actions that produce consequences.",
+        "Reinforcement increases the target behavior; punishment decreases it. Positive means a stimulus is added, and negative means a stimulus is removed. These are two independent dimensions. Positive reinforcement adds something and increases behavior; negative reinforcement removes something and increases behavior. Positive punishment adds something and decreases behavior; negative punishment removes something and decreases behavior.",
+        "Classify the actual contingency, not whether the consequence sounds kind or unpleasant. Ending leash pressure when a dog heels is negative reinforcement if heeling increases. Withholding greeting attention after jumping is negative punishment if jumping decreases. An intended reward or penalty has not demonstrated its function until its effect on behavior is known.",
+        "The child examples on slide 10 include “time out” under positive punishment. The label alone does not settle the classification: if time-out removes access to enjoyable play and hitting decreases, that contingency is negative punishment. If an added consequence reduces hitting, that added consequence is positive punishment. Practice questions specify what changes so the answer does not depend on an ambiguous label."
+      ],
+      "terms": [
+        {
+          "term": "Operant conditioning",
+          "definition": "Learning in which consequences change the probability of the behavior that produced them."
+        },
+        {
+          "term": "Positive reinforcement",
+          "definition": "Adding a stimulus after a behavior increases that behavior."
+        },
+        {
+          "term": "Negative reinforcement",
+          "definition": "Removing a stimulus after a behavior increases that behavior."
+        },
+        {
+          "term": "Positive punishment",
+          "definition": "Adding a stimulus after a behavior decreases that behavior."
+        },
+        {
+          "term": "Negative punishment",
+          "definition": "Removing a stimulus after a behavior decreases that behavior."
+        }
+      ],
+      "recall": "What two questions separate all four operant contingencies?",
+      "answer": "Was a stimulus added or removed? Did the target behavior increase or decrease? Reinforcement increases behavior; punishment decreases it. Positive adds; negative removes.",
+      "questions": [
+        {
+          "prompt": "A student submits assignments before the deadline. Each early submission earns a bonus point, and early submissions become more frequent. How is the bonus functioning?",
+          "choices": [
+            "Negative reinforcement",
+            "Positive punishment",
+            "Positive reinforcement",
+            "Negative punishment"
+          ],
+          "correct": 2,
+          "explanation": "The bonus is added after early submission, and early submission increases: positive reinforcement.",
+          "choiceExplanations": [
+            "Nothing is removed after the early submission; a point is added.",
+            "A point is added, but the target behavior increases rather than decreases.",
+            "The added point is followed by more early submissions.",
+            "This would require removing a stimulus and reducing early submissions."
+          ],
+          "misconception": "Positive and negative describe addition and removal, not good and bad behavior."
+        },
+        {
+          "prompt": "A car’s warning tone stops when the driver fastens the seat belt. The driver begins fastening it sooner on later trips. What reinforces fastening?",
+          "choices": [
+            "Removal of the warning tone",
+            "Addition of the warning tone",
+            "Loss of an enjoyable privilege",
+            "A decrease in fastening behavior"
+          ],
+          "correct": 0,
+          "explanation": "Stopping the tone negatively reinforces fastening because removal of the stimulus strengthens that behavior.",
+          "choiceExplanations": [
+            "Fastening removes the tone, and fastening becomes more likely.",
+            "The tone begins before fastening; its removal follows the target behavior.",
+            "No privilege is lost after fastening in this scenario.",
+            "The described change is more prompt fastening, not a decrease."
+          ],
+          "misconception": "Negative reinforcement strengthens behavior; it is not a synonym for punishment."
+        },
+        {
+          "prompt": "After a child hits during play, access to the game is removed for a short period. Hitting becomes less frequent. Which contingency is described?",
+          "choices": [
+            "Positive reinforcement",
+            "Negative reinforcement",
+            "Positive punishment",
+            "Negative punishment"
+          ],
+          "correct": 3,
+          "explanation": "The target behavior is hitting. Removing access to the game reduces hitting, so this is negative punishment.",
+          "choiceExplanations": [
+            "Access is removed and hitting decreases, rather than a stimulus being added to increase hitting.",
+            "A stimulus is removed, but hitting decreases; reinforcement would increase it.",
+            "The specified change is removal of access to the game, not addition of a stimulus.",
+            "Removing access to play reduces hitting."
+          ],
+          "misconception": "A label such as time-out does not replace identifying the stimulus change and behavioral effect."
+        },
+        {
+          "prompt": "A dog’s barking is followed by an added aversive sound, and barking subsequently decreases. Which classification fits the stated effect?",
+          "choices": [
+            "Negative reinforcement",
+            "Positive punishment",
+            "Negative punishment",
+            "Positive reinforcement"
+          ],
+          "correct": 1,
+          "explanation": "An added consequence that decreases barking is positive punishment. This classification describes the contingency, not a recommendation to use it.",
+          "choiceExplanations": [
+            "The sound is added, and barking decreases; neither dimension fits negative reinforcement.",
+            "The added sound reduces the target behavior.",
+            "Negative punishment removes a stimulus; the sound is added here.",
+            "Reinforcement would require barking to increase."
+          ],
+          "misconception": "Whether an event is added and whether behavior increases must be judged separately."
+        },
+        {
+          "prompt": "A teacher intends extra worksheets to punish talking, but students talk more because the worksheets let them work with friends. What does the observed increase establish?",
+          "choices": [
+            "The worksheets are punishment because the teacher intended a penalty.",
+            "Talking is negatively reinforced because the worksheets are unpleasant.",
+            "The added consequence functions as positive reinforcement for talking.",
+            "The consequence cannot influence behavior unless students call it a reward."
+          ],
+          "correct": 2,
+          "explanation": "The added consequence is followed by more talking, so it functions as positive reinforcement despite the teacher’s intention.",
+          "choiceExplanations": [
+            "Intent does not define punishment; a decrease in the target behavior would.",
+            "The described consequence is added; calling it unpleasant does not establish removal.",
+            "An added consequence followed by increased talking has a reinforcing function.",
+            "A learner need not verbally identify a reward for a consequence to affect behavior."
+          ],
+          "misconception": "The functional effect on the specified behavior determines reinforcement versus punishment."
+        },
+        {
+          "prompt": "A trainer gives a new treat after each correct response. No information about later responding is available. Which conclusion is justified?",
+          "choices": [
+            "The trainer has arranged an intended reward; its reinforcing effect still needs to be measured.",
+            "Positive reinforcement has occurred because food was delivered.",
+            "Negative reinforcement has occurred because training reduces boredom.",
+            "Punishment has occurred because responding took effort."
+          ],
+          "correct": 0,
+          "explanation": "To demonstrate reinforcement, determine whether the correct response becomes more likely when the consequence is contingent on it.",
+          "choiceExplanations": [
+            "A consequence has been added, but evidence of increased behavior is missing.",
+            "Food may reinforce this learner, but delivery alone does not demonstrate an increase.",
+            "No removal contingent on the correct response is specified.",
+            "Effort before the consequence does not establish a subsequent decrease in behavior."
+          ],
+          "misconception": "A potential reinforcer and a demonstrated reinforcing effect are different claims."
+        }
+      ],
+      "figure": "assets/learning2-quadrants.png",
+      "figureAlt": "Four operant contingencies: add or remove a stimulus crossed with increase or decrease in behavior.",
+      "figureCaption": "Lecture’s four-quadrant summary. Read both the stimulus change and the direction of behavior change."
+    },
+    {
+      "id": "exam2-learning2-reinforcers",
+      "unit": "Learning II",
+      "title": "Primary, secondary and learner-dependent reinforcers",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 12–15",
+      "body": [
+        "Primary reinforcers have reinforcing value without learning the relevant association; the lecture gives food, water and warmth as examples. Their effectiveness still depends on the learner and circumstances: access to water is likely to matter differently when thirsty than after drinking.",
+        "Secondary, or conditioned, reinforcers gain value through learning. Money, tokens, marker words and clickers are examples in the slides. Classical conditioning can establish a marker’s association with an already effective reinforcer; the marker can then serve as a consequence in operant learning. An arbitrary sound is not automatically reinforcing just because a trainer uses it.",
+        "The learner’s behavior supplies the evidence. A trainer can select a candidate consequence, but cannot make it reinforcing by naming it a reward. Check whether the target behavior increases, and reconsider a previously effective consequence if responding changes."
+      ],
+      "terms": [
+        {
+          "term": "Primary reinforcer",
+          "definition": "A reinforcer whose relevant value does not require a learned association, such as food or water."
+        },
+        {
+          "term": "Secondary reinforcer",
+          "definition": "A stimulus that gains reinforcing value through learning, such as money or a trained marker."
+        },
+        {
+          "term": "Conditioned marker",
+          "definition": "A learned signal, such as a click or word, associated with an effective reinforcer."
+        }
+      ],
+      "recall": "How can a clicker involve both classical and operant learning?",
+      "answer": "Pairing the click with food can establish a learned association. Delivering that conditioned marker contingent on a behavior can then reinforce the behavior.",
+      "questions": [
+        {
+          "prompt": "A previously neutral click is repeatedly paired with food. Later, contingent clicks help maintain a trained response. What best explains the click’s role?",
+          "choices": [
+            "It is a primary reinforcer because sound is naturally rewarding.",
+            "It is a secondary reinforcer whose value was learned through association.",
+            "It is a punishment because it interrupts silence.",
+            "It is negative reinforcement because food is sometimes delayed."
+          ],
+          "correct": 1,
+          "explanation": "The click gains value through association with food and can function as a secondary reinforcer.",
+          "choiceExplanations": [
+            "The described reinforcing value was established through pairing, not assumed to be unlearned.",
+            "Pairing with food can give the click conditioned reinforcing value.",
+            "A sound being added says nothing about punishment; responding is maintained here.",
+            "Negative reinforcement requires removal contingent on behavior, which is not the mechanism described."
+          ],
+          "misconception": "A stimulus’s sensory form does not determine whether it is a primary or conditioned reinforcer."
+        },
+        {
+          "prompt": "Which pair most clearly contrasts a primary reinforcer with a secondary reinforcer in the lecture?",
+          "choices": [
+            "A learned click and a learned praise word",
+            "A coin and an exchangeable token",
+            "Warmth and water",
+            "Food and money"
+          ],
+          "correct": 3,
+          "explanation": "The lecture contrasts primary examples such as food with learned reinforcers such as money.",
+          "choiceExplanations": [
+            "Both can gain reinforcing value through learning.",
+            "Both depend on learned value rather than providing the primary contrast.",
+            "Both are primary examples in the lecture.",
+            "Food is a primary example; money’s value depends on learning."
+          ],
+          "misconception": "The distinction concerns how reinforcing value is acquired, not whether a reward can be held."
+        },
+        {
+          "prompt": "Two dogs receive the same toy after sitting. Sitting increases for one dog but not the other. What is the best interpretation?",
+          "choices": [
+            "The toy’s reinforcing effect depends on the learner and context.",
+            "A toy cannot function as a reinforcer for either dog.",
+            "The second dog is being punished whenever sitting stays unchanged.",
+            "The trainer’s identical intention establishes identical reinforcement."
+          ],
+          "correct": 0,
+          "explanation": "Reinforcement is identified by its effect on the learner’s behavior, so the same consequence need not work equally for both dogs.",
+          "choiceExplanations": [
+            "The measured behavior shows a reinforcing effect for one dog but not the other.",
+            "The increase in one dog’s sitting provides evidence that it can.",
+            "An unchanged rate does not demonstrate the decrease required for punishment.",
+            "Identical plans do not guarantee identical behavioral effects."
+          ],
+          "misconception": "The person delivering a reward does not determine its function by intention alone."
+        },
+        {
+          "prompt": "A token is used in training before the learner has experienced any link between tokens and valued outcomes. Responding does not increase. What is the most useful next question?",
+          "choices": [
+            "Was the token colorful enough to count as a primary reinforcer?",
+            "Did the trainer call the token a reward?",
+            "Has the token acquired value through a learned association with effective reinforcers?",
+            "Was something removed after the behavior to make token delivery negative?"
+          ],
+          "correct": 2,
+          "explanation": "A token needs learned value to function as a conditioned reinforcer; its mere delivery does not guarantee reinforcement.",
+          "choiceExplanations": [
+            "Color does not make a token’s exchange value unlearned.",
+            "The trainer’s wording does not establish reinforcing value.",
+            "Tokens are conditioned reinforcers, so their learned value matters.",
+            "Delivery adds a token; its sign is not changed by whether the learner values it."
+          ],
+          "misconception": "Tokens are not inherently reinforcing just because they are used in a reward system."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-shaping",
+      "unit": "Learning II",
+      "title": "Shaping through successive approximations",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 16–20",
+      "body": [
+        "Shaping reinforces successive approximations to a target behavior. Begin with an action the learner already offers that is closer to the goal, then gradually raise the criterion. For a dog moving onto a platform, a progression might be looking toward it, approaching it, placing a paw on it, then standing on it. This sequence is a new practice example, not a reported experiment from the slides.",
+        "The defining feature is a changing reinforcement criterion for closer approximations. Rewarding a fully formed sit repeatedly can strengthen sitting, but by itself does not demonstrate shaping. The lecture describes the animal offering behavior without assistance; physically placing the learner into the final position does not illustrate that process.",
+        "If the criterion jumps beyond what the learner currently offers, reinforcement may become scarce. A useful analysis asks which achievable approximation should receive reinforcement next, rather than assuming the learner must produce the final complex action immediately. The assigned clips illustrate complex trained actions; use them to look for possible approximations, without assuming an unseen training history."
+      ],
+      "terms": [
+        {
+          "term": "Shaping",
+          "definition": "Reinforcing successive approximations to a target behavior by gradually changing the criterion."
+        },
+        {
+          "term": "Successive approximation",
+          "definition": "An offered action closer to the target that can be reinforced on the way to the final behavior."
+        },
+        {
+          "term": "Reinforcement criterion",
+          "definition": "The requirement a response must meet to receive reinforcement at the current training stage."
+        }
+      ],
+      "recall": "Why is rewarding a completed trick not enough to show that shaping occurred?",
+      "answer": "Shaping requires evidence that progressively closer approximations were reinforced. A reward after the final action could simply maintain an already established behavior.",
+      "questions": [
+        {
+          "prompt": "A trainer first rewards a dog for looking at a mat, then for approaching it, then for placing both front paws on it. What makes this shaping?",
+          "choices": [
+            "A previously established mat behavior is reinforced intermittently.",
+            "The same completed behavior receives a reward on every trial.",
+            "The trainer physically positions the dog on every trial.",
+            "Reinforcement shifts to offered behaviors progressively closer to the goal."
+          ],
+          "correct": 3,
+          "explanation": "The criterion becomes progressively closer to getting onto the mat: this is shaping.",
+          "choiceExplanations": [
+            "The defining detail is a changing approximation criterion, not a stated intermittent schedule.",
+            "The criterion changes from looking to approaching to paws on the mat.",
+            "Physical positioning is not described; the dog offers the approximations.",
+            "The changing criterion selects successive approximations."
+          ],
+          "misconception": "A changing criterion for closer approximations distinguishes shaping from simply repeating a rewarded action."
+        },
+        {
+          "prompt": "A dog reliably sits, and receives a treat for each completed sit. Which additional evidence would demonstrate shaping of a new bow?",
+          "choices": [
+            "The treats are delivered in a different room.",
+            "Rewards first follow a slight head dip, then progressively deeper dips toward the bow.",
+            "The trainer gives larger treats for the same completed sit.",
+            "The trainer repeats the word “bow” while rewarding completed sits."
+          ],
+          "correct": 1,
+          "explanation": "Progressively reinforcing closer approximations to bowing would demonstrate shaping of that new behavior.",
+          "choiceExplanations": [
+            "A context change does not establish successive approximations to bowing.",
+            "The changing criterion selects closer approximations to the new action.",
+            "Reward size can change without shaping a new response.",
+            "A new word does not show that bow-like approximations are being selected."
+          ],
+          "misconception": "Shaping is about how the response criterion develops, not the novelty of a cue or reward."
+        },
+        {
+          "prompt": "A trainer rewards looking toward a platform, then suddenly requires all four paws on it. The dog rarely earns reinforcement. Which adjustment best follows shaping principles?",
+          "choices": [
+            "Reinforce an achievable intermediate step, such as approaching or one paw on the platform.",
+            "Require a longer stay on the platform before offering any reinforcement.",
+            "Give rewards after unrelated barking to keep reward frequency high.",
+            "Give rewards whenever the dog looks at the trainer, regardless of its position near the platform."
+          ],
+          "correct": 0,
+          "explanation": "An achievable intermediate approximation creates a path from current behavior toward the target.",
+          "choiceExplanations": [
+            "An intermediate approximation bridges the large gap in criteria.",
+            "This makes the unmet criterion even more demanding.",
+            "That would select a different behavior rather than an approximation to the goal.",
+            "That selects attention to the trainer rather than the specified next approximation toward the platform."
+          ],
+          "misconception": "Raising the criterion faster is not the same as shaping more effectively."
+        },
+        {
+          "prompt": "A clip shows a dog performing a complex high jump. What evidence would most directly support the claim that the action was taught by shaping?",
+          "choices": [
+            "The jump looks difficult to a human viewer.",
+            "The dog receives a reward after the final jump.",
+            "Training records show reinforcement for progressively higher jumps the dog offered.",
+            "The trainer uses a spoken cue before the jump."
+          ],
+          "correct": 2,
+          "explanation": "Records of progressively reinforced approximations support shaping; a final performance alone does not establish its training history.",
+          "choiceExplanations": [
+            "Complexity alone does not reveal the training method.",
+            "A final reward could maintain a behavior learned through another process.",
+            "These records directly show successive approximations being selected.",
+            "A cue can accompany a behavior without demonstrating how it was acquired."
+          ],
+          "misconception": "Do not infer an entire learning process from a successful finished performance."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-premack",
+      "unit": "Learning II",
+      "title": "Premack: use a preferred activity as a reinforcer",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 21–23",
+      "body": [
+        "The Premack principle uses a more preferred, higher-probability activity to reinforce a less preferred, lower-probability activity. The contingency is “first the less preferred action, then access to the preferred activity.” The lecture’s examples include homework before play, vegetables before dessert, and walking nicely before sniffing.",
+        "The critical details are the learner’s preferences, the order, and access being contingent on the target behavior. Merely doing two activities in sequence is not enough. If a child strongly prefers reading to a particular game, reading could reinforce completing that game; the adult’s assumptions about which activity should be fun do not determine the relation.",
+        "The same situation can be described at more than one level. Allowing a preferred activity after a target response can positively reinforce that response; the Premack principle explains why that activity is a useful candidate reinforcer. Confirm the effect by checking whether the less preferred response increases."
+      ],
+      "terms": [
+        {
+          "term": "Premack principle",
+          "definition": "Access to a more preferred, higher-probability activity can reinforce a less preferred, lower-probability activity."
+        },
+        {
+          "term": "Contingent access",
+          "definition": "Access to an activity depends on completing the specified target behavior."
+        }
+      ],
+      "recall": "What must you know before using “first homework, then play” as a Premack example?",
+      "answer": "Play must be more preferred for this learner, access must depend on homework, and an increase in homework behavior would establish a reinforcing effect.",
+      "questions": [
+        {
+          "prompt": "A child usually chooses playground time over worksheets. Playground access is made contingent on finishing a worksheet, and worksheet completion increases. Which principle best explains the activity choice?",
+          "choices": [
+            "Shaping, because the worksheet criterion gradually changes",
+            "Negative punishment, because worksheet completion decreases",
+            "Premack, because a preferred activity reinforces a less preferred one",
+            "Classical extinction, because playground cues occur without play"
+          ],
+          "correct": 2,
+          "explanation": "Access to the preferred activity reinforces the less preferred action, illustrating Premack.",
+          "choiceExplanations": [
+            "No sequence of closer approximations or changing criterion is described.",
+            "Completion increases and access to play follows it.",
+            "The higher-preference activity is contingent on worksheet completion.",
+            "Play is delivered after the specified action, not omitted after a cue."
+          ],
+          "misconception": "The relevant relation is between this learner’s activity preferences and the access contingency."
+        },
+        {
+          "prompt": "A dog strongly prefers sniffing to walking beside its handler. Which arrangement best uses the Premack principle to increase walking beside the handler?",
+          "choices": [
+            "Allow sniffing after a short period of walking beside the handler.",
+            "Allow sniffing before every walk, independent of the dog’s behavior.",
+            "Require sniffing before granting access to the less preferred walking activity.",
+            "Allow sniffing whenever the dog pulls away from the handler."
+          ],
+          "correct": 0,
+          "explanation": "Make access to sniffing contingent on the behavior you want to increase.",
+          "choiceExplanations": [
+            "Access to the preferred activity follows the less preferred target behavior.",
+            "Noncontingent access does not link the preferred activity to the target response.",
+            "This reverses the stated preference relation.",
+            "This makes access contingent on pulling, not walking beside the handler."
+          ],
+          "misconception": "A preferred activity can strengthen whichever behavior actually earns access, including an unintended one."
+        },
+        {
+          "prompt": "A parent offers a video game after reading, but the child consistently prefers reading and avoids that game. What assumption in the planned Premack arrangement is unsupported?",
+          "choices": [
+            "Reading must be reinforced with a physical object.",
+            "A preferred activity must occur before the target behavior.",
+            "The target must be shaped before any activity can reinforce it.",
+            "The offered game is the higher-preference activity for this child."
+          ],
+          "correct": 3,
+          "explanation": "The offered activity is not shown to be more preferred for this learner, so the proposed preference relation is unsupported.",
+          "choiceExplanations": [
+            "Premack explicitly allows an activity to serve as the reinforcer.",
+            "The intended access follows the target behavior.",
+            "Shaping is not a prerequisite for every use of an activity reinforcer.",
+            "The child’s choices contradict the adult’s assumed preference ranking."
+          ],
+          "misconception": "Adults do not define a learner’s preference hierarchy by labeling activities fun or work."
+        },
+        {
+          "prompt": "A student studies and then watches a favorite show every evening, regardless of how much studying was completed. What is missing before this routine clearly demonstrates Premack reinforcement of completing a chapter?",
+          "choices": [
+            "A biologically primary reward instead of an activity",
+            "Show access contingent on chapter completion, with evidence that completion increases",
+            "A penalty added after each completed chapter",
+            "A fixed number of minutes between the two activities"
+          ],
+          "correct": 1,
+          "explanation": "Sequence alone is insufficient: access must depend on the target behavior, and its reinforcing effect must be demonstrated.",
+          "choiceExplanations": [
+            "A preferred activity can serve as a reinforcer.",
+            "The present routine does not make access depend on that target response.",
+            "An added penalty is not required by the Premack principle.",
+            "Timing alone does not establish the required response contingency."
+          ],
+          "misconception": "Doing a pleasant activity after work does not by itself establish a reinforcement contingency."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-intermittent",
+      "unit": "Learning II",
+      "title": "Continuous and intermittent reinforcement",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 24–25",
+      "body": [
+        "Continuous reinforcement delivers reinforcement after every occurrence of the specified response. Intermittent reinforcement delivers it after some occurrences. The lecture pairs continuous reinforcement with establishing a behavior and intermittent reinforcement with maintaining it once established.",
+        "Continuous reinforcement can make the response–consequence relation clear during acquisition. With intermittent reinforcement, unrewarded responses have already occurred during reinforced training. Consequently, a run without reinforcement is less immediately distinct from training, which helps explain greater persistence when reinforcement stops. This is resistance to extinction, not a guarantee that behavior will continue forever.",
+        "Do not confuse intermittent reinforcement with intermittent punishment or with a behavior occurring only occasionally. The classification concerns how often the consequence follows the response. Continuous reinforcement also does not mean a reinforcer is present continuously in the environment."
+      ],
+      "terms": [
+        {
+          "term": "Continuous reinforcement",
+          "definition": "Reinforcing every occurrence of the specified response."
+        },
+        {
+          "term": "Intermittent reinforcement",
+          "definition": "Reinforcing some, rather than every, occurrences of a response."
+        },
+        {
+          "term": "Resistance to extinction",
+          "definition": "Persistence of responding when reinforcement is discontinued."
+        }
+      ],
+      "recall": "Why might an intermittently reinforced behavior persist when rewards stop?",
+      "answer": "Unrewarded responses were already part of its reinforcement history, so several responses without a reward do not immediately distinguish extinction from previous training.",
+      "questions": [
+        {
+          "prompt": "During training, every correct button press earns a point. The experimenter then changes to rewarding only some correct presses. What changed?",
+          "choices": [
+            "Intermittent reinforcement became continuous reinforcement.",
+            "Continuous reinforcement became intermittent reinforcement.",
+            "Positive reinforcement became negative reinforcement.",
+            "Reinforcement became punishment because some presses earn nothing."
+          ],
+          "correct": 1,
+          "explanation": "The change concerns reinforcement frequency: every occurrence to some occurrences.",
+          "choiceExplanations": [
+            "The change goes from every response to some responses, the reverse direction.",
+            "Every response was rewarded initially; only some are rewarded afterward.",
+            "Points are still added; the frequency of delivery changed.",
+            "Omitting reinforcement on some trials does not by itself establish punishment."
+          ],
+          "misconception": "Intermittent describes the delivery schedule, not a switch from reinforcement to punishment."
+        },
+        {
+          "prompt": "Two established responses have different histories: one was rewarded every time, the other only on some trials. Rewards now stop for both. Why might the second persist longer?",
+          "choices": [
+            "Averaging rewards across trials makes both histories functionally continuous.",
+            "It cannot undergo extinction once intermittent training begins.",
+            "The absence of a reward is punishment that strengthens the response.",
+            "Responses without reward were already part of its training history."
+          ],
+          "correct": 3,
+          "explanation": "Intermittent training includes nonrewarded responses, which helps explain greater resistance when reinforcement is discontinued.",
+          "choiceExplanations": [
+            "The intermittently trained response still has a history of individual unrewarded responses; an average does not erase it.",
+            "Intermittent training can increase persistence without making extinction impossible.",
+            "Punishment decreases a target behavior; persistence is explained by the previous reinforcement history, not by redefining punishment.",
+            "A run of nonreward is less distinct from what occurred during intermittent training."
+          ],
+          "misconception": "Resistance to extinction is increased persistence, not immunity to extinction."
+        },
+        {
+          "prompt": "A tutor wants to establish a new response and later maintain it with fewer rewards. Which sequence matches the lecture’s distinction?",
+          "choices": [
+            "Begin with reinforcement of each correct response, then move to reinforcement of some responses once established.",
+            "Begin with sparse rewards for correct responses, then reward every response during maintenance.",
+            "Reward each attempt during acquisition, including incorrect responses, then omit all rewards during maintenance.",
+            "Start with reinforcement of some responses because the response is already established by definition."
+          ],
+          "correct": 0,
+          "explanation": "The lecture recommends continuous reinforcement for establishment and intermittent reinforcement for maintenance.",
+          "choiceExplanations": [
+            "This matches continuous acquisition followed by intermittent maintenance.",
+            "This reverses the acquisition–maintenance sequence emphasized in the lecture.",
+            "This does not make reinforcement specific to the correct response, and complete discontinuation is extinction rather than intermittent maintenance.",
+            "A new response is not established merely because training has started."
+          ],
+          "misconception": "A schedule useful for maintaining an established behavior need not be the clearest arrangement for initial acquisition."
+        },
+        {
+          "prompt": "A bird pecks rarely, but each peck always earns food. Which reinforcement schedule is described at this level?",
+          "choices": [
+            "Intermittent, because the bird seldom pecks",
+            "Negative, because food is absent between pecks",
+            "Continuous, because every specified response is reinforced",
+            "Punishment, because the bird’s responding is infrequent"
+          ],
+          "correct": 2,
+          "explanation": "Every occurrence of the response is reinforced, so the schedule is continuous regardless of the low response rate.",
+          "choiceExplanations": [
+            "Response frequency is different from the fraction of responses reinforced.",
+            "Negative reinforcement requires removal contingent on pecking, not food absence between trials.",
+            "Each peck earns food even though pecks are infrequent.",
+            "A low rate alone does not establish a consequence that decreases responding."
+          ],
+          "misconception": "Do not classify the reinforcement schedule from how frequently the learner acts."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-schedule-rules",
+      "unit": "Learning II",
+      "title": "Four schedules: count responses or track availability",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 26–28",
+      "body": [
+        "A ratio schedule bases reinforcement on the number of responses; an interval schedule makes reinforcement available after time has elapsed and delivers it for the first response after that interval. Fixed means the requirement stays the same; variable means it changes around an average. Ask “responses or time?” before “predictable or varying?”",
+        "Fixed ratio (FR): reinforce after a fixed number of responses, such as every fifth completed unit. Variable ratio (VR): the required response count varies, such as reinforcement after 3, then 7, then 5 responses. The average does not mean every fifth response is reinforced.",
+        "Fixed interval (FI): reinforce the first response after a constant interval, such as the first button press after each two-minute wait. Variable interval (VI): reinforce the first response after varying intervals. Pressing faster during the wait does not make interval availability arrive sooner.",
+        "The slides use everyday pay and gambling examples. For precise classification, identify the actual rule: payment solely because two weeks passed is not enough to establish an FI response contingency. A question must specify that a response after the time interval earns the available outcome. Likewise, an unpredictable reward could be VR or VI; unpredictability alone does not distinguish them."
+      ],
+      "terms": [
+        {
+          "term": "Fixed ratio (FR)",
+          "definition": "Reinforcement follows a fixed number of responses."
+        },
+        {
+          "term": "Variable ratio (VR)",
+          "definition": "The response count required for reinforcement varies around an average."
+        },
+        {
+          "term": "Fixed interval (FI)",
+          "definition": "The first response after a constant time interval is reinforced."
+        },
+        {
+          "term": "Variable interval (VI)",
+          "definition": "The first response after a varying time interval is reinforced."
+        }
+      ],
+      "recall": "What distinguishes variable ratio from variable interval if both are unpredictable?",
+      "answer": "VR varies the number of responses needed. VI varies the time before reinforcement becomes available, then reinforces the first eligible response. More rapid responding advances a ratio requirement but does not make an interval elapse sooner.",
+      "questions": [
+        {
+          "prompt": "A worker earns a bonus for every fifth completed item. What schedule governs the bonus?",
+          "choices": [
+            "Fixed interval",
+            "Variable interval",
+            "Variable ratio",
+            "Fixed ratio"
+          ],
+          "correct": 3,
+          "explanation": "Every fifth item is a fixed response-count requirement: fixed ratio.",
+          "choiceExplanations": [
+            "The requirement is five responses, not a constant waiting interval.",
+            "Neither varying time nor a first response after an interval is specified.",
+            "The response requirement is constant, rather than varying.",
+            "Each bonus follows the same count of completed items."
+          ],
+          "misconception": "A regular reward can be fixed ratio or fixed interval; identify whether count or time controls it."
+        },
+        {
+          "prompt": "A game awards a prize after 4 responses, then 9, then 2, with future response requirements also varying. Which schedule is described?",
+          "choices": [
+            "Variable ratio",
+            "Fixed ratio",
+            "Variable interval",
+            "Fixed interval"
+          ],
+          "correct": 0,
+          "explanation": "The variable requirement is a number of responses, so the schedule is variable ratio.",
+          "choiceExplanations": [
+            "The number of responses required for a prize varies.",
+            "The required count changes from prize to prize.",
+            "The rule specifies counts, not elapsed time before availability.",
+            "No constant waiting interval is specified."
+          ],
+          "misconception": "Variable does not automatically mean interval; inspect what varies."
+        },
+        {
+          "prompt": "After each reward, a two-minute timer starts. The first button press after the timer finishes earns the next reward; earlier presses earn nothing. Which schedule applies?",
+          "choices": [
+            "Fixed ratio",
+            "Variable ratio",
+            "Fixed interval",
+            "Variable interval"
+          ],
+          "correct": 2,
+          "explanation": "A fixed wait followed by reinforcement of the first eligible response defines fixed interval.",
+          "choiceExplanations": [
+            "The rule does not require a fixed number of presses.",
+            "The response count is not the requirement that controls reward availability.",
+            "A constant time must pass, then the first eligible press is reinforced.",
+            "The interval is consistently two minutes rather than varying."
+          ],
+          "misconception": "Interval schedules still require a response; the passage of time establishes availability."
+        },
+        {
+          "prompt": "A reward becomes available after waits of 20, 70 and 40 seconds. Each available reward is delivered on the next button press. Which schedule is this?",
+          "choices": [
+            "Variable ratio",
+            "Variable interval",
+            "Fixed interval",
+            "Continuous reinforcement"
+          ],
+          "correct": 1,
+          "explanation": "Varying time before availability followed by a required response defines variable interval.",
+          "choiceExplanations": [
+            "The changing requirement is time, not number of presses.",
+            "The wait varies and the first response after availability earns reinforcement.",
+            "The waits are not constant.",
+            "Presses during the wait are not reinforced."
+          ],
+          "misconception": "Unpredictable timing is different from an unpredictable response-count requirement."
+        },
+        {
+          "prompt": "A learner presses faster during an interval before reinforcement becomes available. What does the increased rate change in an interval schedule?",
+          "choices": [
+            "It makes the waiting interval finish sooner.",
+            "It turns the interval rule into a ratio rule.",
+            "It guarantees a reward for each extra press.",
+            "It adds responses, but does not bring availability forward."
+          ],
+          "correct": 3,
+          "explanation": "Interval availability is controlled by elapsed time. Additional early responses do not shorten it.",
+          "choiceExplanations": [
+            "Time availability does not advance with the number of presses.",
+            "A change in behavior does not change the experimenter’s reinforcement rule.",
+            "Presses before availability remain ineligible.",
+            "More responses do not shorten the interval; a response is still needed once it ends."
+          ],
+          "misconception": "Response rate and the programmed reinforcement requirement are different variables."
+        },
+        {
+          "prompt": "A description says, “Rewards arrive unpredictably.” What additional detail is most necessary to distinguish VR from VI?",
+          "choices": [
+            "Whether rewards depend on varying response counts or the first response after varying waits",
+            "Whether the learner considers the reward pleasant",
+            "Whether a person or a computer delivers the reward",
+            "Whether the reward is a token or food"
+          ],
+          "correct": 0,
+          "explanation": "Determine what controls availability: a response count for VR or time followed by a response for VI.",
+          "choiceExplanations": [
+            "This identifies the ratio-versus-interval requirement.",
+            "Preference can affect reinforcement but does not distinguish count from time.",
+            "Either can implement either schedule.",
+            "Reinforcer type does not define the schedule."
+          ],
+          "misconception": "Unpredictability identifies variability but leaves the ratio-versus-interval dimension unresolved."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-schedule-patterns",
+      "unit": "Learning II",
+      "title": "Read the cumulative-response graph",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 29–30",
+      "body": [
+        "The lecture graph plots cumulative responses vertically against time horizontally. A steeper segment means a higher response rate; a flat segment means a pause. A cumulative line records responses already made, so a falling response rate makes its slope shallower rather than making the total fall. The axes do not provide numerical scales for calculating an exact rate.",
+        "The illustrated variable-ratio line is steep and steady. The fixed-ratio line shows rapid responding separated by post-reinforcement pauses. Both ratio examples support high rates in the figure. The variable-interval line is steadier and more moderate; the fixed-interval line shows pauses followed by accelerating responding as the interval progresses, producing scallops.",
+        "Explain the patterns in terms of the rules. Extra responses advance a ratio requirement. On interval schedules, fast responding during the wait cannot make the reward available sooner. Treat the curves as the lecture’s characteristic patterns, not as a guarantee that every learner in every setting will reproduce identical lines."
+      ],
+      "terms": [
+        {
+          "term": "Cumulative-response graph",
+          "definition": "A running total of responses plotted against time; slope indicates response rate."
+        },
+        {
+          "term": "Post-reinforcement pause",
+          "definition": "A pause after reinforcement, visible as a flat part of a cumulative-response curve."
+        },
+        {
+          "term": "Fixed-interval scallop",
+          "definition": "A pattern of pausing and then increasing responding as a fixed interval progresses."
+        }
+      ],
+      "recall": "How can response rate fall while the cumulative-response line still rises?",
+      "answer": "The total can keep increasing at a slower pace. A lower rate produces a shallower positive slope; a pause produces a flat line.",
+      "questions": [
+        {
+          "prompt": "On a cumulative-response graph, one segment is much steeper than another over the same amount of time. What does that establish?",
+          "choices": [
+            "The learner received a larger reward.",
+            "The learner responded at a higher rate during the steeper segment.",
+            "The learner forgot earlier responses in the flatter segment.",
+            "The steeper segment must represent an interval schedule."
+          ],
+          "correct": 1,
+          "explanation": "Steeper cumulative-response slopes mean more responses per unit time.",
+          "choiceExplanations": [
+            "Slope records responses per time, not reward magnitude.",
+            "More responses accumulated per unit time.",
+            "The graph accumulates responses; earlier responses are not subtracted.",
+            "Slope alone does not establish the programmed schedule."
+          ],
+          "misconception": "Read the plotted variables before inferring why the behavior occurred."
+        },
+        {
+          "prompt": "Which characteristic pattern is paired with fixed interval in the lecture’s graph?",
+          "choices": [
+            "A steep steady line with no visible pauses",
+            "A total that falls each time reinforcement is delivered",
+            "A steady moderate rate with little change across an interval",
+            "A pause followed by accelerating responding, repeated in scallops"
+          ],
+          "correct": 3,
+          "explanation": "The fixed-interval curve shows repeated pauses and acceleration toward reinforcement availability.",
+          "choiceExplanations": [
+            "That describes the illustrated variable-ratio pattern more closely.",
+            "A cumulative response count does not fall after reinforcement.",
+            "That fits the illustrated variable-interval curve more closely.",
+            "This is the lecture’s characteristic fixed-interval pattern."
+          ],
+          "misconception": "Fixed interval and fixed ratio can both show pauses, but their illustrated between-pause patterns differ."
+        },
+        {
+          "prompt": "Which comparison best matches the lecture’s FR and VR curves?",
+          "choices": [
+            "Both show high responding, with clearer post-reinforcement pauses in FR.",
+            "Both require time to pass before responses can count.",
+            "VR is the scalloped curve and FR the moderate steady curve.",
+            "FR’s cumulative total decreases during pauses, while VR’s increases."
+          ],
+          "correct": 0,
+          "explanation": "Both ratio examples support high rates, but FR shows clearer post-reinforcement pauses.",
+          "choiceExplanations": [
+            "The FR curve has pauses; the VR curve is steep and steadier.",
+            "Both are ratio rules based on response counts.",
+            "Those are the illustrated FI and VI patterns, respectively.",
+            "During pauses the cumulative total stays flat rather than decreasing."
+          ],
+          "misconception": "High response rate is distinct from an absence of pauses."
+        },
+        {
+          "prompt": "A cumulative-response curve becomes flat for a short period after reinforcement. Which conclusion is warranted from that segment alone?",
+          "choices": [
+            "The learner has permanently lost the response.",
+            "The reward has reduced the cumulative number of responses.",
+            "No new responses were recorded during that period.",
+            "The programmed schedule must have changed from ratio to interval."
+          ],
+          "correct": 2,
+          "explanation": "A flat cumulative segment records a pause. Its cause or permanence requires more evidence.",
+          "choiceExplanations": [
+            "A short pause does not establish permanent loss of learning.",
+            "A pause leaves the total unchanged.",
+            "A flat cumulative line means the running total did not increase.",
+            "The flat segment does not reveal a change in schedule rules."
+          ],
+          "misconception": "A graph can show what happened without uniquely identifying the mechanism behind it."
+        }
+      ],
+      "figure": "assets/learning2-schedules.png",
+      "figureAlt": "Cumulative responses over time: steep steady variable ratio, fixed ratio with pauses, moderate steady variable interval, and scalloped fixed interval.",
+      "figureCaption": "Lecture slide 30. Compare slopes and pauses qualitatively; the axes have no numerical time or response scale."
+    },
+    {
+      "id": "exam2-learning2-punishment",
+      "unit": "Learning II",
+      "title": "Why punishment may fail to change behavior reliably",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 31",
+      "body": [
+        "The lecture asks why punishment can be ineffective, using speeding tickets and a dog jumping on people as prompts. Analyze the contingency rather than assuming a consequence must work because it is called a penalty. The following explanations apply the earlier principles to those prompts; the slide does not report a controlled experiment or measured outcomes for them.",
+        "If a consequence follows only some occurrences, the learner may continue receiving other reinforcing outcomes on many occasions. A dog may keep obtaining attention from visitors after jumping, even if one person sometimes responds with a penalty. A purported punishment also may not function as punishment for this learner: attention meant as a reprimand can increase attention-seeking behavior.",
+        "Reducing an unwanted response does not automatically teach a useful alternative. Ask separately whether the behavior actually decreases, what consequences still maintain it, and what acceptable response could be reinforced. These questions explain limitations without claiming punishment can never suppress behavior."
+      ],
+      "terms": [
+        {
+          "term": "Competing consequences",
+          "definition": "Other outcomes of the same behavior that may help maintain it despite a penalty."
+        },
+        {
+          "term": "Alternative response",
+          "definition": "A specified acceptable behavior that can be reinforced instead of the unwanted behavior."
+        }
+      ],
+      "recall": "Why is “a penalty was delivered” insufficient to explain whether jumping will decrease?",
+      "answer": "You need its observed effect, how consistently the contingency operates, and whether attention or other outcomes continue reinforcing jumping. Suppression also does not establish a replacement response.",
+      "questions": [
+        {
+          "prompt": "One visitor scolds a dog for jumping; several others pet it immediately after it jumps. Jumping continues. Which explanation best uses operant principles?",
+          "choices": [
+            "The word “scold” guarantees that every consequence is punishment.",
+            "Any penalty must eliminate reinforcement delivered by other people.",
+            "Attention from other visitors may continue reinforcing jumping.",
+            "Persistent jumping proves the dog cannot learn from consequences."
+          ],
+          "correct": 2,
+          "explanation": "The behavior continues to produce attention, which may compete with the intended penalty.",
+          "choiceExplanations": [
+            "Names and intentions do not establish behavioral function.",
+            "Other reinforcing outcomes can continue to maintain the behavior.",
+            "The behavior still produces a potentially reinforcing consequence on other occasions.",
+            "The continued behavior may itself reflect learning from attention."
+          ],
+          "misconception": "A behavior can have multiple consequences; one intended penalty does not erase the others."
+        },
+        {
+          "prompt": "A student stops calling out after a penalty is introduced, but does not begin raising a hand. What does this illustrate?",
+          "choices": [
+            "Reducing one behavior does not automatically establish an alternative response.",
+            "Punishment must have increased calling out.",
+            "Hand raising is negatively reinforced by definition.",
+            "Operant learning did not occur because both behaviors did not change."
+          ],
+          "correct": 0,
+          "explanation": "The consequence can suppress calling out without teaching hand raising; the alternative needs its own learning conditions.",
+          "choiceExplanations": [
+            "Suppression of calling out and acquisition of hand raising are separate outcomes.",
+            "Calling out decreased in the scenario.",
+            "No removal contingent on hand raising is specified.",
+            "The decrease in calling out can reflect operant learning even without a new response."
+          ],
+          "misconception": "Successful suppression is not evidence that a desired replacement has been acquired."
+        },
+        {
+          "prompt": "A driver receives an occasional speeding ticket but usually reaches destinations sooner when speeding. Which analysis is most relevant to persistent speeding?",
+          "choices": [
+            "The ticket is negative reinforcement because it removes money.",
+            "The driver is on continuous punishment because at least one ticket occurred.",
+            "Persistent speeding proves the ticket has no effect on any occasion.",
+            "An intermittent penalty competes with outcomes that may reinforce speeding."
+          ],
+          "correct": 3,
+          "explanation": "Consider the entire consequence pattern, including potentially reinforcing outcomes that remain available.",
+          "choiceExplanations": [
+            "Money loss would be negative punishment if it reduced speeding, not negative reinforcement merely because something is removed.",
+            "Continuous would require the consequence after every occurrence, which is not described.",
+            "Continued behavior does not establish zero effect; compare rates and the full pattern of consequences.",
+            "Both the infrequent penalty and the frequent time-related outcome belong in the analysis."
+          ],
+          "misconception": "Analyzing persistent behavior requires more than identifying the intended penalty."
+        },
+        {
+          "prompt": "A reprimand is intended to reduce interruptions. Interruptions increase whenever the reprimand brings the adult’s attention. What should be revised first?",
+          "choices": [
+            "The definition of interruption so the increase becomes a decrease",
+            "The assumption that the reprimand is functioning as punishment",
+            "The rule that positive means adding a stimulus",
+            "The assumption that reinforcement can involve social attention"
+          ],
+          "correct": 1,
+          "explanation": "The measured increase challenges the intended punishment label and suggests a reinforcing effect of attention.",
+          "choiceExplanations": [
+            "Changing labels does not explain the observed behavioral effect.",
+            "An increase suggests the added attention may be reinforcing interruptions.",
+            "The attention is still added; the disputed dimension is its effect.",
+            "Attention can function as a reinforcer if it increases the behavior."
+          ],
+          "misconception": "An unpleasant-sounding social response can function differently from its intended purpose."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-interaction",
+      "unit": "Learning II",
+      "title": "When operant and classical learning interact",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 32–34",
+      "body": [
+        "The lecture’s dog-reactivity example asks about two processes operating together. If barking at another dog produces an added aversive event and barking decreases, that is positive punishment of barking. At the same time, repeated pairing of the other dog with the aversive event can establish a classical association between that cue and an aversive outcome.",
+        "A quieter visible response does not by itself show that fear has decreased. The operant target is an observable action; the classical question concerns what a cue predicts and the elicited reaction to it. Do not infer the learner’s full emotional state solely from suppression of the action.",
+        "The lecture contrasts this with reinforcing an alternative behavior when another dog appears. Food contingent on looking toward the handler can positively reinforce that action; pairing the other dog’s appearance with food can also change what that cue predicts. These are conceptual analyses of the slide scenarios, not an individualized animal-training plan."
+      ],
+      "terms": [
+        {
+          "term": "Classical–operant interaction",
+          "definition": "A situation in which stimulus associations and action–consequence learning occur together."
+        },
+        {
+          "term": "Behavior suppression",
+          "definition": "A reduction in an observable action; this alone does not demonstrate reduced fear of the cue."
+        }
+      ],
+      "recall": "How could barking decrease while an aversive association with another dog develops?",
+      "answer": "An added consequence can punish barking while the other dog’s appearance becomes associated with that aversive event. Less barking does not establish less fear.",
+      "questions": [
+        {
+          "prompt": "Seeing another dog is repeatedly followed by a shock contingent on barking. Barking decreases. Which analysis distinguishes the two learning processes?",
+          "choices": [
+            "Classical learning is the decrease in barking; operant learning is the dog cue predicting shock.",
+            "Operant learning concerns barking’s consequence; classical learning concerns the other dog predicting an aversive event.",
+            "Both processes require the learner to imitate another dog.",
+            "The decrease in barking proves no classical association can form."
+          ],
+          "correct": 1,
+          "explanation": "Analyze the barking–consequence relation separately from the other-dog–aversive-event association.",
+          "choiceExplanations": [
+            "This reverses the action–consequence and stimulus-association relations.",
+            "The scenario contains both a response contingency and a potential stimulus association.",
+            "Imitation is not the mechanism described here.",
+            "Suppressing an action does not prevent concurrent stimulus learning."
+          ],
+          "misconception": "Classical and operant conditioning can occur in the same situation."
+        },
+        {
+          "prompt": "A dog barks less after an aversive consequence is introduced. Which conclusion would go beyond the evidence given?",
+          "choices": [
+            "Barking has decreased in the observed setting.",
+            "An added consequence may be functioning as positive punishment.",
+            "The emotional response to the other dog requires separate assessment.",
+            "The dog now feels comfortable around other dogs."
+          ],
+          "correct": 3,
+          "explanation": "The observed decrease establishes a change in barking, not the dog’s full emotional response to other dogs.",
+          "choiceExplanations": [
+            "That is the behavioral change explicitly stated.",
+            "A decrease following an added contingency supports that classification.",
+            "The behavior count alone leaves that issue unresolved.",
+            "Reduced barking does not demonstrate a less aversive emotional response."
+          ],
+          "misconception": "Visible suppression and reduced fear are not interchangeable outcomes."
+        },
+        {
+          "prompt": "When another dog appears, a trainer gives food after the learner turns toward the handler. Turning toward the handler increases. What is the operant target?",
+          "choices": [
+            "Turning toward the handler, strengthened by contingent food",
+            "The other dog’s appearance, strengthened by the learner’s food",
+            "Fear, demonstrated to decrease by every turn",
+            "The handler’s voice, removed after the dog turns"
+          ],
+          "correct": 0,
+          "explanation": "The measured action is turning toward the handler; contingent food positively reinforces it.",
+          "choiceExplanations": [
+            "Food follows that action and the action increases.",
+            "The other dog’s appearance is a cue, not the target action producing the food.",
+            "The scenario measures turning, not a separate fear outcome.",
+            "No removal of a voice is specified."
+          ],
+          "misconception": "Identify the response producing the consequence rather than substituting a cue or an inferred emotion."
+        },
+        {
+          "prompt": "In the same example, appearances of another dog are also repeatedly paired with food. Which question specifically addresses classical conditioning?",
+          "choices": [
+            "Does turning earn food on every response or some responses?",
+            "Does turning toward the handler become more frequent?",
+            "Does the other dog’s appearance acquire a different predictive association?",
+            "How many turns are required to earn a reward?"
+          ],
+          "correct": 2,
+          "explanation": "Classical analysis focuses on the learned predictive relation between the other dog’s appearance and food.",
+          "choiceExplanations": [
+            "That asks about the operant reinforcement schedule.",
+            "That asks about the operant target behavior.",
+            "That asks what the cue predicts through pairing with food.",
+            "That asks about an operant response-count requirement."
+          ],
+          "misconception": "The same food delivery can participate in a cue association and a response contingency."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-observation",
+      "unit": "Learning II",
+      "title": "Observational learning and vicarious consequences",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 35–37, 39",
+      "body": [
+        "Observational, or social, learning occurs by watching others. A learner can acquire a way of acting without personally receiving a consequence for every observed action. The lecture uses an adult and child, Bandura’s Bobo doll study, and “Do as I do” dog training as illustrations.",
+        "A model demonstrates behavior; an observer watches. Vicarious reinforcement concerns consequences observed happening to the model and their influence on the observer’s behavior. Distinguish a model receiving a reward from the observer receiving a reward for imitation: the second is a direct consequence for the observer.",
+        "Observation can convey useful skills but can also expose a learner to harmful actions. Evidence of imitation supports learning from a model; it does not establish that every observed action will be copied or that imitation is the learner’s only source of learning. Use the assigned videos to identify model, observer, copied action and consequences rather than assuming details not shown."
+      ],
+      "terms": [
+        {
+          "term": "Observational learning",
+          "definition": "Learning by watching others."
+        },
+        {
+          "term": "Model",
+          "definition": "The individual whose behavior is observed."
+        },
+        {
+          "term": "Vicarious reinforcement",
+          "definition": "Effects on an observer associated with seeing a model receive reinforcement."
+        }
+      ],
+      "recall": "How does watching a model earn a reward differ from receiving a reward for copying the model?",
+      "answer": "The former is an observed consequence for the model; the latter is direct reinforcement of the observer’s own behavior.",
+      "questions": [
+        {
+          "prompt": "A child watches an adult use an unfamiliar gesture and later reproduces it without having been rewarded for that gesture beforehand. Which process is most directly illustrated?",
+          "choices": [
+            "Negative reinforcement",
+            "Fixed-ratio training",
+            "Observational learning",
+            "Shaping through successive approximations"
+          ],
+          "correct": 2,
+          "explanation": "The behavior was demonstrated by a model and later reproduced by the observer, illustrating observational learning.",
+          "choiceExplanations": [
+            "No aversive stimulus removal contingent on the gesture is described.",
+            "No response-count requirement is specified.",
+            "The child reproduces behavior after watching a model.",
+            "No progressive reinforcement of approximations is described."
+          ],
+          "misconception": "Learning an action need not require personally reinforced approximations on every step."
+        },
+        {
+          "prompt": "A child sees a model praised for a behavior. Later the child is personally offered a reward for copying it. Which distinction is correct?",
+          "choices": [
+            "The model’s praise is an observed consequence; the child’s offer is a direct incentive.",
+            "Both events are direct rewards for the child’s earlier performance.",
+            "The child’s offer is vicarious because the child hears it.",
+            "The model’s praise makes the child’s later incentive a primary reinforcer."
+          ],
+          "correct": 0,
+          "explanation": "Keep consequences for the model separate from incentives directed at the observer.",
+          "choiceExplanations": [
+            "The consequences concern different recipients and stages.",
+            "The first event rewards the model, not the child.",
+            "Vicarious refers to consequences observed for another person, not merely heard instructions.",
+            "Observed praise does not determine whether the child’s incentive is primary or conditioned."
+          ],
+          "misconception": "Who receives a consequence matters when distinguishing vicarious and direct reinforcement."
+        },
+        {
+          "prompt": "An observer watches an unsafe shortcut that earns a model social approval. Which concern follows most directly from observational learning?",
+          "choices": [
+            "The observer’s action is being directly reinforced at the moment the model receives approval.",
+            "Social approval cannot influence learning because it is not food.",
+            "The observer cannot learn until personally injured.",
+            "The observer may acquire the shortcut and be influenced by its apparent social payoff."
+          ],
+          "correct": 3,
+          "explanation": "Watching both the action and its apparent payoff can influence an observer, even without the same direct history.",
+          "choiceExplanations": [
+            "Approval delivered to the model is an observed consequence, not direct reinforcement of the observer’s action.",
+            "Learned social consequences can matter; food is not the only possible reinforcer.",
+            "Observation can convey behavior before personal direct consequences occur.",
+            "Observation can transmit harmful actions as well as useful skills."
+          ],
+          "misconception": "Observational learning is not restricted to beneficial behavior or direct personal reinforcement."
+        },
+        {
+          "prompt": "A dog-training clip is labeled “Do as I do.” Which observation would best support an observational-learning interpretation?",
+          "choices": [
+            "A dog receives food without any demonstrated action.",
+            "The dog reproduces a newly demonstrated action after watching the model.",
+            "The dog’s completed sit is rewarded on every trial.",
+            "The trainer gradually rewards deeper head dips without modeling."
+          ],
+          "correct": 1,
+          "explanation": "Look for an action demonstrated by a model and then reproduced by the observer. A clip title alone is insufficient evidence.",
+          "choiceExplanations": [
+            "Food delivery alone does not show learning from a model.",
+            "Copying a demonstrated action is relevant evidence of observational learning.",
+            "This shows a possible reinforcement contingency, not necessarily imitation.",
+            "That describes shaping rather than observation of a demonstrated action."
+          ],
+          "misconception": "Identify observable evidence of imitation rather than inferring the learning mechanism from a label."
+        }
+      ]
+    },
+    {
+      "id": "exam2-learning2-bobo",
+      "unit": "Learning II",
+      "title": "Bobo doll evidence: learning versus performance",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 37–38",
+      "body": [
+        "The Bobo doll figure compares children who observed an aggressive model rewarded, punished, or given no consequences. Its vertical axis is the mean number of different imitative aggressive responses produced. Blue bars represent no incentive to the child; red bars represent a positive incentive to reproduce the observed actions. Boys and girls are shown within each model-consequence condition.",
+        "Without an incentive, the model-punished condition shows less imitation than the corresponding rewarded and no-consequence conditions. With a positive incentive, imitation rises, including in the model-punished group. The figure supports a distinction between what an observer has acquired and what the observer initially chooses to display.",
+        "Lower spontaneous imitation after seeing the model punished does not demonstrate that no aggressive actions were learned. Later production of those actions when an incentive is offered is evidence that the earlier low performance underestimated acquisition. Keep the two manipulations separate: the model’s consequence during observation and the child’s incentive during the performance test.",
+        "The plotted outcome is imitation in this test, not a measure of permanent personality or all future aggression. Compare the relevant conditions before making a claim; the small bars and unlabelled exact values do not warrant inventing precise percentages or individual outcomes."
+      ],
+      "terms": [
+        {
+          "term": "Learning versus performance",
+          "definition": "What has been acquired can differ from what is displayed under a particular incentive condition."
+        },
+        {
+          "term": "No-incentive test",
+          "definition": "In this figure, a test of imitation without a positive incentive offered to the child."
+        },
+        {
+          "term": "Positive-incentive test",
+          "definition": "In this figure, a test offering the child an incentive to reproduce observed actions."
+        }
+      ],
+      "recall": "Why do the incentive bars matter for interpreting low imitation after model punishment?",
+      "answer": "The later increase in reproduced actions indicates learning that was not fully expressed in the no-incentive condition. Low initial performance is not proof of no acquisition.",
+      "questions": [
+        {
+          "prompt": "Children who saw a punished model initially show little imitation, but reproduce more observed actions when offered an incentive. What is the strongest conclusion?",
+          "choices": [
+            "The children learned no actions until the incentive was offered.",
+            "Punishing a model prevents all observational learning.",
+            "Differences in initial imitation directly measure differences in how much was learned.",
+            "Initial performance underestimated what the children had acquired by observation."
+          ],
+          "correct": 3,
+          "explanation": "The change supports a learning–performance distinction: children can acquire actions without initially displaying all of them.",
+          "choiceExplanations": [
+            "Later reproduction suggests that initial low performance did not fully reveal prior acquisition.",
+            "The subsequent imitation contradicts that blanket claim.",
+            "The later incentive test shows why initial performance is not a complete measure of acquisition.",
+            "The incentive test reveals behavior not fully expressed in the initial test."
+          ],
+          "misconception": "Low imitation under one incentive condition does not prove that the actions were never learned."
+        },
+        {
+          "prompt": "In the lecture’s Bobo doll graph, what do the red positive-incentive bars distinguish from the blue bars?",
+          "choices": [
+            "Whether the aggressive model was rewarded or punished",
+            "Whether the child was offered an incentive to reproduce the observed actions",
+            "Whether the model was a boy or a girl",
+            "Whether the child observed aggressive or nonaggressive actions"
+          ],
+          "correct": 1,
+          "explanation": "Color distinguishes the child’s performance-test incentive, while the group labels distinguish consequences for the model.",
+          "choiceExplanations": [
+            "Model consequences are the separate groups on the horizontal axis.",
+            "Bar color distinguishes the observer’s test incentive condition.",
+            "The plotted boys and girls refer to observers, not a model-gender color code.",
+            "The figure’s legend concerns incentives, not two kinds of modeled actions."
+          ],
+          "misconception": "Do not merge the observer’s incentive with the consequence previously received by the model."
+        },
+        {
+          "prompt": "Which comparison best tests whether the model’s consequence is associated with spontaneous imitation, before adding an incentive for the child?",
+          "choices": [
+            "Compare no-incentive bars across model-rewarded, model-punished and no-consequence groups.",
+            "Compare red and blue bars within the model-punished group.",
+            "Compare the vertical axis label with the chart title.",
+            "Combine all bars into one average without group labels."
+          ],
+          "correct": 0,
+          "explanation": "Use the no-incentive bars across model-consequence conditions to isolate the intended comparison in the figure.",
+          "choiceExplanations": [
+            "This holds the child’s incentive condition constant while comparing model consequences.",
+            "This instead examines the child’s incentive condition while holding model consequence constant.",
+            "Those labels describe the measure and topic, not a comparison of conditions.",
+            "Pooling removes the consequence distinction the question asks about."
+          ],
+          "misconception": "A meaningful graph comparison changes the factor of interest while keeping the other relevant condition consistent."
+        },
+        {
+          "prompt": "Which statement stays within what the Bobo doll figure measures?",
+          "choices": [
+            "A lower blue bar proves the children could not remember the model.",
+            "The red bars count how often each aggressive act was repeated.",
+            "The groups differ in the mean number of different imitative aggressive actions produced during the test.",
+            "The horizontal groups separate incentives offered to the children."
+          ],
+          "correct": 2,
+          "explanation": "The figure measures mean numbers of different imitative aggressive responses produced under the test conditions.",
+          "choiceExplanations": [
+            "The plotted response count does not establish absence of memory.",
+            "The axis measures the number of different imitative responses, not repetitions of a single act.",
+            "This matches the vertical-axis outcome and condition comparisons.",
+            "The horizontal groups separate consequences for the model; color separates the child’s test incentive."
+          ],
+          "misconception": "Respect the graph’s outcome measure rather than extending it to personality, certainty or unmeasured individual behavior."
+        }
+      ],
+      "figure": "assets/learning2-bobo.jpg",
+      "figureAlt": "Bandura Bobo doll graph comparing mean different imitative aggressive responses for boys and girls across model-rewarded, model-punished and no-consequence groups, with no incentive versus positive incentive to the child.",
+      "figureCaption": "Lecture slide 38, adapted from Bandura (1965). Model consequences and the child’s test incentive are separate comparisons; exact bar values are not labelled."
     }
   ],
   "groups": [
@@ -3448,6 +5567,144 @@ globalThis.EXAM2_CONTENT={
           "function": "Uses locations as memory cues; the supplied demo’s comparison result is not stated."
         }
       ]
+    },
+    {
+      "title": "Classical versus operant relationships",
+      "source": "202 F26 Learning I Student Copy.pptx · slide 3",
+      "items": [
+        {
+          "name": "Classical conditioning",
+          "function": "A cue predicts another stimulus and elicits a learned response."
+        },
+        {
+          "name": "Operant conditioning",
+          "function": "A consequence is contingent on a behavior."
+        }
+      ]
+    },
+    {
+      "title": "The four classical-conditioning components",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 5–7",
+      "items": [
+        {
+          "name": "Unconditioned stimulus (UCS)",
+          "function": "A stimulus that reliably produces a naturally occurring reaction, such as food in Pavlov’s example."
+        },
+        {
+          "name": "Unconditioned response (UCR)",
+          "function": "The reflexive reaction elicited by the UCS, such as salivation to food."
+        },
+        {
+          "name": "Conditioned stimulus (CS)",
+          "function": "A previously neutral stimulus that elicits a response after conditioning."
+        },
+        {
+          "name": "Conditioned response (CR)",
+          "function": "A learned response elicited by the CS, such as salivation to the bell."
+        }
+      ]
+    },
+    {
+      "title": "Acquisition, extinction and recovery",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 11–13",
+      "items": [
+        {
+          "name": "Acquisition",
+          "function": "The phase in which CS–UCS pairings establish a conditioned response."
+        },
+        {
+          "name": "Extinction",
+          "function": "A gradual reduction in the learned response when the CS is presented without the UCS."
+        },
+        {
+          "name": "Spontaneous recovery",
+          "function": "Return of an extinguished response after a rest period."
+        }
+      ]
+    },
+    {
+      "title": "Changing a conditioned emotional response",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 19–27",
+      "items": [
+        {
+          "name": "Flooding",
+          "function": "Begins with overwhelming exposure, with an expected decline in fear."
+        },
+        {
+          "name": "Counterconditioning",
+          "function": "Pairs a low-level cue with something positive to change the emotional association."
+        },
+        {
+          "name": "Below threshold",
+          "function": "The stimulus level at which the dog stays calm in the lecture’s example."
+        },
+        {
+          "name": "Gradual increase",
+          "function": "Intensity increases as calm continues, such as decreasing distance or adding movement."
+        }
+      ]
+    },
+    {
+      "title": "Operant contingencies: two independent dimensions",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 5–11",
+      "items": [
+        {
+          "name": "Positive reinforcement",
+          "function": "Add a stimulus; target behavior increases."
+        },
+        {
+          "name": "Negative reinforcement",
+          "function": "Remove a stimulus; target behavior increases."
+        },
+        {
+          "name": "Positive punishment",
+          "function": "Add a stimulus; target behavior decreases."
+        },
+        {
+          "name": "Negative punishment",
+          "function": "Remove a stimulus; target behavior decreases."
+        }
+      ]
+    },
+    {
+      "title": "Reinforcement schedules: the actual requirement",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 26–30",
+      "items": [
+        {
+          "name": "FR",
+          "function": "Constant response count; lecture curve shows high responding with pauses."
+        },
+        {
+          "name": "VR",
+          "function": "Varying response count; lecture curve is steep and steady."
+        },
+        {
+          "name": "FI",
+          "function": "First response after a constant wait; lecture curve shows scallops."
+        },
+        {
+          "name": "VI",
+          "function": "First response after a varying wait; lecture curve is moderately steady."
+        }
+      ]
+    },
+    {
+      "title": "Separate acquisition from its expression",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 35–39",
+      "items": [
+        {
+          "name": "Model consequence",
+          "function": "What happens to the observed model; relevant to vicarious consequences."
+        },
+        {
+          "name": "Observer incentive",
+          "function": "What the observer is offered for producing the action during a test."
+        },
+        {
+          "name": "Observed performance",
+          "function": "Actions produced under current test conditions; may underestimate what was learned."
+        }
+      ]
     }
   ],
   "diagrams": [
@@ -3670,6 +5927,174 @@ globalThis.EXAM2_CONTENT={
         "explanation": "The two panels label different highlighted regions for animal and tool naming.",
         "misconception": "Use the measure and comparison actually shown in the course figure."
       }
+    },
+    {
+      "id": "exam2-figure-learning1-components",
+      "title": "Pavlov’s conditioning sequence",
+      "image": "assets/exam2-learning1-image5.jpg",
+      "alt": "Pavlov sequence showing food (US) eliciting salivation (UR), a neutral bell paired with food, and the trained bell (CS) eliciting salivation (CR).",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 4–7",
+      "caption": "202 F26 Learning I Student Copy.pptx · slide 7 · original course figure; original credits retained.",
+      "prompt": "After conditioning, what are the bell and salivation to the bell?",
+      "answer": "The bell is the conditioned stimulus, and salivation elicited by it is the conditioned response. Food and salivation to food remain the UCS and UCR.",
+      "question": {
+        "prompt": "After bell–food pairings, the bell alone elicits salivation. Which pairing is correct?",
+        "choices": [
+          "Bell = CS; salivation to bell = CR",
+          "Bell = UCR; salivation to bell = UCS",
+          "Bell = UCS; salivation to bell = UCR",
+          "Bell = CR; salivation to bell = CS"
+        ],
+        "correct": 0,
+        "explanation": "The trained bell is the CS and its learned salivation response is the CR.",
+        "choiceExplanations": [
+          "The trained bell is the CS and its learned salivation response is the CR.",
+          "This swaps both stimuli with responses and conditioned with unconditioned roles.",
+          "The bell’s effect was learned through pairing, unlike the original food response.",
+          "The bell is a stimulus and salivation is a response, not the reverse."
+        ],
+        "misconception": "Learning history determines whether the stimulus–response relation is conditioned."
+      }
+    },
+    {
+      "id": "exam2-figure-learning1-extinction-recovery",
+      "title": "Acquisition, extinction and spontaneous recovery",
+      "image": "assets/exam2-learning1-image9.jpg",
+      "alt": "Graph of drops of saliva elicited by the CS over trials, showing acquisition with CS–US pairings, extinction with the CS alone, and two spontaneous recoveries after 24-hour rests.",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 11–13",
+      "caption": "202 F26 Learning I Student Copy.pptx · slide 13 · original course figure; original credits retained.",
+      "prompt": "What changes after the first 24-hour rest in the course graph?",
+      "answer": "Some salivation to the CS returns after the rest. With continued CS-alone trials it declines again. The return without renewed CS–US pairing is spontaneous recovery.",
+      "question": {
+        "prompt": "After extinction and a day of rest, a bell again elicits some salivation without new food pairings. What is this?",
+        "choices": [
+          "Spontaneous recovery",
+          "Initial acquisition",
+          "A new unconditioned response to food",
+          "Counterconditioning with a pleasant event"
+        ],
+        "correct": 0,
+        "explanation": "The response returns after rest despite no renewed cue–food pairings.",
+        "choiceExplanations": [
+          "The response returns after rest despite no renewed cue–food pairings.",
+          "Initial acquisition would require the original learning phase.",
+          "The response is to the learned bell cue rather than food.",
+          "No new pleasant pairing is described after extinction."
+        ],
+        "misconception": "A returning response after rest differs from relearning through renewed pairings."
+      }
+    },
+    {
+      "id": "exam2-figure-learning1-counterconditioning",
+      "title": "Changing the response to a trigger",
+      "image": "assets/exam2-learning1-image14.jpg",
+      "alt": "Counterconditioning illustration: trigger cues initially accompany fear, are then paired with food and a positive response, and later elicit a positive conditioned response. The original top-row UR label does not describe a learned fear response accurately.",
+      "source": "202 F26 Learning I Student Copy.pptx · slides 22–27",
+      "caption": "202 F26 Learning I Student Copy.pptx · slide 27 · original course figure; original credits retained. For learned fear, the top-row response is a CR despite the original UR label.",
+      "prompt": "What association does the during panel introduce, and what does the after panel show?",
+      "answer": "The trigger is paired with food, which elicits a positive unconditioned response. The trigger later elicits a positive CR. In a learned-fear example the original fear is also a CR, despite the top-row UR label in the supplied image.",
+      "question": {
+        "prompt": "In the counterconditioning illustration, what produces the positive unconditioned response during the new pairing?",
+        "choices": [
+          "The earlier fear reaction",
+          "A rest period",
+          "The food used in the pairing",
+          "A response-contingent punishment"
+        ],
+        "correct": 2,
+        "explanation": "The food serves as the US eliciting the positive response during the new pairing.",
+        "choiceExplanations": [
+          "Fear is the existing emotional response the example seeks to change.",
+          "The drawing shows a cue–food pairing rather than a rest interval.",
+          "The food serves as the US eliciting the positive response during the new pairing.",
+          "No punishment contingency appears in the depicted pairing."
+        ],
+        "misconception": "Distinguish the new US from the cue whose acquired emotional effect changes."
+      }
+    },
+    {
+      "id": "exam2-figure-learning2-quadrants",
+      "title": "Operant conditioning: read both dimensions",
+      "image": "assets/learning2-quadrants.png",
+      "alt": "Four operant contingencies: add or remove a stimulus crossed with increase or decrease in behavior.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 5–11",
+      "caption": "Lecture’s four-quadrant summary. Read both the stimulus change and the direction of behavior change.",
+      "prompt": "A behavior increases after a stimulus is removed. Which two dimensions locate the contingency?",
+      "answer": "Removal makes the contingency negative; an increase in the target behavior makes it reinforcement. It is negative reinforcement.",
+      "question": {
+        "prompt": "Using the quadrant figure, where does removing a stimulus to increase a target behavior belong?",
+        "choices": [
+          "Positive punishment",
+          "Negative punishment",
+          "Negative reinforcement",
+          "Positive reinforcement"
+        ],
+        "correct": 2,
+        "explanation": "Read both dimensions: removal plus increased behavior is negative reinforcement.",
+        "choiceExplanations": [
+          "That adds a stimulus and decreases behavior.",
+          "That removes a stimulus but decreases behavior.",
+          "Removal and increased behavior are the two defining dimensions.",
+          "That increases behavior by adding a stimulus."
+        ],
+        "misconception": "Negative identifies removal, not a decrease in behavior."
+      }
+    },
+    {
+      "id": "exam2-figure-learning2-schedules",
+      "title": "Schedules in a cumulative-response graph",
+      "image": "assets/learning2-schedules.png",
+      "alt": "Cumulative responses over time: steep steady variable ratio, fixed ratio with pauses, moderate steady variable interval, and scalloped fixed interval.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 29–30",
+      "caption": "Lecture slide 30. Compare slopes and pauses qualitatively; the axes have no numerical time or response scale.",
+      "prompt": "What does the flat section of the fixed-ratio curve show, and how does it differ from the steep section?",
+      "answer": "A flat section records no additional responses during a pause. A steep section records rapid accumulation of responses; slope indicates rate, not reward size.",
+      "question": {
+        "prompt": "In this figure, which feature most clearly distinguishes the illustrated FR curve from the VR curve?",
+        "choices": [
+          "FR has clearer pauses after reinforcement; VR is more steadily steep.",
+          "FR falls after reinforcement; VR’s total rises.",
+          "FR is scalloped; VR is the moderate interval curve.",
+          "FR’s exact rate is numerically twice VR’s."
+        ],
+        "correct": 0,
+        "explanation": "The FR curve shows clearer post-reinforcement pauses, while VR is steep and relatively steady.",
+        "choiceExplanations": [
+          "That comparison matches the two ratio curves in the lecture figure.",
+          "Cumulative totals stay flat during pauses rather than falling.",
+          "Those descriptions misidentify the FI and VI patterns.",
+          "The graph has no numerical scales supporting that exact calculation."
+        ],
+        "misconception": "Interpret characteristic slopes and pauses without inventing exact rates."
+      }
+    },
+    {
+      "id": "exam2-figure-learning2-bobo",
+      "title": "Bobo doll: what the incentive test reveals",
+      "image": "assets/learning2-bobo.jpg",
+      "alt": "Bandura Bobo doll graph comparing mean different imitative aggressive responses for boys and girls across model-rewarded, model-punished and no-consequence groups, with no incentive versus positive incentive to the child.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 37–38",
+      "caption": "Lecture slide 38, adapted from Bandura (1965). Model consequences and the child’s test incentive are separate comparisons; exact bar values are not labelled.",
+      "prompt": "Compare no-incentive and positive-incentive performance within the model-punished group. What does that comparison caution against?",
+      "answer": "The incentive condition elicits more imitative actions. Low spontaneous imitation therefore should not be equated with absence of learning.",
+      "question": {
+        "prompt": "Why compare red and blue bars within the model-punished group?",
+        "choices": [
+          "To vary the model’s consequence while keeping the child’s incentive fixed",
+          "To examine how the child’s incentive changes displayed imitation with model consequence held fixed",
+          "To determine the exact lifetime aggression of each child",
+          "To prove that boys and girls received identical scores"
+        ],
+        "correct": 1,
+        "explanation": "Within this group, bar color varies the child’s test incentive while the model’s consequence stays the same.",
+        "choiceExplanations": [
+          "The model’s consequence is held at punished in this comparison.",
+          "Bar color changes test incentive within the same model-consequence group.",
+          "The graph reports group means during a test, not lifetime individual behavior.",
+          "The bars do not show identical scores, and that is not the purpose of this contrast."
+        ],
+        "misconception": "Choose comparisons that distinguish model consequences from observer incentives."
+      }
     }
   ],
   "sources": [
@@ -3687,6 +6112,16 @@ globalThis.EXAM2_CONTENT={
       "title": "Memory II",
       "file": "202 F26 Memory II.pptx",
       "slides": 30
+    },
+    {
+      "title": "Learning I",
+      "file": "202 F26 Learning I Student Copy.pptx",
+      "slides": 28
+    },
+    {
+      "title": "Learning II",
+      "file": "202 F26 Learning II Student Copy.pptx",
+      "slides": 40
     },
     {
       "title": "Exam 2 review sheet",
@@ -3726,40 +6161,40 @@ globalThis.EXAM2_CONTENT={
       "source": "202 F26 Memory II.pptx · slide 9"
     },
     {
-      "title": "Classical conditioning",
+      "title": "Classical conditioning: The Office · Dwight and Altoids",
       "url": "https://www.youtube.com/watch?v=PBb1CH18Smg",
-      "prompt": "The review sheet assigns this Learning clip. After watching, explain the process shown and connect it to the corresponding review prompt. Learning lecture details and video transcripts have not yet been supplied.",
-      "source": "202 F26 Exam 2 Review.docx · Chapter 8 videos"
+      "prompt": "Identify the UCS, UCR, CS and CR from the scene. Explain what the cue predicts before and after learning, then compare your labels with the conditioning-component lesson.",
+      "source": "202 F26 Learning I Student Copy.pptx · slide 10; 202 F26 Exam 2 Review.docx · Chapter 8 videos"
     },
     {
       "title": "Shaping: TAG teaching the high jump",
       "url": "https://www.youtube.com/watch?v=5uPSa--Nlt4",
-      "prompt": "The review sheet assigns this Learning clip. After watching, explain the process shown and connect it to the corresponding review prompt. Learning lecture details and video transcripts have not yet been supplied.",
-      "source": "202 F26 Exam 2 Review.docx · Chapter 8 videos"
+      "prompt": "Identify the final action. What progressively closer offered approximations could be reinforced? Distinguish visible performance from a training history the clip may not show.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 19"
     },
     {
       "title": "Shaping: dogs driving a car I",
       "url": "https://www.youtube.com/watch?v=xvQBdUqOUkU",
-      "prompt": "The review sheet assigns this Learning clip. After watching, explain the process shown and connect it to the corresponding review prompt. Learning lecture details and video transcripts have not yet been supplied.",
-      "source": "202 F26 Exam 2 Review.docx · Chapter 8 videos"
+      "prompt": "Identify a complex trained action. Outline a possible sequence of successive approximations, and distinguish your proposed training plan from steps actually shown.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 19"
     },
     {
       "title": "Shaping: dogs driving a car II",
       "url": "https://www.youtube.com/watch?v=gRN_L3nTlLQ",
-      "prompt": "The review sheet assigns this Learning clip. After watching, explain the process shown and connect it to the corresponding review prompt. Learning lecture details and video transcripts have not yet been supplied.",
-      "source": "202 F26 Exam 2 Review.docx · Chapter 8 videos"
+      "prompt": "Identify a complex trained action. Outline a possible sequence of successive approximations, and distinguish your proposed training plan from steps actually shown.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 19"
     },
     {
       "title": "Observational learning: Bobo doll experiment",
       "url": "https://www.youtube.com/watch?v=zerCK0lRjp8",
-      "prompt": "The review sheet assigns this Learning clip. After watching, explain the process shown and connect it to the corresponding review prompt. Learning lecture details and video transcripts have not yet been supplied.",
-      "source": "202 F26 Exam 2 Review.docx · Chapter 8 videos"
+      "prompt": "Identify model and observer. Separate consequences for the model from incentives offered to the child, and connect the figure’s incentive comparison to learning versus performance.",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 37–38"
     },
     {
       "title": "Observational learning: Do as I do training",
       "url": "https://www.youtube.com/watch?v=TE52636mX50",
-      "prompt": "The review sheet assigns this Learning clip. After watching, explain the process shown and connect it to the corresponding review prompt. Learning lecture details and video transcripts have not yet been supplied.",
-      "source": "202 F26 Exam 2 Review.docx · Chapter 8 videos"
+      "prompt": "Look for a demonstrated action and the dog’s subsequent response. What evidence supports imitation, and what training history cannot be established from the finished demonstration alone?",
+      "source": "202 F26 Learning II Student Copy.pptx · slides 39"
     }
   ],
   "review": {
@@ -3969,7 +6404,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "How is emotion different from mood?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-7-text-2",
@@ -3978,7 +6413,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is the Yerkes-Dodson law?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-7-text-3",
@@ -3987,7 +6422,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What are the primary brain structures involved with the perception, expression and regulation of emotion?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-9-lecture-1",
@@ -4329,7 +6764,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is gist, and how do we use it during retrieval?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-9-text-3",
@@ -4338,7 +6773,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is motivated forgetting?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-9-text-4",
@@ -4356,207 +6791,260 @@ globalThis.EXAM2_CONTENT={
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What are some general differences between classical and operant conditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-conditioning-types"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-2",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is classical conditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-conditioning-types",
+          "exam2-learning1-components"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-3",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What are the four components of classical conditioning?  Understand the process of how conditioned stimuli and conditioned responses are produced.",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-components",
+          "exam2-learning1-clicker"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-4",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What are some examples of classical conditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-components",
+          "exam2-learning1-clicker",
+          "exam2-learning1-aversions-triggers",
+          "exam2-learning1-emotional-responses"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-5",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is acquisition?  Extinction?  Spontaneous recovery?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-acquisition-extinction"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-6",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is second-order conditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-second-order"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-7",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "How does classical conditioning help explain taste aversions and PTSD triggers?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-aversions-triggers",
+          "exam2-learning1-emotional-responses"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-8",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is a conditioned emotional response (CER)?  What are some examples of CERs?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-emotional-responses"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-9",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "How does flooding differ from counterconditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-flooding",
+          "exam2-learning1-counterconditioning"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-10",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What are the basic steps of counterconditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning1-counterconditioning"
+        ],
+        "note": "Learning I supplies this topic. Use the linked lessons, then explain the process without the notes."
       },
       {
         "id": "exam2-review-8-lecture-11",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is operant conditioning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-consequences"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-12",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "Understand the four quadrants of operant conditioning.  What are examples of each?  How are they similar?  How are they different?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-consequences"
+        ],
+        "note": "Learning II slides 5–11; examples identify the actual stimulus change and behavioral effect, including a clarification of the ambiguous time-out label."
       },
       {
         "id": "exam2-review-8-lecture-13",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is the difference between a primary and secondary reinforcer?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-reinforcers"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-14",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "Who decides what is reinforcing – the trainer or the learner?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-reinforcers"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-15",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is the Premack Principle?  What are some examples of its use?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-premack"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-16",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is shaping?  How does it work?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-shaping"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-17",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is the difference between continuous and intermittent (partial) reinforcement?  Why is intermittent reinforcement better for maintaining behavior once it’s established?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-intermittent"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-18",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is the difference between fixed and variable schedules of reinforcement?  Interval and ratio schedules?  What are some examples of the resulting four schedule types?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-schedule-rules"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-19",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "Which schedules work best for maintaining a high response rate?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-schedule-patterns"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-20",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "Why is punishment sometimes ineffective?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-punishment"
+        ],
+        "note": "Learning II slide 31 supplies discussion prompts; the lesson applies operant principles to explain the examples without inventing study results."
       },
       {
         "id": "exam2-review-8-lecture-21",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "How can classical and operant conditioning interact?  (Think of the dog-dog reactivity example.)",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-interaction"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-22",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What is social (observational) learning?  What are some examples?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-observation"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-lecture-23",
         "chapter": "8",
         "kind": "lecture",
         "prompt": "What do the results of Bandura’s ‘Bobo doll’ study tell us about observational learning?",
-        "status": "pending",
-        "lessonIds": [],
-        "note": "The two Learning lecture decks have not been supplied. Keep this on your Exam 2 study list."
+        "status": "covered",
+        "lessonIds": [
+          "exam2-learning2-bobo"
+        ],
+        "note": "Covered by the supplied Learning II lecture and linked application practice."
       },
       {
         "id": "exam2-review-8-text-1",
@@ -4565,7 +7053,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What are reflexes?  Instincts?  Imprinting?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-2",
@@ -4574,7 +7062,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is the difference between associative and nonassociative learning?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-3",
@@ -4585,7 +7073,7 @@ globalThis.EXAM2_CONTENT={
         "lessonIds": [
           "exam2-memory2-synaptic-change"
         ],
-        "note": "Memory II supplies synaptic changes associated with habituation and sensitization. The Learning chapter’s broader examples still need course material."
+        "note": "Memory II supplies synaptic changes associated with habituation and sensitization. The Chapter 8 summary now adds broader learning examples."
       },
       {
         "id": "exam2-review-8-text-4",
@@ -4594,7 +7082,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is the difference between generalization and discrimination?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-5",
@@ -4603,7 +7091,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is inhibition, in the context of classical conditioning?  What is latent inhibition?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-6",
@@ -4612,7 +7100,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "How can classical conditioning processes help us to understand addiction?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-7",
@@ -4621,7 +7109,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is aversion therapy?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-8",
@@ -4630,7 +7118,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is latent learning?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-9",
@@ -4639,7 +7127,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "What is a token economy, and how does it relate to operant conditioning?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       },
       {
         "id": "exam2-review-8-text-10",
@@ -4648,7 +7136,7 @@ globalThis.EXAM2_CONTENT={
         "prompt": "How can learning be culturally transmitted?",
         "status": "pending",
         "lessonIds": [],
-        "note": "The review sheet names this topic; the assigned textbook detail has not been supplied."
+        "note": "No lecture lesson is linked here. The condensed chapter summary now provides textbook support; check the assigned reader for details beyond the summary."
       }
     ]
   }

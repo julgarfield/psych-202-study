@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import assert from 'node:assert/strict';
 
-const dist = new URL('../dist/', import.meta.url), ctx = { console };
+const dist = new URL('../site/', import.meta.url), ctx = { console };
 vm.createContext(ctx);
 vm.runInContext(fs.readFileSync(new URL('content.js', dist), 'utf8') + ';globalThis.CONTENT=CONTENT', ctx);
 const C = ctx.CONTENT;

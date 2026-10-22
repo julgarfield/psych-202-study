@@ -1,0 +1,11 @@
+{
+  "name": "psych-202-study",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-access.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:content": "node scripts/audit-content.mjs && node scripts/audit-exam2.mjs && node scripts/audit-textbook-integration.mjs && node scripts/audit-course-coverage.mjs",
+    "test:progress": "node scripts/test-exam-separation.mjs && node scripts/test-sync.mjs"
+  }
+}

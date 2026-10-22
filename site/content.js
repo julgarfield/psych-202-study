@@ -315,7 +315,7 @@ const CONTENT = {
       "body": [
         "An operational definition specifies exactly how a variable is manipulated or measured so another researcher can reproduce it. “Aggression” is a concept; the number of doll hits in five minutes is an operational measure. An IV also needs a precise operational definition, such as the exact video and instructions used.",
         "The lecture divides DV measures into physiological (body/brain activity), behavioral (observable actions), and self-report (participants’ own answers). Aggression examples: amygdala activity on fMRI, Bobo-doll hits, and a questionnaire. Ethical laboratory proxies include noise blasts, hot-sauce allocation, or phone slamming. A proxy needs evidence of validity; it is not automatically identical to real-world aggression.",
-        "Infants and animals cannot give ordinary verbal questionnaires. Use looking time, reaching or choosing, approach/avoidance, or physiological responses. In the infant and primate videos, identify the actual recorded response, not just the mental ability the researchers hope to infer. The slides do not specify the videos’ exact scoring rules, so the original clips remain part of the video checklist."
+        "Infants and animals cannot give ordinary verbal questionnaires. Use looking time, reaching or choosing, approach/avoidance, or physiological responses. In the infant and primate videos, identify the actual recorded response, not just the mental ability the researchers hope to infer."
       ],
       "terms": [
         {
@@ -1777,7 +1777,7 @@ const CONTENT = {
       "body": [
         "At rest the neuron’s interior is more negative than its exterior. Ion gradients and selective membrane permeability maintain this membrane potential. Excitatory inputs tend to depolarize the membrane (make it less negative); inhibitory inputs can hyperpolarize it (make it more negative) or otherwise oppose firing.",
         "If sufficient depolarization reaches threshold, an action potential begins. Voltage-gated sodium channels open; Na⁺ enters and the voltage rises. Then sodium channels inactivate and potassium channels allow K⁺ to leave, repolarizing the membrane. A brief undershoot can make it more negative than rest before recovery.",
-        "An action potential is all-or-none: a stronger stimulus does not create a taller spike in the same axon. Intensity can instead be represented by firing rate or number of recruited neurons. A refractory period limits immediate refiring and helps forward propagation. In myelinated axons, the signal is regenerated at nodes. The slides simplify ion details; use the sequence to understand the course animation."
+        "An action potential is all-or-none: a stronger stimulus does not create a taller spike in the same axon. Intensity can instead be represented by firing rate or number of recruited neurons. A refractory period limits immediate refiring and helps forward propagation. In myelinated axons, the signal is regenerated at nodes."
       ],
       "terms": [
         {
@@ -2185,7 +2185,6 @@ const CONTENT = {
         "Dopamine is important for learning what predicts rewarding outcomes and motivating behavior toward them. With learning, a response can shift from the reward itself to a predictive cue. The Sapolsky video highlights timing and intermittent reinforcement: uncertain rewards can sustain strong anticipatory signaling. Explain anticipation, not just pleasure after the reward.",
         "The Volkow prompts connect dopamine to learning/classical conditioning. Cues associated with drug use can acquire motivational power and trigger craving. Drugs can produce stronger dopamine effects than ordinary rewards. Vulnerability reflects interacting biological and environmental factors rather than a single cause.",
         "The lecture emphasizes lower dopamine D2 receptor availability with chronic abuse, PET evidence, overlap across addictions, and frontal-lobe self-control. Adaptation can reduce sensitivity to ordinary rewards and alter control. Tolerance means reduced effect from the same dose after repeated use; compensatory neural adaptation is a key explanation. Withdrawal is a response after stopping or reducing use; it is not the same as tolerance.",
-        "The original videos are linked in the course-video checklist. The uploaded slides list discussion prompts but omit some answers; the background synthesis here should be checked against those clips and your notes.",
         "The textbook defines addiction as compulsive use despite harm. Tolerance is compensatory adaptation and learned context effects; withdrawal can run opposite to acute drug effects. Reward circuits, prefrontal control and insula-related craving interact with environment. The Vietnam-return example emphasizes how changing context can change patterns of use."
       ],
       "terms": [
@@ -2805,7 +2804,7 @@ const CONTENT = {
       "source": "Sensation and Perception · slides 41–45; assigned textbook notes · 5-3c–e",
       "body": [
         "The McGurk effect shows that visual speech information can change what you hear: an identical sound can be perceived differently with different visible mouth movements. It demonstrates multisensory integration rather than that one sensory channel is always correct.",
-        "The octave/scale illusion shows auditory grouping and organization: a listener may perceive a pattern differently from the physical sequence delivered to each ear. In phantom words, ambiguous repeated sounds seem to contain meaningful words; expectations and language shape what is heard. The assigned clips are included in the video checklist for the exact demonstrations.",
+        "The octave/scale illusion shows auditory grouping and organization: a listener may perceive a pattern differently from the physical sequence delivered to each ear. In phantom words, ambiguous repeated sounds seem to contain meaningful words; expectations and language shape what is heard.",
         "Frisson is a pleasurable chill or goosebump response, often to music. The lecture reports about 50–67% experience it; triggers include unexpected harmonies and sudden volume changes. Participants reporting frisson had more connections between auditory cortex and anterior insular cortex (emotion-related processing). This is an association; it does not by itself prove that the connections cause the response.",
         "Auditory grouping uses common onset, location and similarity. Ventriloquism illustrates visual influence on perceived sound location; sine-wave speech illustrates how top-down knowledge can make an initially strange signal intelligible. Sign languages are full languages, and ASL is not simply English expressed with hands."
       ],
@@ -2880,7 +2879,7 @@ const CONTENT = {
         "Odor molecules interact with olfactory receptors in the nose, initiating transduction. Signals travel to the olfactory bulb and then to primary olfactory cortex and connected limbic regions. Unlike the usual initial route for vision and hearing, smell reaches primary olfactory cortex without a required initial thalamic relay.",
         "Connections with the amygdala and memory-related systems help explain why an odor can evoke strong emotion or recollection. This is a biological connection between sensation, emotion and memory, not merely a poetic association.",
         "The slides contrast about 5 million human olfactory receptors with about 220 million in dogs and give scent-detection examples. Memorize these as the approximate figures used in class, not universal counts for every human or dog. Receptor numbers and the organization of the system both contribute to sensitivity.",
-        "Odor molecules dissolve in mucus and stimulate nasal receptors → olfactory nerve/bulb → olfactory cortex and amygdala-related pathways. Initial cortical olfactory processing bypasses the thalamic relay typical of other senses, but later routes involving thalamus/orbitofrontal cortex contribute to awareness. Thus “smell never involves thalamus” is too absolute. Receptor cells are replaced over roughly 4–6 weeks in the notes."
+        "Odor molecules dissolve in mucus and stimulate nasal receptors → olfactory nerve/bulb → olfactory cortex and amygdala-related pathways. Initial cortical olfactory processing bypasses the thalamic relay typical of other senses, but later routes involving thalamus/orbitofrontal cortex contribute to awareness. Thus “smell never involves thalamus” is too absolute. Receptor cells are replaced over roughly 4–6 weeks."
       ],
       "terms": [
         {
@@ -2963,7 +2962,7 @@ const CONTENT = {
       "body": [
         "Somatosensation includes touch, temperature and body-related signals. Skin receptors and free nerve endings transduce stimulation; information travels through spinal/brain pathways to somatosensory cortex in parietal cortex. Different receptors respond to pressure, vibration, stretch, heat/cold or potentially damaging stimulation.",
         "Nociception signals potential tissue damage; experienced pain also depends on attention, expectation, emotion and brain processing. Gate-control accounts describe modulation of signals in spinal pathways; competing touch input can reduce some pain, as when rubbing a bumped elbow. Endorphins also influence pain signaling.",
-        "Gustation is chemical sensing: dissolved molecules interact with taste receptor cells in taste buds. Basic tastes include sweet, sour, salty, bitter and umami. Signals reach brainstem, thalamic and gustatory cortical pathways. Flavor combines taste with smell, explaining why congestion can make food seem bland. The following focused lessons cover the assigned text’s pathways, modulation and flavor examples."
+        "Gustation is chemical sensing: dissolved molecules interact with taste receptor cells in taste buds. Basic tastes include sweet, sour, salty, bitter and umami. Signals reach brainstem, thalamic and gustatory cortical pathways. Flavor combines taste with smell, explaining why congestion can make food seem bland."
       ],
       "terms": [
         {
@@ -3198,7 +3197,7 @@ const CONTENT = {
       "body": [
         "The lecture gives three definitions from simplest to most complex: variations in alertness, awareness of ongoing sensations, and self-awareness. A person can be awake but inattentive to a stimulus; alertness alone does not guarantee detailed awareness.",
         "Mirror recognition is an operational approach to self-awareness. In a typical mark test, an unnoticed mark is placed on an animal or person; using a mirror to inspect or touch the mark on one’s own body supports recognition of the reflection as self. Responding only to the reflected “other” does not meet this criterion.",
-        "Passing provides evidence for that form of self-recognition, not proof of every type of consciousness. Failing does not establish absence of consciousness: vision, motivation, species behavior and the task’s suitability matter. Humans typically pass during early childhood; some great apes and some other species show evidence, with species/method variation. The original assigned video is needed for the precise examples emphasized in class.",
+        "Passing provides evidence for that form of self-recognition, not proof of every type of consciousness. Failing does not establish absence of consciousness: vision, motivation, species behavior and the task’s suitability matter. Humans typically pass during early childhood; some great apes and some other species show evidence, with species/method variation.",
         "The textbook distinguishes state (level of alertness), content (what is experienced) and self-awareness. In the readiness-potential example, activity preceded movement by about 550 ms and reported intention by about 200 ms before movement. This timing raises questions but does not by itself prove that free will is absent. Split-brain verbal rationalization likewise shows limits of conscious explanations."
       ],
       "terms": [
@@ -3276,7 +3275,7 @@ const CONTENT = {
       "figure": null,
       "body": [
         "Consciousness can support flexible responses: alertness, coordinating sleep/energy and responding to sensory information. Evolutionary examples connect sleep patterns with shelter and predation risk; they are accounts of possible functions rather than a single demonstrated purpose.",
-        "Self-awareness involves representing oneself. Mirror self-recognition is one test discussed in the notes, emerging around 18 months in human development. Performance on a particular behavioral test does not measure every form of awareness.",
+        "Self-awareness involves representing oneself. Mirror self-recognition is one test of self-awareness, emerging around 18 months in human development. Performance on a particular behavioral test does not measure every form of awareness.",
         "Weak AI simulates a task or behavior; strong AI in the textbook refers to the full range of intelligent capacities. A Turing-style conversation test evaluates whether behavior can be distinguished from a human interlocutor, not direct proof of subjective experience. These are conceptual/historical distinctions, not claims about the latest AI systems."
       ],
       "terms": [
@@ -3463,10 +3462,10 @@ const CONTENT = {
       "title": "Sleep stages & the nightly cycle",
       "source": "Consciousness · slides 13–19; assigned textbook notes · 6-2b–c",
       "body": [
-        "Use the stage labels from your lecture for the exam. NREM stage 1: theta waves and light sleep. Stage 2: sleep spindles and K complexes. Stages 3 and 4: delta-dominant slow-wave sleep. Modern systems commonly combine the old stages 3 and 4 into N3; this site keeps your lecture’s labels visible.",
+        "Use the stage labels from your lecture for the exam. NREM stage 1: theta waves and light sleep. Stage 2: sleep spindles and K complexes. Stages 3 and 4: delta-dominant slow-wave sleep. Modern systems commonly combine the old stages 3 and 4 into N3.",
         "REM means rapid eye movement. The lecture calls it paradoxical sleep: waking-like beta activity with body-muscle paralysis, increased sympathetic activity and vivid dreaming. The brain is active while many skeletal muscles are inhibited. Dreaming can occur outside REM too, so do not equate every dream with REM.",
         "Sleep cycles repeat during the night, roughly every 90 minutes with variation. Deep slow-wave sleep is more prominent early; REM periods tend to lengthen later. A hypnogram tracks stages over time, not the brain’s physical position. Learn to distinguish stage markers, rather than assuming all sleep is one uniform state.",
-        "Use the textbook’s four NREM labels alongside the lecture labels already shown. Text frequency bands are beta 15–30 Hz, alpha 9–12, gamma above 30, theta 4–7 and delta 1–4; boundaries are descriptive conventions. Stage 2 spindles and K-complexes relate to tuning out input and memory; early-night cycles contain more deep NREM, later cycles longer REM. First REM is roughly 90–120 minutes after sleep onset in the notes."
+        "Text frequency bands are beta 15–30 Hz, alpha 9–12, gamma above 30, theta 4–7 and delta 1–4; boundaries are descriptive conventions. Stage 2 spindles and K-complexes relate to tuning out input and memory; early-night cycles contain more deep NREM, later cycles longer REM. First REM is roughly 90–120 minutes after sleep onset."
       ],
       "terms": [
         {
@@ -3623,7 +3622,7 @@ const CONTENT = {
       "source": "Consciousness · slides 22–29; assigned textbook notes · 6-4c",
       "body": [
         "Hypnosis involves heightened suggestibility and a feeling that actions occur involuntarily. Individuals vary in responsiveness. The hypnotized person is not simply asleep, and apparent involuntariness is an experience rather than evidence that all agency disappears.",
-        "The lecture experiment compared hearing a spoken sentence with a hypnotic suggestion that a sentence had been spoken. PET scans showed similar right anterior cingulate activity in the perception and hallucination conditions. This suggests overlap in neural activity for actual and suggested experience; it does not prove they are identical in every respect. Hypnosis can help some people with pain and related symptom management, but exact lecture benefits should be checked against the assigned clip.",
+        "The lecture experiment compared hearing a spoken sentence with a hypnotic suggestion that a sentence had been spoken. PET scans showed similar right anterior cingulate activity in the perception and hallucination conditions. This suggests overlap in neural activity for actual and suggested experience; it does not prove they are identical in every respect. Hypnosis can help some people with pain and related symptom management.",
         "Mindfulness is nonjudgmental awareness of present-moment experiences. It involves observing thoughts/sensations without immediately judging or following them. The lecture notes physiological and cognitive benefits and examples from Madison schools/Center for Healthy Minds. Contrast deliberately bringing attention back to present experience with unstructured mind wandering. Supplemental evidence suggests mindfulness may reduce stress-related symptoms and improve sleep; these outcomes vary and do not mean every practice benefits everyone.",
         "The text emphasizes that hypnosis does not reliably improve memory and can worsen it. High-suggestibility participants told that words were gibberish showed less Stroop interference; comparison with low-suggestibility participants matters. Expectancy, trust and compliance are alternative influences, rather than proof of mind control.",
         "Mindfulness relates to attention, autonomic regulation and reduced default-mode activity in experienced meditators. Structural associations do not prove meditation caused the difference. Trance and interpersonal mimicry illustrate additional social/contextual altered experiences; imitation can support affiliation and increase after exclusion."
@@ -3709,7 +3708,7 @@ const CONTENT = {
       "body": [
         "Circadian rhythms are approximately 24-hour biological cycles. The hypothalamic suprachiasmatic nucleus (SCN) helps coordinate the clock using light cues; pineal melatonin helps signal biological night. Jet lag occurs when internal timing is misaligned with the new local light–dark schedule.",
         "Sleep disorders: insomnia involves persistent difficulty sleeping; sleep apnea involves repeated breathing interruptions; narcolepsy involves sudden sleep attacks and can include cataplexy (loss of muscle tone); REM sleep behavior disorder involves loss of normal REM muscle inhibition and acting out dreams. Sleepwalking and night terrors commonly occur in deep NREM sleep, unlike the usual REM association of vivid nightmares.",
-        "Brain damage can affect arousal, awareness or both. In coma, wakefulness and evident awareness are absent. Unresponsive wakefulness syndrome involves wake–sleep cycles without reliable behavioral evidence of awareness; a minimally conscious state shows limited but reproducible awareness. Locked-in syndrome differs: awareness can be preserved despite profound paralysis. The dedicated lessons below distinguish the textbook’s conditions. Locked-in and minimally conscious terminology are retained as supplemental comparisons; the supplied notes do not fully develop them."
+        "Brain damage can affect arousal, awareness or both. In coma, wakefulness and evident awareness are absent. Unresponsive wakefulness syndrome involves wake–sleep cycles without reliable behavioral evidence of awareness; a minimally conscious state shows limited but reproducible awareness. Locked-in syndrome differs: awareness can be preserved despite profound paralysis. Locked-in and minimally conscious terminology are retained as supplemental comparisons; the supplied notes do not fully develop them."
       ],
       "terms": [
         {
@@ -3785,7 +3784,7 @@ const CONTENT = {
       "body": [
         "Circadian rhythms are approximately 24-hour cycles. Zeitgebers are synchronizing cues, especially light but also food. Without external cues the textbook describes a clock slightly longer than 24 hours. Pineal melatonin relates to biological night; environmental light helps coordinate timing.",
         "Jet lag is a mismatch between internal time and destination schedule. Eastward travel usually requires an advance (earlier internal sleeping); westward travel requires a delay. For Los Angeles → New York, a destination 10 p.m.–6 a.m. schedule initially feels like 7 p.m.–3 a.m. to the old clock, which helps explain the challenge.",
-        "Shift work and social jet lag can create repeated timing mismatches. Larks and owls differ in preferred schedules; younger people often favor later timing in the notes. These are study concepts, not personalized sleep treatment instructions. Development of sleep is retained; excluded sensory development is a separate topic."
+        "Shift work and social jet lag can create repeated timing mismatches. Larks and owls differ in preferred schedules; younger people often favor later timing. These are study concepts, not personalized sleep treatment instructions. Development of sleep is retained; excluded sensory development is a separate topic."
       ],
       "terms": [
         {
@@ -3838,7 +3837,7 @@ const CONTENT = {
       "body": [
         "Vivid remembered nightmares usually occur in REM; night terrors typically arise from early deep NREM with little later memory. Sleepwalking is a deep-NREM event. REM sleep behavior disorder differs: normal REM atonia is impaired and dreams may be acted out. Sleep paralysis is persistence of immobility around falling asleep or awakening.",
         "Insomnia can concern sleep onset or maintaining sleep. Narcolepsy involves sleep attacks and loss of orexin-related cells, with genetic/autoimmune factors described in the text; cataplexy is loss of muscle tone while consciousness can remain. Cataplexy is not identical to falling asleep.",
-        "Obstructive apnea involves airway blockage; central apnea involves interrupted central breathing drive. Restless legs has dopamine-related links in the notes. The SIDS triple-risk model combines vulnerability, a developmental period and an environmental stressor. Epworth measures reported sleepiness, not all tiredness and not a stand-alone diagnosis."
+        "Obstructive apnea involves airway blockage; central apnea involves interrupted central breathing drive. Restless legs has dopamine-related links. The SIDS triple-risk model combines vulnerability, a developmental period and an environmental stressor. Epworth measures reported sleepiness, not all tiredness and not a stand-alone diagnosis."
       ],
       "terms": [
         {
@@ -4039,7 +4038,7 @@ const CONTENT = {
       "body": [
         "Depressants such as alcohol enhance inhibitory GABA-related signaling and reduce glutamatergic excitation; they also engage reward systems. Stimulants include caffeine, nicotine, cocaine and amphetamine but have different receptor/synapse mechanisms. A shared behavioral class does not mean a shared molecular action.",
         "Opioids act at receptors responsive to endogenous opioid peptides and affect pain, reward and breathing-related systems. “Opiate” refers more narrowly to poppy-derived agents; “opioid” is broader. LSD acts through serotonin-related receptors. THC acts at cannabinoid/endocannabinoid systems, related to anandamide; the textbook groups cannabis with hallucinogens.",
-        "Administration route influences timing: smoking delivers quickly, while chewing can produce slower, prolonged effects in the notes. Tolerance involves compensatory and learned responses; withdrawal can be opposite to the acute effect (for example excitation after depressant cessation). Neither tolerance nor withdrawal alone equals compulsive use despite harm.",
+        "Administration route influences timing: smoking delivers quickly, while chewing can produce slower, prolonged effects. Tolerance involves compensatory and learned responses; withdrawal can be opposite to the acute effect (for example excitation after depressant cessation). Neither tolerance nor withdrawal alone equals compulsive use despite harm.",
         "Do not confuse immediate drug action with adaptation after repeated use. Caffeine is an adenosine antagonist, nicotine an ACh agonist, cocaine a reuptake blocker and amphetamine a release/transporter-altering drug. Review the synapse-mechanism lesson to explain how each changes signaling."
       ],
       "terms": [

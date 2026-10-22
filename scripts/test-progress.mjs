@@ -1,5 +1,5 @@
 import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';import {webcrypto} from 'node:crypto';
-const dist=new URL('../dist/',import.meta.url),raw=fs.readFileSync(process.argv[2],'utf8'),old=JSON.parse(raw),saved=new Map([['psych202-exam1-v1',raw]]),localStorage={getItem:k=>saved.get(k)??null,setItem:(k,v)=>saved.set(k,String(v))};
+const dist=new URL('../site/',import.meta.url),raw=fs.readFileSync(process.argv[2],'utf8'),old=JSON.parse(raw),saved=new Map([['psych202-exam1-v1',raw]]),localStorage={getItem:k=>saved.get(k)??null,setItem:(k,v)=>saved.set(k,String(v))};
 const ctx={console,crypto:webcrypto,Date,localStorage};vm.createContext(ctx);vm.runInContext(fs.readFileSync(new URL('progress.js',dist),'utf8')+'\n'+fs.readFileSync(new URL('storage.js',dist),'utf8')+'\nglobalThis.testAPI={initializeProgress,commitProgress,accountProgress,guestProgress,mergeCloudEvents,mergeProgressExport,appendProgress,events:()=>progressEvents,scope:()=>progressScope};',ctx);const P=ctx.StudyProgress,S=ctx.testAPI;
 const plain=x=>JSON.parse(JSON.stringify(x)),base=S.initializeProgress();
 assert.equal(saved.get('psych202-exam1-v1'),raw);assert.equal(saved.get('psych202-exam1-v1:untouched-backup'),raw);

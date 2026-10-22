@@ -1,15 +1,17 @@
 # PSYCH 202 progress sync
 
+Access control is now enforced by the Sites Worker and live Supabase policies. See [ACCESS-CONTROL.md](../ACCESS-CONTROL.md) for the applied migrations, verified owner setup, rollout, tests, and limitations. ChatGPT sign-in controls site identity; the existing email magic link remains the separate progress-sync and invitation-email verification mechanism.
+
 Supabase project: `psych-202-study` (`eukxeqdiccfdbtdxfcja`).
 
 ## Applied settings
 
-- Site URL changed from `http://localhost:3000` to `https://psych-202-exam-one-study.juliangarfield.chatgpt.site`.
+- Site URL changed from `http://localhost:3000` to `https://psych-202-exam-study.juliangarfield.chatgpt.site`.
 - Authentication redirect allowlist includes that exact live URL. A temporary `http://127.0.0.1:8765` test redirect was added during QA and removed afterward.
 - The browser uses the project's public publishable key and bundled official Supabase JavaScript SDK 2.117.2. No service-role key or database password is in the source.
 - The app offers email magic-link authentication. The dashboard confirms Email enabled, new-user signup allowed, and email confirmation required; these existing settings were preserved. Email delivery settings and other providers were left as configured in the project.
 - Applied both SQL migrations in this directory. `study_events` has forced RLS, owner-only SELECT/INSERT, and no client UPDATE/DELETE permission. Events are immutable and deduplicated by `(user_id, event_id)`.
-- Revoked browser-role execution of the pre-existing security-definer `rls_auto_enable()` function; its event trigger remains active. The subsequent security advisor returned no findings.
+- Revoked browser-role execution of the pre-existing security-definer `rls_auto_enable()` function; its event trigger remains active. That earlier advisor run returned no findings. The current advisor reports a password-protection configuration warning, documented in ACCESS-CONTROL.md.
 
 ## Progress and recovery
 
