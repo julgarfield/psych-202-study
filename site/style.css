@@ -162,3 +162,5 @@ aside details{box-shadow:none}
 .textbook-intro{max-width:72ch}.textbook-chapter{margin:2.5rem 0}.textbook-chapter>h2{margin-bottom:.6rem}.textbook-table{overflow-x:auto;margin:1.2rem 0;border:1px solid var(--soft);border-radius:10px}.textbook-table table{border-collapse:collapse;width:100%;min-width:440px;font-size:.92rem;line-height:1.65}.textbook-table th,.textbook-table td{text-align:left;vertical-align:top;padding:12px;border-bottom:1px solid var(--soft)}.textbook-table th{background:var(--soft);color:var(--ink)}#textbookSearch{width:100%}#textbookPractice .question{margin-top:1.4rem}#textbookNotes .reading{padding-top:12px}#textbookNotes strong{color:var(--ink)}
 
 .textbook-scope{display:flex;align-items:center;gap:10px;margin:1rem 0 1.6rem;font-weight:500}.textbook-scope input{width:18px;height:18px;flex:none}
+/* Unit progress pill hugs its text instead of stretching with a two-line unit title. */
+aside summary small{align-self:center;flex-shrink:0;white-space:nowrap;line-height:1.5}
