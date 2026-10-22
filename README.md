@@ -22,4 +22,6 @@ The standalone local study copy is `site/offline.html`. Account sign-in and sync
 
 Includes the October 22, 2026 audit of all five Exam 2 slide decks, 87 review prompts, and assigned textbook Chapters 7–10. Chapter 10 is separated into Exam 3. Excluded motivation material remains optional. Assigned video contents have not been fully audited.
 
+`site/exam2-gap-fill.js` (October 22) appends 6 lessons and 64 practice questions for review-sheet prompts that had thin or no question coverage. It changes no existing lesson, question or ID. Content marked "background research" goes beyond the supplied slides.
+
 Sites project: `appgprj_6abc330e6534819199785fbb210e759b`.
