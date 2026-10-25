@@ -164,3 +164,9 @@ aside details{box-shadow:none}
 .textbook-scope{display:flex;align-items:center;gap:10px;margin:1rem 0 1.6rem;font-weight:500}.textbook-scope input{width:18px;height:18px;flex:none}
 /* Unit progress pill hugs its text instead of stretching with a two-line unit title. */
 aside summary small{align-self:center;flex-shrink:0;white-space:nowrap;line-height:1.5}
+/* Exam 2 plain-language summary at the top of each lesson. */
+.plain-summary{background:var(--soft);border:1px solid color-mix(in srgb,var(--accent) 25%,var(--line));border-left:5px solid var(--accent);border-radius:14px;padding:20px 24px;margin:8px 0 28px;max-width:760px}
+.plain-summary .plain-idea{font-size:19px;font-weight:700;line-height:1.5;margin:0 0 12px;color:var(--ink)}
+.plain-summary ul{margin:0 0 12px;padding-left:20px}.plain-summary li{font-size:16px;line-height:1.6;margin:6px 0}
+.plain-summary .plain-example{margin:0;font-size:15px;line-height:1.6;background:white;border-radius:10px;padding:10px 14px}
+@media(max-width:720px){.plain-summary{padding:16px}.plain-summary .plain-idea{font-size:17px}}
