@@ -21,7 +21,7 @@
     document.title='Psych 202 · '+e.label+' Study Lab';
     document.querySelector('#courseLabel').textContent='PSYCH 202 / '+e.short;
     document.querySelector('#examDate').textContent=dates[e.id];
-    document.querySelector('#examFormat').textContent=e.id==='exam1'?'56 multiple-choice questions':e.id==='exam2'?'Emotion & motivation · Memory I & II · Learning I & II':e.id==='exam3'?'Chapter 10 · Thinking, language & intelligence':'Material not yet added';
+    document.querySelector('#examFormat').textContent=e.id==='exam1'?'56 multiple-choice questions':e.id==='exam2'?'Emotion & motivation · Memory I & II · Learning I & II':e.id==='exam3'?'Language · Development · Social Psychology':'Material not yet added';
     document.querySelector('#examSelector').value=e.id;
   }
   function renderEmpty(root,id,mode,esc){
