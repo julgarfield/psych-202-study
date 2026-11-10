@@ -170,3 +170,34 @@ aside summary small{align-self:center;flex-shrink:0;white-space:nowrap;line-heig
 .plain-summary ul{margin:0 0 12px;padding-left:20px}.plain-summary li{font-size:16px;line-height:1.6;margin:6px 0}
 .plain-summary .plain-example{margin:0;font-size:15px;line-height:1.6;background:white;border-radius:10px;padding:10px 14px}
 @media(max-width:720px){.plain-summary{padding:16px}.plain-summary .plain-idea{font-size:17px}}
+
+/* Instructor review sheet */
+.review-sheet {max-width: 920px; padding-bottom: 32px}
+.review-intro {max-width: 68ch; line-height: 1.65; color: var(--muted)}
+.review-download {display: inline-flex; margin: 4px 0 28px; text-decoration: none}
+.review-scope {background: var(--soft); border: 1px solid color-mix(in srgb, var(--accent) 20%, var(--line)); border-radius: 16px; padding: 24px 28px; line-height: 1.65}
+.review-scope h2 {margin: 0 0 10px; font-size: 23px}
+.review-scope ul {padding-left: 20px; margin: 8px 0 16px}
+.review-scope li {padding: 3px 0}
+.review-scope p:not(.eyebrow) {margin: 10px 0 0; font-size: 15px}
+.review-jump {display: flex; flex-wrap: wrap; align-items: center; gap: 9px; margin: 26px 0 32px}
+.review-jump span {color: var(--muted); font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: .07em; margin-right: 3px}
+.review-jump a {border: 1px solid var(--line); background: white; color: var(--ink); border-radius: 999px; padding: 8px 13px; font-size: 14px; font-weight: 700; text-decoration: none}
+.review-jump a:hover {border-color: var(--accent); color: var(--accent)}
+.review-chapter {background: #fff; border: 1px solid var(--line); border-radius: 18px; padding: 28px 30px; margin: 0 0 24px; scroll-margin-top: 24px; box-shadow: var(--shadow)}
+.review-chapter-heading {display: flex; gap: 16px; align-items: flex-start; padding-bottom: 20px; border-bottom: 1px solid var(--line)}
+.review-chapter-heading h2 {font-size: 28px; margin: 2px 0 0; line-height: 1.2}
+.review-chapter-heading .eyebrow {margin: 0}
+.review-chapter-number {display: grid; place-items: center; flex: 0 0 42px; height: 42px; border-radius: 12px; background: var(--soft); color: var(--accent); font-weight: 800; font-size: 14px}
+.review-block {margin-top: 26px}
+.review-block h3 {font-family: Inter, sans-serif; font-size: 13px; text-transform: uppercase; letter-spacing: .075em; margin: 0 0 12px; color: var(--muted)}
+.review-questions {padding: 0; margin: 0; list-style: none; counter-reset: review-question}
+.review-questions li {counter-increment: review-question; position: relative; padding: 10px 0 10px 38px; line-height: 1.6; border-bottom: 1px solid var(--soft)}
+.review-questions li::before {content: counter(review-question, decimal-leading-zero); position: absolute; left: 0; top: 12px; color: var(--accent); font-size: 12px; font-weight: 800}
+.review-questions li:last-child {border-bottom: 0}
+.review-videos {list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px}
+.review-videos a {display: inline-block; padding: 8px 12px; background: var(--soft); border-radius: 9px; color: var(--ink); font-size: 14px; font-weight: 700; text-decoration: none}
+.review-videos a:hover {color: var(--accent); text-decoration: underline}
+.review-exclusion {margin: 22px 0 0; padding: 14px 16px; background: var(--soft); border-left: 4px solid var(--accent); border-radius: 8px; line-height: 1.6; font-size: 15px}
+.review-exclusion strong {display: block; color: var(--accent); font-size: 12px; text-transform: uppercase; letter-spacing: .06em}
+@media (max-width: 720px) {.review-scope,.review-chapter {padding: 20px 18px}.review-chapter-heading h2 {font-size: 23px}.review-jump {gap: 7px}.review-questions li {padding-left: 34px}}
