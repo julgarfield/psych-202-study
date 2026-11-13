@@ -2,7 +2,10 @@
 (() => {
   'use strict';
   const material=()=>globalThis.EXAM3_CONTENT;
-  const progress=()=>Exam3Store.state();
+  const progress=()=>{const p=Exam3Store.state(),m=material();
+ const completed=new Set(p.completed);
+ for(const l of m.lessons){const old=l.previousLessonIds||[l.id];if(old.every(id=>completed.has(id)))completed.add(l.id);else if(old.length>1&&completed.has(l.id)&&!l.questions.every(q=>p.questions[q.id]?.attempts))completed.delete(l.id);}
+ return {...p,completed:[...completed],lastLesson:m.lessonAliases?.[p.lastLesson]||p.lastLesson};};
   const qs=()=>material().lessons.flatMap(l=>l.questions.map((q,i)=>({...q,id:q.id||l.id+'-q'+i,lessonId:l.id,unit:l.unit,source:q.source||l.source,examEligible:l.examEligible!==false,kind:q.kind||'lecture'})));
   const scopeControl=()=>'';
   const scopePool=pool=>pool.filter(q=>includeEnrichment||q.examEligible!==false);
@@ -18,7 +21,7 @@
   function update(){const m=metrics();$('#progress').max=m.totalLessons;$('#progress').value=m.completedLessons;$('#progressLabel').textContent=m.completedLessons+' / '+m.totalLessons+' Exam 3 lessons reviewed';$('#scoreLabel').textContent=m.attempted?m.accuracy+'% current accuracy · '+m.attempted+'/'+m.total+' questions attempted':'Start with one Exam 3 topic';$('#scoreLabel').title='Exam 3 progress only';$('#resume').hidden=false;}
   function sidebarView(){const p=progress(),ls=material().lessons,l=currentLesson(),units=[...new Set(ls.map(l=>l.unit))];$('#sidebar').innerHTML=`<select class="mobile-lessons" aria-label="Choose Exam 3 lesson">${units.map(u=>`<optgroup label="${esc(u)}">${ls.filter(l=>l.unit===u).map(x=>`<option value="${x.id}" ${x.id===l.id?'selected':''}>${p.completed.includes(x.id)?'✓ ':''}${esc(x.title)}</option>`).join('')}</optgroup>`).join('')}</select><div class="desktop-lessons"><p class="label">EXAM 03 / COURSE PATH</p>${units.map((u,i)=>`<details ${u===l.unit?'open':''}><summary>${i+1}. ${esc(u)}<small>${ls.filter(x=>x.unit===u&&p.completed.includes(x.id)).length}/${ls.filter(x=>x.unit===u).length}</small></summary>${ls.filter(x=>x.unit===u).map(x=>`<button data-exam3-lesson="${x.id}" class="${x.id===l.id&&view==='learn'?'selected':''}" ${x.id===l.id&&view==='learn'?'aria-current="page"':''}><span class="num">${p.completed.includes(x.id)?'✓':String(ls.indexOf(x)+1).padStart(2,'0')}</span><span class="lesson-nav-title">${esc(x.title)}<small class="lesson-accuracy">${StudyProgress.metrics(p,qs().filter(q=>q.lessonId===x.id).map(q=>q.id)).accuracy??'—'}% current accuracy</small></span></button>`).join('')}</details>`).join('')}<div class="gap-card"><strong>Exam 3 · study path</strong>Language, development, and social psychology.<button class="text-btn" data-view="coverage">View coverage</button></div></div>`;$('#sidebar select').onchange=e=>open(e.target.value);wireLessons($('#sidebar'));}
   function wireLessons(root){root.querySelectorAll('[data-exam3-lesson]').forEach(b=>b.onclick=()=>open(b.dataset.exam3Lesson));}
-  function open(id){if(!material().lessons.some(l=>l.id===id))return;lesson=id;write('lastLesson',id,{});view='learn';render();scrollMain();}
+  function open(id){id=material().lessonAliases?.[id]||id;if(!material().lessons.some(l=>l.id===id))return;lesson=id;write('lastLesson',id,{});view='learn';render();scrollMain();}
   function resume(){open(material().lessons.find(l=>(includeEnrichment||l.examEligible!==false)&&!progress().completed.includes(l.id))?.id||currentLesson().id);}
   function questionHTML(q){return `<section class="question" role="group" aria-labelledby="${q.id}-prompt" data-exam3-q="${q.id}"><h3 class="question-prompt" id="${q.id}-prompt">${esc(q.prompt)}</h3>${progress().questions[q.id]&&!progress().questions[q.id].lastCorrect?'<div class="missed-marker">Latest answer incorrect · try again</div>':''}<div class="choices">${choices(q).map((c,i)=>`<button class="choice" type="button" data-exam3-answer="${i}"><span class="letter">${'ABCD'[i]}</span><span>${esc(c.label)}</span></button>`).join('')}</div><div class="feedback" role="status" hidden></div></section>`;}
   function wireQuestion(root,q,after=()=>{},type='answer'){

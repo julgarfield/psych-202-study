@@ -49,3 +49,19 @@ assert(!adolescent.questions.some(q=>/30-year-old|80-year-old|9-year-old|crisis 
 assert(!m.lessons.find(l=>l.id==='exam3-gapfill-dev-attachment').terms.some(t=>t.term==='Disorganized attachment'));
 assert(m.transcriptScope.includes('Full linked videos'));
 console.log('PASS: transcript integration, retained question/card identities, and instructor scope.');
+
+// Consolidated navigation must retain all active practice and source coverage.
+const priorQuestions=new Map(m.lessons.flatMap(l=>l.questions.map(q=>[q.id,q.prompt])));
+const priorCards=new Map(m.lessons.flatMap(l=>l.terms.map(t=>[t.id,t.term])));
+const priorLessons=m.lessons.map(l=>l.id);
+vm.runInContext(fs.readFileSync(new URL('exam3-consolidate.js',site),'utf8'),c,{filename:'exam3-consolidate.js'});
+assert.equal(m.lessons.length,28);
+const finalIds=new Set(m.lessons.map(l=>l.id));
+for(const old of priorLessons)assert(finalIds.has(m.lessonAliases[old]),'Missing old lesson alias '+old);
+const finalQuestions=new Map(m.lessons.flatMap(l=>l.questions.map(q=>[q.id,q.prompt])));
+const finalCards=new Map(m.lessons.flatMap(l=>l.terms.map(t=>[t.id,t.term])));
+assert.deepEqual(finalQuestions,priorQuestions,'Question content/identity must survive consolidation');
+assert.deepEqual(finalCards,priorCards,'Card content/identity must survive consolidation');
+for(const ch of c.__sheet.chapters)for(const line of [...ch.lecture,...ch.text])assert(m.reviewLessons(line).length&&m.reviewLessons(line).every(id=>finalIds.has(id)),line);
+assert(m.lessons.every(l=>l.body.length&&l.questions.length&&l.terms.length));
+console.log('PASS: 28 consolidated sections retain all 270 questions, 182 cards, 59 legacy lesson aliases and 92 review links.');
