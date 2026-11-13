@@ -2,9 +2,13 @@
 import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';
 const site=new URL('../site/',import.meta.url),c={};vm.createContext(c);
 const order=fs.readFileSync(new URL('index.html',site),'utf8').match(/<script src="[^"]+"/g).map(s=>s.slice(13,-1).split('?')[0]);
-const upto=order.indexOf('exam3-gap-fill.js');assert(upto>order.indexOf('exam3-review-sheet.js'),'Gap fill must load after the review sheet');
+const upto=order.indexOf('exam3-transcript-review.js');assert(upto>order.indexOf('exam3-review-sheet.js'),'Gap fill must load after the review sheet');
 assert(order.indexOf('exam3-study.js')>upto,'Gap fill must load before the study interface');
-for(const f of ['exam2-content.js','textbook-content.js','textbook-integration-data.js','textbook-integration.js','course-audit-data.js','course-audit.js','exam2-gap-fill.js',...order.slice(order.indexOf('exam3-lectures.js'),upto+1)])vm.runInContext(fs.readFileSync(new URL(f,site),'utf8'),c,{filename:f});
+let beforeTranscript;
+for(const f of ['exam2-content.js','textbook-content.js','textbook-integration-data.js','textbook-integration.js','course-audit-data.js','course-audit.js','exam2-gap-fill.js',...order.slice(order.indexOf('exam3-lectures.js'),upto+1)]){
+ if(f==='exam3-transcript-review.js')beforeTranscript=JSON.parse(JSON.stringify(c.EXAM3_CONTENT));
+ vm.runInContext(fs.readFileSync(new URL(f,site),'utf8'),c,{filename:f});
+}
 const m=c.EXAM3_CONTENT;
 assert.deepEqual([...(m.gapWarnings||[])],[],'Gap-fill repairs did not apply cleanly');
 const ids=new Set(),qids=new Set(),prompts=new Set();let questions=0,cards=0,gapLessons=0,gapQuestions=0;const positions=[0,0,0,0];
@@ -33,3 +37,15 @@ for(const ch of c.__sheet.chapters){for(const line of [...ch.lecture,...ch.text]
 for(const [key] of m.reviewMap)assert(c.__sheet.chapters.some(ch=>[...ch.lecture,...ch.text].some(line=>line.includes(key))),'Review map key matches nothing: '+key);
 assert.equal(m.videos[0].title,'Asch conformity study');assert.equal(m.videos.length,15);
 console.log(JSON.stringify({passed:true,exam:'Exam 3',lessons:m.lessons.length,questions,cards,groups:m.groups.length,figures:m.diagrams.length,clips:m.videos.length,gapLessons,gapQuestions,reviewPrompts,videoLinks,checks:'Unique lesson/question IDs and prompts; four distinct options; no filler distractors; correct answers spread across positions; figure assets present; every review-sheet lecture/text prompt linked to a lesson; every assigned clip listed. Semantic review conducted separately against the slides.'}));
+
+assert(m.transcriptReviewed,'Transcript review must run');
+for(const l of m.lessons){
+ const old=beforeTranscript.lessons.find(x=>x.id===l.id);
+ for(const q of l.questions){const previous=old.questions.find(x=>x.prompt===q.prompt);if(previous)assert.equal(q.id,previous.id,'Existing question identity changed');}
+ for(const t of l.terms){const index=old.terms.findIndex(x=>x.term===t.term);if(index>=0)assert.equal(t.id,old.terms[index].id||old.id+'-c'+index,'Existing card identity changed');}
+}
+const adolescent=m.lessons.find(l=>l.id==='exam3-gapfill-dev-adolescence');
+assert(!adolescent.questions.some(q=>/30-year-old|80-year-old|9-year-old|crisis for adolescence/.test(q.prompt)));
+assert(!m.lessons.find(l=>l.id==='exam3-gapfill-dev-attachment').terms.some(t=>t.term==='Disorganized attachment'));
+assert(m.transcriptScope.includes('Full linked videos'));
+console.log('PASS: transcript integration, retained question/card identities, and instructor scope.');

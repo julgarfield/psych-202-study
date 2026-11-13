@@ -8,7 +8,7 @@
  body:[
   'Three building blocks. Phonemes are the basic speech sounds of a language (the "k" sound in cat). Morphemes are the smallest pieces of speech that carry meaning: whole words, but also prefixes and word endings. "Unhappy" has two morphemes (un + happy); "dogs" has two (dog + s). Grammar is the set of rules for combining morphemes into phrases and sentences.',
   'Production is the ability to use language; comprehension is the ability to understand it. Comprehension develops before production: a child understands words and requests before being able to say them.',
-  'Lecture milestones: babbling at 4–6 months, first words at 10–12 months, a vocabulary of 30–50 words at 18 months, and basic grammar at 18–24 months.',
+  'Lecture milestones progress from babbling to first words, a growing vocabulary, and basic grammar. The instructor said to focus on the sequence rather than memorize exact ages (Oct. 29 lecture).',
   'Babbling is experimentation with the sounds of language. It produces phonemes, follows no grammar rules, and is repetitive ("ba-ba-ba"). Its function is practice: the infant rehearses the sounds that will later be assembled into words. Babbling is not only vocal. Infants exposed to ASL babble manually, with their hands. The "babbling twins" clip shows two infants trading babble with the turn-taking and intonation of a conversation but no words.',
   'Do animals babble? Yes: the lecture cites evidence in birds, monkeys and bats. In songbirds, babbling (often called subsong) is important for young males learning their song. The slide example is babbling in juvenile Bewick’s wrens.'
  ],
@@ -18,7 +18,7 @@
   ['Manual babbling','Babbling with the hands by infants exposed to a signed language such as ASL.'],
   ['Language milestones (lecture)','Babbling 4–6 months; first words 10–12 months; 30–50 words at 18 months; basic grammar 18–24 months.']
  ],
- recall:'Give the four lecture milestones with ages, then say what babbling is, what it is for, and which animals do it.',
+ recall:'Give the sequence of language milestones, then explain babbling and give animal examples. Exact ages are not required according to the instructor.',
  qs:[
   ['How many morphemes are in the word "unhappy"?',['Two: "un" and "happy"','One, because it is a single word','Three, one per syllable','Seven, one per letter'],'A morpheme is a unit of meaning. "Un" (not) and "happy" each carry meaning; syllables and letters are not the unit.'],
   ['According to the lecture, when do first words typically appear?',['10–12 months','4–6 months','18–24 months','About 3 years'],'First words come at 10–12 months. Babbling is 4–6 months and basic grammar is 18–24 months.'],
@@ -37,9 +37,9 @@
  body:[
   'The lecture puts the sensitive period for language learning at 7 months in utero to about 6 years. During it, exposure to language is critical and language is easier to learn than it will ever be again.',
   'How do we know it starts before birth? Hearing is working by about 30 weeks of gestational age, so the fetus hears its mother’s speech for the last ten weeks or so. Moon, Lagercrantz and Kuhl (2013) tested infants about 30 hours old in the United States and Sweden. Each baby heard vowel sounds from either the native language or a foreign one, and sucked on a pacifier wired to a computer.',
-  'Result: babies sucked more for the foreign vowels than for native vowels, in both countries, and it did not matter how many hours old they were. Infants respond more to what is novel, so the native vowels were already familiar. With only hours of life outside the womb, that familiarity had to come from prenatal exposure.',
+  'Result: babies sucked more for the foreign vowels than for native vowels, in both countries, and it did not matter how many hours old they were. The instructor emphasized the difference in responses as evidence that infants could distinguish the vowel sets; the direction itself was not the important point to memorize. With only hours of life outside the womb, that familiarity had to come from prenatal exposure.',
   'What happens without exposure? "Feral" children such as Genie and Oxana were deprived of normal language input during the sensitive period. They later learned some words and some language skills but did not develop normal language, grammar especially. Caution: these children also suffered severe neglect, so language deprivation is not the only thing that differed.',
-  'Social interaction matters. Conversing with a child produces better language competence than reading to them, and a real speaker teaches more than a TV or computer. Exposure alone is not enough; the back-and-forth is what counts.'
+  'Social interaction matters. Conversing with a child produces better language competence than reading to them, and a real speaker teaches more than a TV or computer. The instructor emphasized the benefit of back-and-forth interaction; reading and other media can still have value.'
  ],
  terms:[
   ['Sensitive period for language (lecture)','About 7 months in utero to 6 years: the window when language exposure is critical and learning is easiest.'],
@@ -115,11 +115,11 @@
 {
  id:'language-disorders',unit:'Language',after:'exam3-gapfill-language-adult',
  title:'Language disorders: aphasias, stuttering and dyslexia',
- source:'202 F26 Language.pptx · slides 25–31. The causes of stuttering are not written on the slide (it only asks "Causes?"); that paragraph is background research, not lecture content',
+ source:'202 F26 Language.pptx · slides 25–31. The Oct. 29 lecture mentions a genetic predisposition for stuttering; other causes are supplemental background',
  body:[
   'Aphasia is a loss of the ability to speak or understand language, usually after brain damage such as a stroke. Broca’s aphasia is expressive: the person understands fairly well but speech is slow, effortful and telegraphic. Wernicke’s aphasia is receptive: speech flows easily but makes little sense, and comprehension is poor. Anomic aphasia is a word-finding problem; the lecture says especially with actions. The person knows what they want to say but cannot retrieve the word.',
   'Stuttering is a disruption in the flow of speech. Three symptoms from lecture: repetition of sounds or syllables ("b-b-ball"), prolongation of sounds ("sssun"), and blocks, where no sound comes out. Stuttering can vary by context: many people who stutter are fluent when singing, speaking alone, or speaking in unison, and less fluent under time pressure or on the phone.',
-  'Causes of stuttering (background, not on the slide): no single cause is known. Research points to a genetic contribution, since it runs in families, and to differences in how the brain coordinates speech timing and movement. It is more common in boys and usually begins in early childhood. Stress or anxiety can make stuttering worse but are not thought to cause it. Use whatever your lecture notes say first.',
+  'Causes of stuttering: the instructor noted a significant genetic predisposition. Additional background: no single cause is known; research also points to differences in how the brain coordinates speech timing and movement. It is more common in boys and usually begins in early childhood. Stress or anxiety can make stuttering worse but are not thought to cause it. Use whatever your lecture notes say first.',
   'Dyslexia is difficulty with reading and is classified as a learning disorder. Problems may include: writing and spelling words; reading quickly; pronouncing words when reading aloud and "sounding out" words; understanding what one reads; and distinguishing between similar-sounding phonemes. Dyslexia is not associated with intelligence level, and there is a genetic predisposition.'
  ],
  terms:[

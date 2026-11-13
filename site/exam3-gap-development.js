@@ -189,7 +189,7 @@
 },
 {
  id:'dev-adolescence',unit:'Development',after:'exam3-lecture-9',
- title:'The adolescent brain, risk and Erikson’s eight stages',
+ title:'The adolescent brain, risk and Erikson’s theory',
  source:'202 F26 Development II.pptx · slides 14–19 (Erikson table on slide 19)',
  body:[
   'Brain changes in adolescence: growth of white matter through myelination, which speeds communication between regions; an amygdala that is already fully developed; and a frontal cortex that keeps developing into the early 20s. The emotional system is mature before the control system is.',
@@ -197,7 +197,7 @@
   'Why the risky behavior? Not because teens cannot judge risk: the lecture says there are no problems with teens’ ability to judge what is risky. The difference is that teens are more likely to believe they are immune from the consequences. This links to brain development: the frontal cortex, which handles planning, judgment and impulse control, is unfinished.',
   'Interpreting emotion: adults are better than teens at identifying expressed emotion in faces. Teens rely more on the amygdala when reading faces; adults bring in the frontal lobes.',
   'Erikson described psychosocial development across the whole lifespan. Each stage has a "crisis" that can resolve toward a positive or a negative outcome. The eight, with the ages on the slide: trust vs. mistrust (infant–18 months); autonomy vs. shame and doubt (18 months–3 years); initiative vs. guilt (3–5); industry vs. inferiority (5–13); identity vs. role confusion (13–21); intimacy vs. isolation (21–39); generativity vs. stagnation (40–65); ego integrity vs. despair (65 and older).',
-  'A way to remember them in order: Trust, Autonomy, Initiative, Industry, Identity, Intimacy, Generativity, Integrity. The first four are childhood, identity is adolescence, the last three are adulthood.'
+  'Exam emphasis (Nov. 10 lecture): understand the idea of a psychosocial crisis and the two examples discussed: trust versus mistrust and generativity versus stagnation. The instructor said the other six stages are not required.'
  ],
  terms:[
   ['Adolescent brain development','White matter and myelination increase; the amygdala is fully developed; the frontal cortex develops into the early 20s.'],
@@ -209,7 +209,7 @@
   ['Intimacy versus isolation','Erikson’s sixth stage, young adulthood (21–39).'],
   ['Ego integrity versus despair','Erikson’s eighth stage, 65 and older.']
  ],
- recall:'Describe three adolescent brain changes and the lecture’s explanation of risk taking, then list Erikson’s eight stages in order.',
+ recall:'Describe three adolescent brain changes and the lecture’s explanation of risk taking, then explain Erikson’s crisis and the two lecture examples: trust versus mistrust and generativity versus stagnation.',
  extraFigures:[{image:'assets/exam3/figures/erikson.jpg',alt:'Table of Erikson’s eight psychosocial crises with approximate ages.',caption:'Erikson’s stages · Development II slide 19'}],
  qs:[
   ['Which brain structure is described as fully developed in adolescence?',['The amygdala','The frontal cortex','Broca’s area','The cerebellum'],'The amygdala is mature while the frontal cortex is still developing.'],
