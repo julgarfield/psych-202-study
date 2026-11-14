@@ -65,3 +65,8 @@ assert.deepEqual(finalCards,priorCards,'Card content/identity must survive conso
 for(const ch of c.__sheet.chapters)for(const line of [...ch.lecture,...ch.text])assert(m.reviewLessons(line).length&&m.reviewLessons(line).every(id=>finalIds.has(id)),line);
 assert(m.lessons.every(l=>l.body.length&&l.questions.length&&l.terms.length));
 console.log('PASS: 28 consolidated sections retain all 270 questions, 182 cards, 59 legacy lesson aliases and 92 review links.');
+vm.runInContext(fs.readFileSync(new URL('exam3-instructor-scope.js',site),'utf8'),c);
+assert(!m.lessons.some(l=>l.questions.some(q=>/groupthink|Janis|Pearl Harbor/i.test(q.prompt+' '+q.choices[q.correct]))));
+assert(m.transcriptScope.includes('1:07:11'));
+assert(m.lessons.find(l=>l.id==='exam3-gapfill-social-milgram').body.some(p=>p.includes('people without power')));
+console.log('PASS: instructor email exclusions, victim deindividuation, and required catch-up resources.');
